@@ -1,5 +1,5 @@
-# IndicMatraCategory-7.0.0.txt
-# Date: 2014-06-03, 07:00:00 GMT [KW, LI, AG, RP]
+# IndicPositionalCategory-8.0.0.txt
+# Date: 2014-06-26, 00:01:00 GMT [RP]
 #
 # Unicode Character Database
 # Copyright (c) 1991-2014 Unicode, Inc.
@@ -9,7 +9,7 @@
 #
 # This file defines the following provisional property:
 #
-#    Indic_Matra_Category     enumerated property
+#    Indic_Positional_Category     enumerated property
 #
 # NB: Provisional properties and data files have no associated stability
 # guarantees. They are provided in part to determine the possible usefulness
@@ -20,11 +20,11 @@
 #
 # Scope: This provisional property is aimed at the problem of
 # the specification of syllabic structure for Indic scripts.
-# Because dependent vowels (and visible viramas, where they occur)
-# are placed in notional slots around the consonant (or consonant
-# cluster) core of an Indic syllable, there may be cooccurrence
-# constraints or other interactions. Also, it may be desirable,
-# in cases where more than one dependent vowel may occur in
+# Because dependent vowels (matras), visible viramas, and other
+# characters are placed in notional slots around the consonant (or
+# consonant cluster) core of an Indic syllable, there may be
+# cooccurrence constraints or other interactions. Also, it may be
+# desirable, in cases where more than one such character may occur in
 # sequence, as for example, in a top slot and a bottom slot, to
 # specify preferred orders for spelling. As such, this property
 # is designed primarily to supplement the Indic_Syllabic_Category
@@ -35,7 +35,7 @@
 # for a number of reasons. Good font design requires information
 # that is outside the context of a character encoding standard,
 # and is best handled in other venues. For Indic dependent
-# vowels, in particular:
+# vowels and similar characters, in particular:
 #
 #   1. Matra placement may vary somewhat based on typeface design.
 #   2. Matra placement, even within a single script, may vary
@@ -52,15 +52,16 @@
 #
 # Format:
 #    Field 0  Unicode code point value or range of code point values
-#    Field 1  Indic_Matra_Category property value
+#    Field 1  Indic_Positional_Category property value
 #
 # Field 1 is followed by a comment field, starting with the number sign '#',
 # which shows the General_Category property value, the Unicode character name
 # or names, and, in lines with ranges of code points, the code point count in
 # square brackets.
 #
-# The scripts assessed as containing dependent vowels or viramas in the
-# structural sense used for the Indic_Matra_Category are the following:
+# The scripts assessed as containing dependent vowels or similar characters
+# in the structural sense used for the Indic_Positional_Category are the
+# following:
 #
 # Balinese, Batak, Bengali, Brahmi, Buginese, Buhid, Chakma, Cham,
 # Devanagari, Grantha, Gujarati, Gurmukhi, Hanunoo, Javanese, Kaithi,
@@ -75,22 +76,22 @@
 #
 # See IndicSyllabicCategory.txt for a slightly more extended
 # list of Indic scripts, including those which do not have
-# dependent vowel characters. Currently, those additional
-# Indic scripts without dependent vowel characters are
+# positional characters. Currently, those additional
+# Indic scripts without positional characters are
 # Kayah Li, Mahajani, Phags-pa, and Tai Le.
 #
 
 # ================================================
 
-# Property: Indic_Matra_Category
+# Property: Indic_Positional_Category
 #
-#  All code points not explicitly listed for Indic_Matra_Category
+#  All code points not explicitly listed for Indic_Positional_Category
 #  have the value NA (not applicable).
 #
 # @missing: 0000..10FFFF; NA
 
 # Only characters from the following syllabic categories have
-# a non-default value for the Indic_Matra_Category property:
+# a non-default value for the Indic_Positional_Category property:
 #   - dependent vowels (Indic_Syllabic_Category=Vowel_Dependent)
 #   - viramas (Indic_Syllabic_Category=Virama)
 #   - pure killers (Indic_Syllabic_Category=Pure_Killer)
@@ -104,7 +105,7 @@
 
 # ------------------------------------------------
 
-# Indic_Matra_Category=Right
+# Indic_Positional_Category=Right
 
 093B          ; Right # Mc       DEVANAGARI VOWEL SIGN OOE
 093E          ; Right # Mc       DEVANAGARI VOWEL SIGN AA
@@ -166,6 +167,7 @@
 1BF2..1BF3    ; Right # Mc   [2] BATAK PANGOLAT..BATAK PANONGONAN
 1C26          ; Right # Mc       LEPCHA VOWEL SIGN AA
 1C2A..1C2B    ; Right # Mc   [2] LEPCHA VOWEL SIGN U..LEPCHA VOWEL SIGN UU
+1CE1          ; Right # Mc       VEDIC TONE ATHARVAVEDIC INDEPENDENT SVARITA
 A823..A824    ; Right # Mc   [2] SYLOTI NAGRI VOWEL SIGN A..SYLOTI NAGRI VOWEL SIGN I
 A827          ; Right # Mc       SYLOTI NAGRI VOWEL SIGN OO
 A8B5..A8C3    ; Right # Mc  [15] SAURASHTRA VOWEL SIGN AA..SAURASHTRA VOWEL SIGN AU
@@ -204,7 +206,7 @@ ABE9..ABEA    ; Right # Mc   [2] MEETEI MAYEK VOWEL SIGN CHEINAP..MEETEI MAYEK V
 1163B..1163C  ; Right # Mc   [2] MODI VOWEL SIGN O..MODI VOWEL SIGN AU
 116AF         ; Right # Mc       TAKRI VOWEL SIGN II
 
-# Indic_Matra_Category=Left
+# Indic_Positional_Category=Left
 
 093F          ; Left # Mc       DEVANAGARI VOWEL SIGN I
 094E          ; Left # Mc       DEVANAGARI VOWEL SIGN PRISHTHAMATRA E
@@ -245,7 +247,7 @@ AAEE          ; Left # Mc       MEETEI MAYEK VOWEL SIGN AU
 115B8         ; Left # Mc       SIDDHAM VOWEL SIGN E
 116AE         ; Left # Mc       TAKRI VOWEL SIGN I
 
-# Indic_Matra_Category=Visual_Order_Left
+# Indic_Positional_Category=Visual_Order_Left
 
 # These are dependent vowels that occur to the left of the consonant
 # letter in a syllable, but which occur in scripts using the visual order
@@ -261,7 +263,7 @@ AAB5..AAB6    ; Visual_Order_Left # Lo   [2] TAI VIET VOWEL E..TAI VIET VOWEL O
 AAB9          ; Visual_Order_Left # Lo       TAI VIET VOWEL UEA
 AABB..AABC    ; Visual_Order_Left # Lo   [2] TAI VIET VOWEL AUE..TAI VIET VOWEL AY
 
-# Indic_Matra_Category=Left_And_Right
+# Indic_Positional_Category=Left_And_Right
 
 09CB..09CC    ; Left_And_Right # Mc   [2] BENGALI VOWEL SIGN O..BENGALI VOWEL SIGN AU
 0B4B          ; Left_And_Right # Mc       ORIYA VOWEL SIGN O
@@ -277,11 +279,12 @@ AABB..AABC    ; Visual_Order_Left # Lo   [2] TAI VIET VOWEL AUE..TAI VIET VOWEL 
 114BE         ; Left_And_Right # Mc       TIRHUTA VOWEL SIGN AU
 115BA         ; Left_And_Right # Mc       SIDDHAM VOWEL SIGN O
 
-# Indic_Matra_Category=Top
+# Indic_Positional_Category=Top
 
 093A          ; Top # Mn       DEVANAGARI VOWEL SIGN OE
 0945..0948    ; Top # Mn   [4] DEVANAGARI VOWEL SIGN CANDRA E..DEVANAGARI VOWEL SIGN AI
-0955          ; Top # Mn       DEVANAGARI VOWEL SIGN CANDRA LONG E
+0951          ; Top # Mn       DEVANAGARI STRESS SIGN UDATTA
+0953..0955    ; Top # Mn   [3] DEVANAGARI GRAVE ACCENT..DEVANAGARI VOWEL SIGN CANDRA LONG E
 0A47..0A48    ; Top # Mn   [2] GURMUKHI VOWEL SIGN EE..GURMUKHI VOWEL SIGN AI
 0A4B..0A4C    ; Top # Mn   [2] GURMUKHI VOWEL SIGN OO..GURMUKHI VOWEL SIGN AU
 0A71          ; Top # Mn       GURMUKHI ADDAK
@@ -339,6 +342,10 @@ AABB..AABC    ; Visual_Order_Left # Lo   [2] TAI VIET VOWEL AUE..TAI VIET VOWEL 
 1BE8..1BE9    ; Top # Mn   [2] BATAK VOWEL SIGN PAKPAK E..BATAK VOWEL SIGN EE
 1BED          ; Top # Mn       BATAK VOWEL SIGN KARO O
 1BEF          ; Top # Mn       BATAK VOWEL SIGN U FOR SIMALUNGUN SA
+1CD0..1CD2    ; Top # Mn   [3] VEDIC TONE KARSHANA..VEDIC TONE PRENKHA
+1CDA..1CDB    ; Top # Mn   [2] VEDIC TONE DOUBLE SVARITA..VEDIC TONE TRIPLE SVARITA
+1CE0          ; Top # Mn       VEDIC TONE RIGVEDIC KASHMIRI INDEPENDENT SVARITA
+1CF4          ; Top # Mn       VEDIC TONE CANDRA ABOVE
 A806          ; Top # Mn       SYLOTI NAGRI SIGN HASANTA
 A826          ; Top # Mn       SYLOTI NAGRI VOWEL SIGN E
 A94A          ; Top # Mn       REJANG VOWEL SIGN AI
@@ -372,10 +379,11 @@ ABE5          ; Top # Mn       MEETEI MAYEK VOWEL SIGN ANAP
 116B2..116B5  ; Top # Mn   [4] TAKRI VOWEL SIGN E..TAKRI VOWEL SIGN AU
 116B6         ; Top # Mc       TAKRI SIGN VIRAMA
 
-# Indic_Matra_Category=Bottom
+# Indic_Positional_Category=Bottom
 
 0941..0944    ; Bottom # Mn   [4] DEVANAGARI VOWEL SIGN U..DEVANAGARI VOWEL SIGN VOCALIC RR
 094D          ; Bottom # Mn       DEVANAGARI SIGN VIRAMA
+0952          ; Bottom # Mn       DEVANAGARI STRESS SIGN ANUDATTA
 0956..0957    ; Bottom # Mn   [2] DEVANAGARI VOWEL SIGN UE..DEVANAGARI VOWEL SIGN UUE
 0962..0963    ; Bottom # Mn   [2] DEVANAGARI VOWEL SIGN VOCALIC L..DEVANAGARI VOWEL SIGN VOCALIC LL
 09C1..09C4    ; Bottom # Mn   [4] BENGALI VOWEL SIGN U..BENGALI VOWEL SIGN VOCALIC RR
@@ -417,6 +425,9 @@ ABE5          ; Top # Mn       MEETEI MAYEK VOWEL SIGN ANAP
 1B38..1B3A    ; Bottom # Mn   [3] BALINESE VOWEL SIGN SUKU..BALINESE VOWEL SIGN RA REPA
 1BA5          ; Bottom # Mn       SUNDANESE VOWEL SIGN PANYUKU
 1C2C          ; Bottom # Mn       LEPCHA VOWEL SIGN E
+1CD5..1CD9    ; Bottom # Mn   [5] VEDIC TONE YAJURVEDIC AGGRAVATED INDEPENDENT SVARITA..VEDIC TONE YAJURVEDIC KATHAKA INDEPENDENT SVARITA SCHROEDER
+1CDC..1CDF    ; Bottom # Mn   [4] VEDIC TONE KATHAKA ANUDATTA..VEDIC TONE THREE DOTS BELOW
+1CED          ; Bottom # Mn       VEDIC SIGN TIRYAK
 A825          ; Bottom # Mn       SYLOTI NAGRI VOWEL SIGN U
 A8C4          ; Bottom # Mn       SAURASHTRA SIGN VIRAMA
 A947..A949    ; Bottom # Mn   [3] REJANG VOWEL SIGN I..REJANG VOWEL SIGN E
@@ -447,7 +458,7 @@ ABED          ; Bottom # Mn       MEETEI MAYEK APUN IYEK
 1163F         ; Bottom # Mn       MODI SIGN VIRAMA
 116B0..116B1  ; Bottom # Mn   [2] TAKRI VOWEL SIGN U..TAKRI VOWEL SIGN UU
 
-# Indic_Matra_Category=Top_And_Bottom
+# Indic_Positional_Category=Top_And_Bottom
 
 0C48          ; Top_And_Bottom # Mn       TELUGU VOWEL SIGN AI
 0F73          ; Top_And_Bottom # Mn       TIBETAN VOWEL SIGN II
@@ -456,7 +467,7 @@ ABED          ; Bottom # Mn       MEETEI MAYEK APUN IYEK
 1B3C          ; Top_And_Bottom # Mn       BALINESE VOWEL SIGN LA LENGA
 1112E..1112F  ; Top_And_Bottom # Mn   [2] CHAKMA VOWEL SIGN O..CHAKMA VOWEL SIGN AU
 
-# Indic_Matra_Category=Top_And_Right
+# Indic_Positional_Category=Top_And_Right
 
 0AC9          ; Top_And_Right # Mc       GUJARATI VOWEL SIGN CANDRA O
 0B57          ; Top_And_Right # Mc       ORIYA AU LENGTH MARK
@@ -468,7 +479,7 @@ ABED          ; Bottom # Mn       MEETEI MAYEK APUN IYEK
 111BF         ; Top_And_Right # Mc       SHARADA VOWEL SIGN AU
 11232..11233  ; Top_And_Right # Mc   [2] KHOJKI VOWEL SIGN O..KHOJKI VOWEL SIGN AU
 
-# Indic_Matra_Category=Top_And_Left
+# Indic_Positional_Category=Top_And_Left
 
 0B48          ; Top_And_Left # Mc       ORIYA VOWEL SIGN AI
 0DDA          ; Top_And_Left # Mc       SINHALA VOWEL SIGN DIGA KOMBUVA
@@ -477,24 +488,26 @@ ABED          ; Bottom # Mn       MEETEI MAYEK APUN IYEK
 114BB         ; Top_And_Left # Mc       TIRHUTA VOWEL SIGN AI
 115B9         ; Top_And_Left # Mc       SIDDHAM VOWEL SIGN AI
 
-# Indic_Matra_Category=Top_And_Left_And_Right
+# Indic_Positional_Category=Top_And_Left_And_Right
 
 0B4C          ; Top_And_Left_And_Right # Mc       ORIYA VOWEL SIGN AU
 0DDD          ; Top_And_Left_And_Right # Mc       SINHALA VOWEL SIGN KOMBUVA HAA DIGA AELA-PILLA
 17BF          ; Top_And_Left_And_Right # Mc       KHMER VOWEL SIGN YA
 115BB         ; Top_And_Left_And_Right # Mc       SIDDHAM VOWEL SIGN AU
 
-# Indic_Matra_Category=Bottom_And_Right
+# Indic_Positional_Category=Bottom_And_Right
 
 1B3B          ; Bottom_And_Right # Mc       BALINESE VOWEL SIGN RA REPA TEDUNG
 A9C0          ; Bottom_And_Right # Mc       JAVANESE PANGKON
 
-# Indic_Matra_Category=Top_And_Bottom_And_Right
+# Indic_Positional_Category=Top_And_Bottom_And_Right
 
 1B3D          ; Top_And_Bottom_And_Right # Mc       BALINESE VOWEL SIGN LA LENGA TEDUNG
 
-# Indic_Matra_Category=Overstruck
+# Indic_Positional_Category=Overstruck
 
+1CD4          ; Overstruck # Mn       VEDIC SIGN YAJURVEDIC MIDLINE SVARITA
+1CE2..1CE8    ; Overstruck # Mn   [7] VEDIC SIGN VISARGA SVARITA..VEDIC SIGN VISARGA ANUDATTA WITH TAIL
 10A01         ; Overstruck # Mn       KHAROSHTHI VOWEL SIGN I
 10A06         ; Overstruck # Mn       KHAROSHTHI VOWEL SIGN O
 

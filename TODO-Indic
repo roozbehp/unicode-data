@@ -1,0 +1,53 @@
+* Add Tamil superscript and subscript digits (see the Core Specification
+  section on Tamil.)
+
+* Check coverage of Indic properties by writing a tool checking coverage
+
+* Make sure the header of Indic_Positional_Category reflects the syllabic
+  categories with non-default values correctly.
+
+* Make sure all information in HarfBuzz is reflected properly in the data
+  files.
+
+* Split the Consonant_Placeholders to three classes: first would be
+  symbol-like things that replace a whole syllable, and cannot take any
+  vowels, but can take tone marks such as vedic marks; second would be
+  consonant-cluster like things that can take matras, but will not
+  participate with other consonants in forming clusters (similar to how
+  numbers behave); third would be things that act visually just like
+  consonants but not real consonants.
+
+* Figure out the status of Jihvamuliya and Upadhmaniya characters in
+  Kannada, Vedic, Brahmi, and Sharada.  Which of them need viramas to form
+  conjuncts and which of them don’t?
+
+* Figure out if U+17CB KHMER SIGN BANTOC really a register shifter.
+
+* Find the right syllabic categories for U+17CD..17D0 and U+17D3.
+
+* The Lepcha U+1C29 is listed as Top_And_Left in Indic Matra Category, but
+  is listed together with Left matras in Table 4-4 of the Core
+  Specification.  This may actually be a left matra, similar to the
+  Devanagari vowel I that extends to the top of the consonant.  There are
+  other similar characters potentially misclassified, which can be found
+  below:
+
+    U+0B57: Top_And_Right, should be Right (Oriya AU Length Mark)
+    U+1C29: Top_And_Left, should be Left (Lepcha OO)
+    U+A9C0: Bottom_And_Right, should be Right (Javanese killer)
+    U+111BF: Top_And_Right, should be Right (Sharada AU)
+
+* At least seven characters are encoded in Unicode with left and right
+  pieces separately encoded but with no canonical decompositions to the
+  pieces.  We should check that there is text in the Core Specification and
+  the NamesList that mention the preferred encoding for each of the cases,
+  as they are ambiguous.  We also need to make sure they are added to the
+  list of confusables.
+
+    0AC9 => 0AC5 0ABE(Gujarati Candra O) [Confirmed fixed by Eric Muller]
+    0F77 => 0FB2 0F81(Tibetan Vocalic RR)
+    0F79 => 0FB3 0F81(Tibetan Vocalic LL)
+    17BE => 17C1 17B8(Khmer OE)
+    17C4 => 17C1 17B6(Khmer OO)
+    1925 => 1920 1923(Limbu OO)
+    1926 => 1920 1924(Limbu AU)
