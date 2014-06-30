@@ -1,10 +1,13 @@
+* Figure out categories for U+17DD.
+
 * Add Tamil superscript and subscript digits (see the Core Specification
   section on Tamil.)
 
 * Check coverage of Indic properties by writing a tool checking coverage
 
 * Make sure the header of Indic_Positional_Category reflects the syllabic
-  categories with non-default values correctly.
+  categories with non-default values correctly.  (At least the Khmer
+  characters missing syllabic categories are missing from the comment.)
 
 * Make sure all information in HarfBuzz is reflected properly in the data
   files.
@@ -51,3 +54,6 @@
     17C4 => 17C1 17B6(Khmer OO)
     1925 => 1920 1923(Limbu OO)
     1926 => 1920 1924(Limbu AU)
+
+* See if we need a special syllabic category for Myanmar Asat, as it forms
+  kinzis.
