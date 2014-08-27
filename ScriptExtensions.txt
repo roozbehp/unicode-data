@@ -1,5 +1,5 @@
 # ScriptExtensions-8.0.0.txt
-# Date: 2014-06-26, 00:01:00 GMT [RP]
+# Date: 2014-08-27, 01:34:00 GMT [RP]
 #
 # Unicode Character Database
 # Copyright (c) 1991-2014 Unicode, Inc.
@@ -50,7 +50,7 @@
 1CEE..1CF1    ; Deva # Lo   [4] VEDIC SIGN HEXIFORM LONG ANUSVARA..VEDIC SIGN ANUSVARA UBHAYATO MUKHA
 1CF6          ; Deva # Lo       VEDIC SIGN UPADHMANIYA
 
-# Total code points: 28
+# Total code points: 26
 
 # ================================================
 
@@ -176,7 +176,7 @@ A66F          ; Cyrl Glag # Mn       COMBINING CYRILLIC VZMET
 1CF4          ; Deva Gran # Mn       VEDIC TONE CANDRA ABOVE
 1CF8..1CF9    ; Deva Gran # Mn   [2] VEDIC TONE RING ABOVE..VEDIC TONE DOUBLE RING ABOVE
 
-# Total code points: 6
+# Total code points: 8
 
 # ================================================
 
