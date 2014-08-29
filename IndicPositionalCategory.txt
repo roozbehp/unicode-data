@@ -90,19 +90,6 @@
 #
 # @missing: 0000..10FFFF; NA
 
-# Only characters from the following syllabic categories have
-# a non-default value for the Indic_Positional_Category property:
-#   - dependent vowels (Indic_Syllabic_Category=Vowel_Dependent)
-#   - viramas (Indic_Syllabic_Category=Virama)
-#   - pure killers (Indic_Syllabic_Category=Pure_Killer)
-#   - gemination marks (Indic_Syllabic_Category=Gemination_Mark)
-#   - left-reordrant instances of medial consonants
-#     (Indic_Syllabic_Category=Consonant_Medial)
-#   - bindi (Indic_Syllabic_Category=Bindu) in Lepcha
-#   - repha forms of ra succeeding the main consonant
-#     (Indic_Syllabic_Category=Consonant_Succeeding_Repha)
-#   - register shifters (Indic_Syllabic_Category=Register_Shifter)
-
 # ------------------------------------------------
 
 # Indic_Positional_Category=Right
