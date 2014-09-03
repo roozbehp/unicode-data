@@ -2,9 +2,6 @@
 
 * Figure out categories for U+17DD.
 
-* Add Tamil superscript and subscript digits (see the Core Specification
-  section on Tamil.)
-
 * Check coverage of Indic properties by writing a tool checking coverage
 
 * Make sure all information in HarfBuzz is reflected properly in the data
