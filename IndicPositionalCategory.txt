@@ -1,5 +1,5 @@
 # IndicPositionalCategory-8.0.0.txt
-# Date: 2014-09-15, 22:21:00 GMT [RP]
+# Date: 2014-09-15, 22:21:00 GMT [RP, KW]
 #
 # Unicode Character Database
 # Copyright (c) 1991-2014 Unicode, Inc.
@@ -7,18 +7,11 @@
 # For documentation, see UAX #44: Unicode Character Database,
 # at http://www.unicode.org/reports/tr44/
 #
-# This file defines the following provisional property:
+# This file defines the following property:
 #
 #    Indic_Positional_Category     enumerated property
 #
-# NB: Provisional properties and data files have no associated stability
-# guarantees. They are provided in part to determine the possible usefulness
-# of a property or other data and to encourage analysis and further investigation
-# which may result in their improvement. Provisional properties and data files
-# may change arbitrarily, or may even be removed in a future version of the
-# Unicode Character Database, if they prove not to be useful.
-#
-# Scope: This provisional property is aimed at the problem of
+# Scope: This property is aimed at the problem of
 # the specification of syllabic structure for Indic scripts.
 # Because dependent vowels (matras), visible viramas, and other
 # characters are placed in notional slots around the consonant (or
@@ -30,7 +23,7 @@
 # is designed primarily to supplement the Indic_Syllabic_Category
 # property.
 #
-# Note that this provisional property is *not* intended as
+# Note that this property is *not* intended as
 # a prescriptive property regarding display or font design,
 # for a number of reasons. Good font design requires information
 # that is outside the context of a character encoding standard,

@@ -1,5 +1,5 @@
 # IndicSyllabicCategory-8.0.0.txt
-# Date: 2014-09-15, 22:21:00 GMT [RP]
+# Date: 2014-09-15, 22:21:00 GMT [RP, KW]
 #
 # Unicode Character Database
 # Copyright (c) 1991-2014 Unicode, Inc.
@@ -7,18 +7,11 @@
 # For documentation, see UAX #44: Unicode Character Database,
 # at http://www.unicode.org/reports/tr44/
 #
-# This file defines the following provisional property:
+# This file defines the following property:
 #
 #    Indic_Syllabic_Category     enumerated property
 #
-# NB: Provisional properties and data files have no associated stability
-# guarantees. They are provided in part to determine the possible usefulness
-# of a property or other data and to encourage analysis and further investigation
-# which may result in their improvement. Provisional properties and data files
-# may change arbitrarily, or may even be removed in a future version of the
-# Unicode Character Database, if they prove not to be useful.
-#
-# Scope: This provisional property is aimed at two general problem
+# Scope: This property is aimed at two general problem
 # areas involving the analysis and processing of Indic scripts:
 #
 #   1. Specification of syllabic structure.
