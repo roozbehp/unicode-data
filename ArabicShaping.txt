@@ -10,10 +10,10 @@
 # This file defines the Joining_Type and Joining_Group property values for
 # Arabic, Syriac, N'Ko, Mandaic, Manichaean, and Psalter Pahlavi positional
 # shaping, repeating in machine readable form the information exemplified in
-# Tables 9-3, 9-8, 9-9, 9-10, 9-14, 9-15, 9-16, 9-19, 9-20, 10-XX, 19-5 of The
-# Unicode Standard, Version 7.0. This file also defines Joining_Type values
-# for Mongolian and Phags-pa positional shaping, which are not listed in
-# tables in the standard.
+# Tables 9-3, 9-8, 9-9, 9-10, 9-14, 9-15, 9-16, 9-19, 9-20, 10-4, 10-5,
+# 10-6, 10-7, and 19-5 of The Unicode Standard, Version 7.0. This file also
+# defines Joining_Type values for Mongolian and Phags-pa positional shaping,
+# which are not listed in tables in the standard.
 #
 # See Sections 9.2, 9.3, 9.5, 10.5, 10.6, 13.4, 14.3, 19.4 of
 # The Unicode Standard, Version 7.0 for more information.
