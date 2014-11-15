@@ -1,4 +1,8 @@
-* Add Unicode 8.0 characters for Sharada, Multani, Grantha, Siddham, and Ahom.
+* Figure out if nuktas, bindus, and anusvaras should be added to
+  PositionalCategory.
+
+* Figure out what to do with Sharada Sandhi mark:
+  http://www.unicode.org/L2/L2012/12322-n4330-sharada-sandhi-mark.pdf
 
 * Add syllabic category for U+2010 and U+2011.
 

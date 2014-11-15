@@ -56,13 +56,13 @@
 # in the structural sense used for the Indic_Positional_Category are the
 # following:
 #
-# Balinese, Batak, Bengali, Brahmi, Buginese, Buhid, Chakma, Cham,
-# Devanagari, Grantha, Gujarati, Gurmukhi, Hanunoo, Javanese, Kaithi,
-# Kannada, Kharoshthi, Khmer, Khojki, Khudawadi, Lao, Lepcha, Limbu,
-# Malayalam, Meetei Mayek, Modi, Myanmar, New Tai Lue, Oriya, Rejang,
-# Saurashtra, Sharada, Siddham, Sinhala, Sundanese, Syloti Nagri,
-# Tagalog, Tagbanwa, Tai Tham, Tai Viet, Takri, Tamil, Telugu, Thai,
-# Tibetan, and Tirhuta.
+# Ahom, Balinese, Batak, Bengali, Brahmi, Buginese, Buhid, Chakma,
+# Cham, Devanagari, Grantha, Gujarati, Gurmukhi, Hanunoo, Javanese,
+# Kaithi, Kannada, Kharoshthi, Khmer, Khojki, Khudawadi, Lao, Lepcha,
+# Limbu, Malayalam, Meetei Mayek, Modi, Myanmar, New Tai Lue, Oriya,
+# Rejang, Saurashtra, Sharada, Siddham, Sinhala, Sundanese, Syloti
+# Nagri, Tagalog, Tagbanwa, Tai Tham, Tai Viet, Takri, Tamil, Telugu,
+# Thai, Tibetan, and Tirhuta.
 #
 # All characters for all other scripts not in that list
 # take the default value for this property.
@@ -71,7 +71,7 @@
 # list of Indic scripts, including those which do not have
 # positional characters. Currently, those additional
 # Indic scripts without positional characters are
-# Kayah Li, Mahajani, Phags-pa, and Tai Le.
+# Kayah Li, Mahajani, Multani, Phags-pa, and Tai Le.
 #
 
 # ================================================
@@ -186,6 +186,7 @@ ABE9..ABEA    ; Right # Mc   [2] MEETEI MAYEK VOWEL SIGN CHEINAP..MEETEI MAYEK V
 11630..11632  ; Right # Mc   [3] MODI VOWEL SIGN AA..MODI VOWEL SIGN II
 1163B..1163C  ; Right # Mc   [2] MODI VOWEL SIGN O..MODI VOWEL SIGN AU
 116AF         ; Right # Mc       TAKRI VOWEL SIGN II
+11720..11721  ; Right # Lo   [2] AHOM VOWEL SIGN A..AHOM VOWEL SIGN AA
 
 # Indic_Positional_Category=Left
 
@@ -225,6 +226,7 @@ AAEE          ; Left # Mc       MEETEI MAYEK VOWEL SIGN AU
 115B0         ; Left # Mc       SIDDHAM VOWEL SIGN I
 115B8         ; Left # Mc       SIDDHAM VOWEL SIGN E
 116AE         ; Left # Mc       TAKRI VOWEL SIGN I
+11726         ; Left # Mn       AHOM VOWEL SIGN E
 
 # Indic_Positional_Category=Visual_Order_Left
 
@@ -350,6 +352,7 @@ ABE5          ; Top # Mn       MEETEI MAYEK VOWEL SIGN ANAP
 11130         ; Top # Mn       CHAKMA VOWEL SIGN OI
 11134         ; Top # Mn       CHAKMA MAAYYAA
 111BC..111BE  ; Top # Mn   [3] SHARADA VOWEL SIGN E..SHARADA VOWEL SIGN O
+111CB         ; Top # Mn       SHARADA VOWEL MODIFIER MARK
 11230..11231  ; Top # Mn   [2] KHOJKI VOWEL SIGN E..KHOJKI VOWEL SIGN AI
 11237         ; Top # Mn       KHOJKI SIGN SHADDA
 112E5..112E8  ; Top # Mn   [4] KHUDAWADI VOWEL SIGN E..KHUDAWADI VOWEL SIGN AU
@@ -359,6 +362,10 @@ ABE5          ; Top # Mn       MEETEI MAYEK VOWEL SIGN ANAP
 116AD         ; Top # Mn       TAKRI VOWEL SIGN AA
 116B2..116B5  ; Top # Mn   [4] TAKRI VOWEL SIGN E..TAKRI VOWEL SIGN AU
 116B6         ; Top # Mc       TAKRI SIGN VIRAMA
+1171F         ; Top # Mn       AHOM CONSONANT SIGN MEDIAL LIGATING RA
+11722..11723  ; Top # Mn   [2] AHOM VOWEL SIGN I..AHOM VOWEL SIGN II
+11727         ; Top # Mn       AHOM VOWEL SIGN AW
+11729..1172B  ; Top # Mn   [3] AHOM VOWEL SIGN AI..AHOM SIGN KILLER
 
 # Indic_Positional_Category=Bottom
 
@@ -428,6 +435,7 @@ ABED          ; Bottom # Mn       MEETEI MAYEK APUN IYEK
 1112A..1112B  ; Bottom # Mn   [2] CHAKMA VOWEL SIGN U..CHAKMA VOWEL SIGN UU
 11131..11132  ; Bottom # Mn   [2] CHAKMA O MARK..CHAKMA AU MARK
 111B6..111BB  ; Bottom # Mn   [6] SHARADA VOWEL SIGN U..SHARADA VOWEL SIGN VOCALIC LL
+111CC         ; Bottom # Mn       SHARADA EXTRA SHORT VOWEL MARK
 1122F         ; Bottom # Mn       KHOJKI VOWEL SIGN U
 112E3..112E4  ; Bottom # Mn   [2] KHUDAWADI VOWEL SIGN U..KHUDAWADI VOWEL SIGN UU
 112EA         ; Bottom # Mn       KHUDAWADI SIGN VIRAMA
@@ -435,9 +443,14 @@ ABED          ; Bottom # Mn       MEETEI MAYEK APUN IYEK
 114C2         ; Bottom # Mn       TIRHUTA SIGN VIRAMA
 115B2..115B5  ; Bottom # Mn   [4] SIDDHAM VOWEL SIGN U..SIDDHAM VOWEL SIGN VOCALIC RR
 115BF         ; Bottom # Mn       SIDDHAM SIGN VIRAMA
+115DC..115DD  ; Bottom # Mn   [2] SIDDHAM VOWEL SIGN ALTERNATE U..SIDDHAM VOWEL SIGN ALTERNATE UU
 11633..11638  ; Bottom # Mn   [6] MODI VOWEL SIGN U..MODI VOWEL SIGN VOCALIC LL
 1163F         ; Bottom # Mn       MODI SIGN VIRAMA
 116B0..116B1  ; Bottom # Mn   [2] TAKRI VOWEL SIGN U..TAKRI VOWEL SIGN UU
+1171D         ; Bottom # Mn       AHOM CONSONANT SIGN MEDIAL LA
+11724         ; Bottom # Mc       AHOM VOWEL SIGN U
+11725         ; Bottom # Mn       AHOM VOWEL SIGN UU
+11728         ; Bottom # Mn       AHOM VOWEL SIGN O
 
 # Indic_Positional_Category=Top_And_Bottom
 
