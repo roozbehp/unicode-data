@@ -1,5 +1,5 @@
 # IndicSyllabicCategory-8.0.0.txt
-# Date: 2014-09-15, 22:21:00 GMT [RP, KW]
+# Date: 2014-12-02, 20:17:00 GMT [RP, KW]
 #
 # Unicode Character Database
 # Copyright (c) 1991-2014 Unicode, Inc.
@@ -566,10 +566,10 @@ ABE9..ABEA    ; Vowel_Dependent # Mc   [2] MEETEI MAYEK VOWEL SIGN CHEINAP..MEET
 116AD         ; Vowel_Dependent # Mn       TAKRI VOWEL SIGN AA
 116AE..116AF  ; Vowel_Dependent # Mc   [2] TAKRI VOWEL SIGN I..TAKRI VOWEL SIGN II
 116B0..116B5  ; Vowel_Dependent # Mn   [6] TAKRI VOWEL SIGN U..TAKRI VOWEL SIGN AU
-11720..11721  ; Vowel_Dependent # Lo   [2] AHOM VOWEL SIGN A..AHOM VOWEL SIGN AA
-11722..11723  ; Vowel_Dependent # Mn   [2] AHOM VOWEL SIGN I..AHOM VOWEL SIGN II
-11724         ; Vowel_Dependent # Mc       AHOM VOWEL SIGN U
-11725..1172A  ; Vowel_Dependent # Mn   [6] AHOM VOWEL SIGN UU..AHOM VOWEL SIGN AM
+11720..11721  ; Vowel_Dependent # Mc   [2] AHOM VOWEL SIGN A..AHOM VOWEL SIGN AA
+11722..11725  ; Vowel_Dependent # Mn   [4] AHOM VOWEL SIGN I..AHOM VOWEL SIGN UU
+11726         ; Vowel_Dependent # Mc       AHOM VOWEL SIGN E
+11727..1172A  ; Vowel_Dependent # Mn   [4] AHOM VOWEL SIGN AW..AHOM VOWEL SIGN AM
 
 # ================================================
 

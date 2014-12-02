@@ -1,5 +1,5 @@
 # IndicPositionalCategory-8.0.0.txt
-# Date: 2014-09-15, 22:21:00 GMT [RP, KW]
+# Date: 2014-12-02, 20:17:00 GMT [RP, KW]
 #
 # Unicode Character Database
 # Copyright (c) 1991-2014 Unicode, Inc.
@@ -186,7 +186,7 @@ ABE9..ABEA    ; Right # Mc   [2] MEETEI MAYEK VOWEL SIGN CHEINAP..MEETEI MAYEK V
 11630..11632  ; Right # Mc   [3] MODI VOWEL SIGN AA..MODI VOWEL SIGN II
 1163B..1163C  ; Right # Mc   [2] MODI VOWEL SIGN O..MODI VOWEL SIGN AU
 116AF         ; Right # Mc       TAKRI VOWEL SIGN II
-11720..11721  ; Right # Lo   [2] AHOM VOWEL SIGN A..AHOM VOWEL SIGN AA
+11720..11721  ; Right # Mc   [2] AHOM VOWEL SIGN A..AHOM VOWEL SIGN AA
 
 # Indic_Positional_Category=Left
 
@@ -226,7 +226,7 @@ AAEE          ; Left # Mc       MEETEI MAYEK VOWEL SIGN AU
 115B0         ; Left # Mc       SIDDHAM VOWEL SIGN I
 115B8         ; Left # Mc       SIDDHAM VOWEL SIGN E
 116AE         ; Left # Mc       TAKRI VOWEL SIGN I
-11726         ; Left # Mn       AHOM VOWEL SIGN E
+11726         ; Left # Mc       AHOM VOWEL SIGN E
 
 # Indic_Positional_Category=Visual_Order_Left
 
@@ -448,7 +448,7 @@ ABED          ; Bottom # Mn       MEETEI MAYEK APUN IYEK
 1163F         ; Bottom # Mn       MODI SIGN VIRAMA
 116B0..116B1  ; Bottom # Mn   [2] TAKRI VOWEL SIGN U..TAKRI VOWEL SIGN UU
 1171D         ; Bottom # Mn       AHOM CONSONANT SIGN MEDIAL LA
-11724         ; Bottom # Mc       AHOM VOWEL SIGN U
+11724         ; Bottom # Mn       AHOM VOWEL SIGN U
 11725         ; Bottom # Mn       AHOM VOWEL SIGN UU
 11728         ; Bottom # Mn       AHOM VOWEL SIGN O
 
