@@ -773,6 +773,15 @@ ABD2..ABDA    ; Consonant # Lo   [9] MEETEI MAYEK LETTER GOK..MEETEI MAYEK LETTE
 
 # ================================================
 
+# Indic_Syllabic_Category=Consonant_Prefixed
+
+# Cluster-intial consonants, reserved for Soyombo. Not assigned to any
+# character yet.
+
+# [Not derivable]
+
+# ================================================
+
 # Indic_Syllabic_Category=Consonant_Preceding_Repha
 
 # Repha Form of RA (reanalyzed in some scripts), when preceding the main consonant

@@ -1,3 +1,6 @@
+* Add Soyombo cluster-initial consonants to Consonant_Prefixed and remove
+  the comment about the class being empty.
+
 * Figure out if nuktas, bindus, and anusvaras should be added to
   PositionalCategory.
 
