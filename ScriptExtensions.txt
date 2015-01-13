@@ -215,6 +215,14 @@ A66F          ; Cyrl Glag # Mn       COMBINING CYRILLIC VZMET
 
 # ================================================
 
+# Script_Extensions=Guru Mult
+
+0A66..0A6F    ; Guru Mult # Nd  [10] GURMUKHI DIGIT ZERO..GURMUKHI DIGIT NINE
+
+# Total code points: 10
+
+# ================================================
+
 # Script_Extensions=Hira Kana
 
 3031..3035    ; Hira Kana # Lm   [5] VERTICAL KANA REPEAT MARK..VERTICAL KANA REPEAT MARK LOWER HALF
