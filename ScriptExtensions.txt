@@ -319,14 +319,6 @@ A92E          ; Kali Latn Mymr # Po       KAYAH LI SIGN CWI
 
 # ================================================
 
-# Script_Extensions=Deva Gran Latn Telu
-
-0952          ; Deva Gran Latn Telu # Mn       DEVANAGARI STRESS SIGN ANUDATTA
-
-# Total code points: 1
-
-# ================================================
-
 # Script_Extensions=Arab Mand Mani Phlp Syrc
 
 0640          ; Arab Mand Mani Phlp Syrc # Lm       ARABIC TATWEEL
@@ -357,14 +349,6 @@ A92E          ; Kali Latn Mymr # Po       KAYAH LI SIGN CWI
 FE45..FE46    ; Bopo Hang Hani Hira Kana # Po   [2] SESAME DOT..WHITE SESAME DOT
 
 # Total code points: 206
-
-# ================================================
-
-# Script_Extensions=Deva Gran Latn Shrd Telu
-
-0951          ; Deva Gran Latn Shrd Telu # Mn       DEVANAGARI STRESS SIGN UDATTA
-
-# Total code points: 1
 
 # ================================================
 
@@ -407,6 +391,22 @@ A838          ; Deva Gujr Guru Kthi Mahj Modi Sind Takr Tirh # Sc       NORTH IN
 A839          ; Deva Gujr Guru Kthi Mahj Modi Sind Takr Tirh # So       NORTH INDIC QUANTITY MARK
 
 # Total code points: 10
+
+# ================================================
+
+# Script_Extensions=Beng Deva Gran Gujr Guru Knda Latn Mlym Orya Taml Telu
+
+0952          ; Beng Deva Gran Gujr Guru Knda Latn Mlym Orya Taml Telu # Mn       DEVANAGARI STRESS SIGN ANUDATTA
+
+# Total code points: 1
+
+# ================================================
+
+# Script_Extensions=Beng Deva Gran Gujr Guru Knda Latn Mlym Orya Shrd Taml Telu
+
+0951          ; Beng Deva Gran Gujr Guru Knda Latn Mlym Orya Shrd Taml Telu # Mn       DEVANAGARI STRESS SIGN UDATTA
+
+# Total code points: 1
 
 # ================================================
 
