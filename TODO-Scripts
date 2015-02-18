@@ -1,8 +1,11 @@
+* For Unicode 9, make the ScriptExtensions property of U+11FCE and U+11FCF
+  {Grantha, Tamil} (see http://www.unicode.org/L2/L2014/14218-grantha-tamil-numeral.pdf).
+  1/4 appears to be unified with the letter VA, so it's presumably different
+  between Grantha and Tamil. Waiting for Shriramana to get back to me
+  regarding other potential fractions shared between Grantha and Tamil.
 * Find out if Vedic signs are used in other scripts. Some documents (such as
   L2/07-060) mention usage of the Vedic characters in Bengali, Oriya, and
   Kannada, but I couldn't find examples on the web or the document registry.
-* Find out the other characters (e.g. Tamil) are used in Grantha and add
-  them.
 * Add Linear A to the script properties for Aegean numbers U+10107..10124
   (see http://www.unicode.org/review/pri271/feedback.html).
 * Find out if Arabic percent sign, decimal separator, and percent sign are

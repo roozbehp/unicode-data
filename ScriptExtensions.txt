@@ -1,5 +1,5 @@
 # ScriptExtensions-8.0.0.txt
-# Date: 2015-02-17, 18:33:00 GMT [RP]
+# Date: 2015-02-18, 02:08:00 GMT [RP]
 #
 # Unicode Character Database
 # Copyright (c) 1991-2015 Unicode, Inc.
@@ -206,6 +206,15 @@ A66F          ; Cyrl Glag # Mn       COMBINING CYRILLIC VZMET
 1CDA          ; Deva Telu # Mn       VEDIC TONE DOUBLE SVARITA
 
 # Total code points: 1
+
+# ================================================
+
+# Script_Extensions=Gran Taml
+
+0BE6..0BEF    ; Gran Taml # Nd  [10] TAMIL DIGIT ZERO..TAMIL DIGIT NINE
+0BF0..0BF2    ; Gran Taml # No   [3] TAMIL NUMBER TEN..TAMIL NUMBER ONE THOUSAND
+
+# Total code points: 13
 
 # ================================================
 
