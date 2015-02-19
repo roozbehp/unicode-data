@@ -1,5 +1,7 @@
-* Add Soyombo cluster-initial consonants to Consonant_Prefixed and remove
-  the comment about the class being empty.
+* Go over http://unicode.org/pipermail/unicode/2014-May/000562.html and see
+  if any categories should be changed based on it.
+
+* Add Soyombo cluster-initial consonants to Consonant_Prefixed.
 
 * Figure out if nuktas, bindus, and anusvaras should be added to
   PositionalCategory.
@@ -25,8 +27,8 @@
   consonants but not real consonants.
 
 * Figure out the status of Jihvamuliya and Upadhmaniya characters in
-  Kannada, Vedic, Brahmi, and Sharada.  Which of them need viramas to form
-  conjuncts and which of them don’t?
+  Vedic.  Do they need viramas to form conjuncts or not?  In other
+  words, are they Consonant or Consonant_With_Stacker?
 
 * The Lepcha U+1C29 is listed as Top_And_Left in Indic Matra Category, but
   is listed together with Left matras in Table 4-4 of the Core
