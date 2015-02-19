@@ -1,6 +1,9 @@
 * Go over http://unicode.org/pipermail/unicode/2014-May/000562.html and see
   if any categories should be changed based on it.
 
+* Finish going over Andrew Glass's InPC overrides and the
+  still-unclear InSC overrides.
+
 * Add Soyombo cluster-initial consonants to Consonant_Prefixed.
 
 * Figure out if nuktas, bindus, and anusvaras should be added to
