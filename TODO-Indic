@@ -1,18 +1,12 @@
 * Go over http://unicode.org/pipermail/unicode/2014-May/000562.html and see
   if any categories should be changed based on it.
 
-* Finish going over Andrew Glass's InPC overrides and the
-  still-unclear InSC overrides.
+* Finish going over Andrew Glass's still-unclear InSC overrides.
 
 * Add Soyombo cluster-initial consonants to Consonant_Prefixed.
 
-* Figure out if nuktas, bindus, and anusvaras should be added to
-  PositionalCategory.
-
 * Figure out what to do with Sharada Sandhi mark:
   http://www.unicode.org/L2/L2012/12322-n4330-sharada-sandhi-mark.pdf
-
-* Add syllabic category for U+2010 and U+2011.
 
 * Figure out categories for U+17DD.
 

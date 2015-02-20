@@ -609,7 +609,7 @@ A926..A92A    ; Vowel # Mn   [5] KAYAH LI VOWEL UE..KAYAH LI VOWEL O
 0A72..0A73    ; Consonant_Placeholder # Lo   [2] GURMUKHI IRI..GURMUKHI URA
 104E          ; Consonant_Placeholder # Po       MYANMAR SYMBOL AFOREMENTIONED
 1900          ; Consonant_Placeholder # Lo       LIMBU VOWEL-CARRIER LETTER
-2012..2014    ; Consonant_Placeholder # Pd   [3] FIGURE DASH..EM DASH
+2010..2014    ; Consonant_Placeholder # Pd   [5] HYPHEN..EM DASH
 25CC          ; Consonant_Placeholder # So       DOTTED CIRCLE
 
 # ================================================
