@@ -1,3 +1,7 @@
+* Separate Vowel_Dependent into Vowel_Dependent and Vowel_Modifier.
+  Candidates for Vowel_Modifier include vowel length marks, U+10A0D,
+  etc.
+
 * Go over http://unicode.org/pipermail/unicode/2014-May/000562.html and see
   if any categories should be changed based on it.
 
