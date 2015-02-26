@@ -201,14 +201,6 @@ A66F          ; Cyrl Glag # Mn       COMBINING CYRILLIC VZMET
 
 # ================================================
 
-# Script_Extensions=Deva Telu
-
-1CDA          ; Deva Telu # Mn       VEDIC TONE DOUBLE SVARITA
-
-# Total code points: 1
-
-# ================================================
-
 # Script_Extensions=Gran Taml
 
 0BE6..0BEF    ; Gran Taml # Nd  [10] TAMIL DIGIT ZERO..TAMIL DIGIT NINE
@@ -325,6 +317,14 @@ A92E          ; Kali Latn Mymr # Po       KAYAH LI SIGN CWI
 1735..1736    ; Buhd Hano Tagb Tglg # Po   [2] PHILIPPINE SINGLE PUNCTUATION..PHILIPPINE DOUBLE PUNCTUATION
 
 # Total code points: 2
+
+# ================================================
+
+# Script_Extensions=Deva Knda Taml Telu
+
+1CDA          ; Deva Knda Taml Telu # Mn       VEDIC TONE DOUBLE SVARITA
+
+# Total code points: 1
 
 # ================================================
 
