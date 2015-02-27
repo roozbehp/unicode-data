@@ -107,6 +107,8 @@
 0B02..0B03    ; Right # Mc   [2] ORIYA SIGN ANUSVARA..ORIYA SIGN VISARGA
 0B3E          ; Right # Mc       ORIYA VOWEL SIGN AA
 0B40          ; Right # Mc       ORIYA VOWEL SIGN II
+0BC1..0BC2    ; Right # Mc   [2] TAMIL VOWEL SIGN U..TAMIL VOWEL SIGN UU
+# Note: U and UU have contextually variable placement in Tamil.
 0BBE..0BBF    ; Right # Mc   [2] TAMIL VOWEL SIGN AA..TAMIL VOWEL SIGN I
 0BD7          ; Right # Mc       TAMIL AU LENGTH MARK
 0C01..0C03    ; Right # Mc   [3] TELUGU SIGN CANDRABINDU..TELUGU SIGN VISARGA
@@ -482,8 +484,6 @@ ABE5          ; Top # Mn       MEETEI MAYEK VOWEL SIGN ANAP
 0B41..0B44    ; Bottom # Mn   [4] ORIYA VOWEL SIGN U..ORIYA VOWEL SIGN VOCALIC RR
 0B4D          ; Bottom # Mn       ORIYA SIGN VIRAMA
 0B62..0B63    ; Bottom # Mn   [2] ORIYA VOWEL SIGN VOCALIC L..ORIYA VOWEL SIGN VOCALIC LL
-0BC1..0BC2    ; Bottom # Mc   [2] TAMIL VOWEL SIGN U..TAMIL VOWEL SIGN UU
-# Note: U and UU have contextually variable placement in Tamil.
 0C56          ; Bottom # Mn       TELUGU AI LENGTH MARK
 0C62..0C63    ; Bottom # Mn   [2] TELUGU VOWEL SIGN VOCALIC L..TELUGU VOWEL SIGN VOCALIC LL
 0CBC          ; Bottom # Mn       KANNADA SIGN NUKTA
