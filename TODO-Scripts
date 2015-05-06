@@ -10,3 +10,5 @@
   (see http://www.unicode.org/review/pri271/feedback.html).
 * Find out if Arabic percent sign, decimal separator, and percent sign are
   used in Thaana (either historically or presently).
+* For Unicode 10, add Masaram Gondi to danda and double danda
+  (http://www.unicode.org/L2/L2015/15090-masaram-gondi.pdf).
