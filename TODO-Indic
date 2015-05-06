@@ -1,6 +1,6 @@
 * Separate Vowel_Dependent into Vowel_Dependent and Vowel_Modifier.
   Candidates for Vowel_Modifier include vowel length marks, U+10A0D,
-  U+111CA, U+111CB, etc. Also figure out if U+17CB is better classified
+  U+111CB, U+111CC, etc. Also figure out if U+17CB is better classified
   as Vowel_Modifier.
 
 * Go over http://unicode.org/pipermail/unicode/2014-May/000562.html and see
