@@ -12,8 +12,8 @@
 # For more information, see:
 #   UAX #24, Unicode Script Property: http://www.unicode.org/reports/tr24/
 #     Especially the sections:
-#        http://www.unicode.org/reports/tr24/#Assignment_Script_Values
-#        http://www.unicode.org/reports/tr24/#Assignment_ScriptX_Values
+#       http://www.unicode.org/reports/tr24/#Assignment_Script_Values
+#       http://www.unicode.org/reports/tr24/#Assignment_ScriptX_Values
 #
 # Each Script_Extensions value in this file consists of a set
 # of one or more abbreviated Script property values. The ordering of the
@@ -225,7 +225,7 @@ A8F3          ; Deva Taml # Lo       DEVANAGARI SIGN CANDRABINDU VIRAMA
 0BF0..0BF2    ; Gran Taml # No   [3] TAMIL NUMBER TEN..TAMIL NUMBER ONE THOUSAND
 11303         ; Gran Taml # Mc       GRANTHA SIGN VISARGA
 
-# Total code points: 13
+# Total code points: 16
 
 # ================================================
 
