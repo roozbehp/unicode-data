@@ -126,6 +126,14 @@ FDFD          ; Arab Thaa # So       ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHE
 
 # ================================================
 
+# Script_Extensions=Beng Deva
+
+A8F1          ; Beng Deva # Mn       COMBINING DEVANAGARI SIGN AVAGRAHA
+
+# Total code points: 1
+
+# ================================================
+
 # Script_Extensions=Bopo Hani
 
 302A..302D    ; Bopo Hani # Mn   [4] IDEOGRAPHIC LEVEL TONE MARK..IDEOGRAPHIC ENTERING TONE MARK
