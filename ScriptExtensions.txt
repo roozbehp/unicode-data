@@ -347,14 +347,6 @@ A92E          ; Kali Latn Mymr # Po       KAYAH LI SIGN CWI
 
 # ================================================
 
-# Script_Extensions=Arab Mand Mani Phlp Syrc
-
-0640          ; Arab Mand Mani Phlp Syrc # Lm       ARABIC TATWEEL
-
-# Total code points: 1
-
-# ================================================
-
 # Script_Extensions=Bopo Hang Hani Hira Kana
 
 3003          ; Bopo Hang Hani Hira Kana # Po       DITTO MARK
@@ -383,6 +375,14 @@ FE45..FE46    ; Bopo Hang Hani Hira Kana # Po   [2] SESAME DOT..WHITE SESAME DOT
 # Script_Extensions=Deva Knda Mlym Taml Telu
 
 1CDA          ; Deva Knda Mlym Taml Telu # Mn       VEDIC TONE DOUBLE SVARITA
+
+# Total code points: 1
+
+# ================================================
+
+# Script_Extensions=Adlm Arab Mand Mani Phlp Syrc
+
+0640          ; Adlm Arab Mand Mani Phlp Syrc # Lm       ARABIC TATWEEL
 
 # Total code points: 1
 
