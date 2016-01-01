@@ -1,4 +1,4 @@
-* For Unicode 9, make the ScriptExtensions property of U+11FCE and U+11FCF
+* For Unicode 10, make the ScriptExtensions property of U+11FCE and U+11FCF
   {Grantha, Tamil} (see http://www.unicode.org/L2/L2014/14218-grantha-tamil-numeral.pdf).
   1/4 appears to be unified with the letter VA, so it's presumably different
   between Grantha and Tamil. Waiting for Shriramana to get back to me
