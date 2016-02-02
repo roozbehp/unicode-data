@@ -89,7 +89,7 @@
 #   have joining type T.
 # - All others not explicitly listed have joining type U.
 #
-# For an explicit listing of characters of joining type T, see
+# For an explicit listing of all characters of joining type T, see
 # the derived property file DerivedJoiningType.txt.
 #
 # #############################################################
@@ -544,8 +544,8 @@
 1882; MONGOLIAN ALI GALI DAMARU; U; No_Joining_Group
 1883; MONGOLIAN ALI GALI UBADAMA; U; No_Joining_Group
 1884; MONGOLIAN ALI GALI INVERTED UBADAMA; U; No_Joining_Group
-1885; MONGOLIAN ALI GALI BALUDA; U; No_Joining_Group
-1886; MONGOLIAN ALI GALI THREE BALUDA; U; No_Joining_Group
+1885; MONGOLIAN ALI GALI BALUDA; T; No_Joining_Group
+1886; MONGOLIAN ALI GALI THREE BALUDA; T; No_Joining_Group
 1887; MONGOLIAN ALI GALI A; D; No_Joining_Group
 1888; MONGOLIAN ALI GALI I; D; No_Joining_Group
 1889; MONGOLIAN ALI GALI KA; D; No_Joining_Group
