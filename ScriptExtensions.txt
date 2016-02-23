@@ -227,6 +227,14 @@ A8F3          ; Deva Taml # Lo       DEVANAGARI SIGN CANDRABINDU VIRAMA
 
 # ================================================
 
+# Script_Extensions=Geor Latn
+
+10FB          ; Geor Latn # Po       GEORGIAN PARAGRAPH SEPARATOR
+
+# Total code points: 1
+
+# ================================================
+
 # Script_Extensions=Gran Taml
 
 0BAA          ; Gran Taml # Lo       TAMIL LETTER PA
