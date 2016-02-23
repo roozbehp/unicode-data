@@ -10,8 +10,6 @@
 * Find out if Vedic signs are used in other scripts. Some documents (such as
   L2/07-060) mention usage of the Vedic characters in Bengali, Oriya, and
   Kannada, but I couldn't find examples on the web or the document registry.
-* Add Linear A to the script properties for Aegean numbers U+10107..10124
-  (see http://www.unicode.org/review/pri271/feedback.html).
 * Find out if Arabic percent sign, decimal separator, and percent sign are
   used in Thaana (either historically or presently).
 * For Unicode 10, add Masaram Gondi
