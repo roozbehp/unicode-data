@@ -189,7 +189,7 @@ AAF5          ; Visarga # Mc       MEETEI MAYEK VOWEL SIGN VISARGA
 # Nukta (diacritic for borrowed consonants or other consonant
 # modifications)
 
-# [Derivation: (ccc=7) + 0F39 + 10A38..10A3A - 1037]
+# [Derivation: (ccc=7) + 0F39 + 10A38..10A3A - 1037 - 1E94A]
 
 093C          ; Nukta # Mn       DEVANAGARI SIGN NUKTA
 09BC          ; Nukta # Mn       BENGALI SIGN NUKTA
