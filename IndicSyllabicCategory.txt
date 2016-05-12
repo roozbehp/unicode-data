@@ -636,6 +636,7 @@ A926..A92A    ; Vowel # Mn   [5] KAYAH LI VOWEL UE..KAYAH LI VOWEL O
 1900          ; Consonant_Placeholder # Lo       LIMBU VOWEL-CARRIER LETTER
 2010..2014    ; Consonant_Placeholder # Pd   [5] HYPHEN..EM DASH
 25CC          ; Consonant_Placeholder # So       DOTTED CIRCLE
+AA74..AA76    ; Consonant_Placeholder # Lo   [3] MYANMAR LOGOGRAM KHAMTI OAY..MYANMAR LOGOGRAM KHAMTI HM
 
 # ================================================
 
