@@ -39,11 +39,11 @@
 # Chakma, Cham, Devanagari, Grantha, Gujarati, Gurmukhi, Hanunoo,
 # Javanese, Kaithi, Kannada, Kayah Li, Kharoshthi, Khmer, Khojki,
 # Khudawadi, Lao, Lepcha, Limbu, Mahajani, Malayalam, Marchen,
-# Masaram Gondi, Meetei Mayek,
-# Modi, Multani, Myanmar, Newa, New Tai Lue, Oriya, Phags-pa,
-# Rejang, Saurashtra, Sharada, Siddham, Sinhala, Soyombo, Sundanese, Syloti
-# Nagri, Tagalog, Tagbanwa, Tai Le, Tai Tham, Tai Viet, Takri, Tamil,
-# Telugu, Thai, Tibetan, Tirhuta, and Zanabazar Square.
+# Masaram Gondi, Meetei Mayek, Modi, Multani, Myanmar, Newa, New Tai
+# Lue, Oriya, Phags-pa, Rejang, Saurashtra, Sharada, Siddham,
+# Sinhala, Soyombo, Sundanese, Syloti Nagri, Tagalog, Tagbanwa, Tai
+# Le, Tai Tham, Tai Viet, Takri, Tamil, Telugu, Thai, Tibetan,
+# Tirhuta, and Zanabazar Square.
 #
 # All characters for all other scripts not in that list
 # take the default value for this property, unless they
@@ -196,11 +196,12 @@ AAF5          ; Visarga # Mc       MEETEI MAYEK VOWEL SIGN VISARGA
 
 # Indic_Syllabic_Category=Nukta
 
-# Nukta (diacritic for borrowed consonants or other consonant modifications).
-# Note that while the resulting sound is typically a consonant, the base letter
-# may be an independent vowel. For example,
-# <U+0A85 GUJARATI LETTER A, U+0AFD GUJARATI SIGN THREE-DOT NUKTA ABOVE>
-# is used to transcribe ARABIC LETTER AIN.
+# Nukta (diacritic for borrowed consonants or other consonant
+# modifications). Note that while the resulting sound is typically a
+# consonant, the base letter a nukta follows may be an independent
+# vowel. For example, <U+0A85 GUJARATI LETTER A, U+0AFD GUJARATI
+# SIGN THREE-DOT NUKTA ABOVE> is used to transcribe ARABIC LETTER
+# AIN.
 
 # [Not derivable]
 
@@ -406,9 +407,10 @@ ABD1          ; Vowel_Independent # Lo       MEETEI MAYEK LETTER ATIYA
 
 # Indic_Syllabic_Category=Vowel_Dependent
 
-# Dependent Vowels (contrasted with independent vowels and/or with complex
-# placement). Known as matras in Indic scripts. Also includes vowel modifiers
-# that follow dependent (and sometimes independent) vowels.
+# Dependent Vowels (contrasted with independent vowels and/or with
+# complex placement). Known as matras in Indic scripts. Also
+# includes vowel modifiers that follow dependent (and sometimes
+# independent) vowels.
 
 # [Not derivable]
 
@@ -623,8 +625,7 @@ ABE9..ABEA    ; Vowel_Dependent # Mc   [2] MEETEI MAYEK VOWEL SIGN CHEINAP..MEET
 11727..1172A  ; Vowel_Dependent # Mn   [4] AHOM VOWEL SIGN AW..AHOM VOWEL SIGN AM
 11A01..11A06  ; Vowel_Dependent # Mn   [6] ZANABAZAR SQUARE VOWEL SIGN I..ZANABAZAR SQUARE VOWEL SIGN O
 11A07..11A08  ; Vowel_Dependent # Mc   [2] ZANABAZAR SQUARE VOWEL SIGN AI..ZANABAZAR SQUARE VOWEL SIGN AU
-11A09         ; Vowel_Dependent # Mn       ZANABAZAR SQUARE VOWEL SIGN REVERSED I
-11A0A         ; Vowel_Dependent # Mc       ZANABAZAR SQUARE VOWEL LENGTH MARK
+11A09..11A0A  ; Vowel_Dependent # Mn   [2] ZANABAZAR SQUARE VOWEL SIGN REVERSED I..ZANABAZAR SQUARE VOWEL LENGTH MARK
 11A51..11A56  ; Vowel_Dependent # Mn   [6] SOYOMBO VOWEL SIGN I..SOYOMBO VOWEL SIGN OE
 11A57..11A58  ; Vowel_Dependent # Mc   [2] SOYOMBO VOWEL SIGN AI..SOYOMBO VOWEL SIGN AU
 11A59..11A5B  ; Vowel_Dependent # Mn   [3] SOYOMBO VOWEL SIGN VOCALIC R..SOYOMBO VOWEL LENGTH MARK
