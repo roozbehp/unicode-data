@@ -21,7 +21,7 @@
 # of Indic script characters which are relevant to how Indic
 # syllables (or aksaras) are constructed. Note that rules for
 # syllabic structure in Indic scripts may differ significantly
-# from how phonological syllables are defined. 
+# from how phonological syllables are defined.
 #
 # Format:
 #    Field 0  Unicode code point value or range of code point values
@@ -130,7 +130,7 @@ A980..A981    ; Bindu # Mn   [2] JAVANESE SIGN PANYANGGA..JAVANESE SIGN CECAK
 # Visarga (-h)
 # Includes specialized case for Sanskrit: ardhavisarga
 # Excludes letters for jihvamuliya and upadhmaniya, which are
-#   related, but structured somewhat differently. 
+#   related, but structured somewhat differently.
 
 # [Not derivable]
 
