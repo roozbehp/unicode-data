@@ -870,7 +870,7 @@ ABD2..ABDA    ; Consonant # Lo   [9] MEETEI MAYEK LETTER GOK..MEETEI MAYEK LETTE
 
 # Indic_Syllabic_Category=Consonant_Prefixed
 
-# Cluster-intial consonants
+# Cluster-initial consonants
 
 # [Not derivable]
 
@@ -882,7 +882,7 @@ ABD2..ABDA    ; Consonant # Lo   [9] MEETEI MAYEK LETTER GOK..MEETEI MAYEK LETTE
 
 # Indic_Syllabic_Category=Consonant_Suffixed
 
-# Cluster-intial consonants, when succeeding the main consonant
+# Cluster-initial consonants, when succeeding the main consonant
 
 # [Not derivable]
 
