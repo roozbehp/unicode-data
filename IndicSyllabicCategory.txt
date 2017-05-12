@@ -147,7 +147,6 @@ A980..A981    ; Bindu # Mn   [2] JAVANESE SIGN PANYANGGA..JAVANESE SIGN CECAK
 0F7F          ; Visarga # Mc       TIBETAN SIGN RNAM BCAD
 1038          ; Visarga # Mc       MYANMAR SIGN VISARGA
 17C7          ; Visarga # Mc       KHMER SIGN REAHMUK
-1A61          ; Visarga # Mc       TAI THAM VOWEL SIGN A
 1B04          ; Visarga # Mc       BALINESE SIGN BISAH
 1B82          ; Visarga # Mc       SUNDANESE SIGN PANGWISAD
 1CF2..1CF3    ; Visarga # Mc   [2] VEDIC SIGN ARDHAVISARGA..VEDIC SIGN ROTATED ARDHAVISARGA
@@ -525,6 +524,7 @@ ABD1          ; Vowel_Independent # Lo       MEETEI MAYEK LETTER ATIYA
 1A17..1A18    ; Vowel_Dependent # Mn   [2] BUGINESE VOWEL SIGN I..BUGINESE VOWEL SIGN U
 1A19..1A1A    ; Vowel_Dependent # Mc   [2] BUGINESE VOWEL SIGN E..BUGINESE VOWEL SIGN O
 1A1B          ; Vowel_Dependent # Mn       BUGINESE VOWEL SIGN AE
+1A61          ; Vowel_Dependent # Mc       TAI THAM VOWEL SIGN A
 1A62          ; Vowel_Dependent # Mn       TAI THAM VOWEL SIGN MAI SAT
 1A63..1A64    ; Vowel_Dependent # Mc   [2] TAI THAM VOWEL SIGN AA..TAI THAM VOWEL SIGN TALL AA
 1A65..1A6C    ; Vowel_Dependent # Mn   [8] TAI THAM VOWEL SIGN I..TAI THAM VOWEL SIGN OA BELOW
@@ -880,16 +880,6 @@ ABD2..ABDA    ; Consonant # Lo   [9] MEETEI MAYEK LETTER GOK..MEETEI MAYEK LETTE
 
 # ================================================
 
-# Indic_Syllabic_Category=Consonant_Suffixed
-
-# Cluster-initial consonants, when succeeding the main consonant
-
-# [Not derivable]
-
-1A5A          ; Consonant_Suffixed # Mn       TAI THAM CONSONANT SIGN LOW PA
-
-# ================================================
-
 # Indic_Syllabic_Category=Consonant_Preceding_Repha
 
 # Repha Form of RA (reanalyzed in some scripts), when preceding the main consonant
@@ -903,11 +893,14 @@ ABD2..ABDA    ; Consonant # Lo   [9] MEETEI MAYEK LETTER GOK..MEETEI MAYEK LETTE
 
 # Indic_Syllabic_Category=Consonant_Succeeding_Repha
 
-# Repha Form of RA (reanalyzed in some scripts), when succeeding the main consonant
+# Repha Form of RA (reanalyzed in some scripts), when succeeding the main consonant.
+# Additionally, U+1A5A TAI THAM CONSONANT SIGN LOW PA has been temporarily classified
+# in this class due to its behavior, although it is not a RA.
 
 # [Not derivable]
 
 17CC          ; Consonant_Succeeding_Repha # Mn       KHMER SIGN ROBAT
+1A5A          ; Consonant_Succeeding_Repha # Mn       TAI THAM CONSONANT SIGN LOW PA
 1B03          ; Consonant_Succeeding_Repha # Mn       BALINESE SIGN SURANG
 1B81          ; Consonant_Succeeding_Repha # Mn       SUNDANESE SIGN PANGLAYAR
 A982          ; Consonant_Succeeding_Repha # Mn       JAVANESE SIGN LAYAR
