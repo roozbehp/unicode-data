@@ -74,14 +74,22 @@
 # Indic scripts without positional characters are
 # Kayah Li, Mahajani, Multani, Phags-pa, and Tai Le.
 #
-# Note: The following characters are all assigned the positional category
-# Right, but may have different positions in some cases:
+# Notes:
+#
+# 1. The following characters are all assigned the positional category Right,
+# but may have different positions in some cases:
 #   * U+0BC1 TAMIL VOWEL SIGN U and U+0BC2 TAMIL VOWEL SIGN UU have
 #     contextually variable placement in Tamil.
 #   * U+0D41 MALAYALAM VOWEL SIGN U and U+0D42 MALAYALAM VOWEL SIGN UU form
 #     complex ligatures with consonants in older Malayalam orthography.
 #   * U+11341 GRANTHA VOWEL SIGN U and U+11342 GRANTHA VOWEL SIGN UU have
 #     contextually variable placement in Grantha.
+#
+# 2. The following characters are all assigned the positional category Bottom,
+# but may have different positions in some cases:
+#   * U+102F MYANMAR VOWEL SIGN U and U+1030 MYANMAR VOWEL SIGN UU have
+#     contextually variable placement in Myanmar.
+
 
 # ================================================
 
