@@ -8,7 +8,7 @@
 # Unicode Character Database.
 #
 # This file defines the Joining_Type and Joining_Group property
-# values for Arabic, Syriac, N'Ko, Mandaic, Manichaean, 
+# values for Arabic, Syriac, N'Ko, Mandaic, Manichaean,
 # Hanifi Rohingya, and Sogdian positional
 # shaping, repeating in machine readable form the information
 # exemplified in Tables 9-3, 9-8, 9-9, 9-10, 9-14, 9-15, 9-16, 9-19,
@@ -24,7 +24,7 @@
 #
 # Field 0: the code point, in 4-digit hexadecimal
 #   form, of an Arabic, Syriac, N'Ko, Mandaic, Mongolian,
-#   Phags-pa, Manichaean, Psalter Pahlavi, Hanifi Rohingya, Sogdian, 
+#   Phags-pa, Manichaean, Psalter Pahlavi, Hanifi Rohingya, Sogdian,
 #   or other character.
 #
 # Field 1: gives a short schematic name for that character.
@@ -81,8 +81,8 @@
 # joining group values will be defined only if an explicit proposal
 # to define those values exactly has been approved by the UTC. This
 # is the convention exemplified by the N'Ko, Mandaic, Mongolian,
-# Phags-pa, Psalter Pahlavi, and Sogdian scripts. 
-# Only the Arabic, Manichaean, and Syriac scripts currently have 
+# Phags-pa, Psalter Pahlavi, and Sogdian scripts.
+# Only the Arabic, Manichaean, and Syriac scripts currently have
 # explicit joining group values defined for all characters, including
 # those which have only a single character in a particular Joining_Group
 # class. Hanifi Rohingya has explicit Joining_Group values assigned only for
