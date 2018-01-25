@@ -888,7 +888,8 @@ ABD2..ABDA    ; Consonant # Lo   [9] MEETEI MAYEK LETTER GOK..MEETEI MAYEK LETTE
 
 # Indic_Syllabic_Category=Consonant_Preceding_Repha
 
-# Repha Form of RA (reanalyzed in some scripts), when preceding the main consonant
+# Repha Form of RA (reanalyzed in some scripts), when preceding the main
+# consonant.
 
 # [Not derivable]
 
@@ -897,16 +898,25 @@ ABD2..ABDA    ; Consonant # Lo   [9] MEETEI MAYEK LETTER GOK..MEETEI MAYEK LETTE
 
 # ================================================
 
+# Indic_Syllabic_Category=Consonant_Initial_Postfixed
+
+# Consonants that succeed the main consonant in character sequences, but are
+# pronounced before it.
+
+# [Not derivable]
+
+1A5A          ; Consonant_Initial_Postfixed # Mn       TAI THAM CONSONANT SIGN LOW PA
+
+# ================================================
+
 # Indic_Syllabic_Category=Consonant_Succeeding_Repha
 
-# Repha Form of RA (reanalyzed in some scripts), when succeeding the main consonant.
-# Additionally, U+1A5A TAI THAM CONSONANT SIGN LOW PA has been temporarily classified
-# in this class due to its behavior, although it is not a RA.
+# Repha Form of RA (reanalyzed in some scripts), when succeeding the main
+# consonant.
 
 # [Not derivable]
 
 17CC          ; Consonant_Succeeding_Repha # Mn       KHMER SIGN ROBAT
-1A5A          ; Consonant_Succeeding_Repha # Mn       TAI THAM CONSONANT SIGN LOW PA
 1B03          ; Consonant_Succeeding_Repha # Mn       BALINESE SIGN SURANG
 1B81          ; Consonant_Succeeding_Repha # Mn       SUNDANESE SIGN PANGLAYAR
 A982          ; Consonant_Succeeding_Repha # Mn       JAVANESE SIGN LAYAR
