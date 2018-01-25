@@ -303,7 +303,12 @@ ABED          ; Pure_Killer # Mn       MEETEI MAYEK APUN IYEK
 
 # Indic_Syllabic_Category=Invisible_Stacker
 
-# Invisible stacker (invisible consonant stacker virama)
+# Invisible stacker (invisible consonant stacker virama).
+#
+# Note that in some scripts, such as Kharoshthi and Masaram Gondi, an invisible
+# stacker may have a second function, changing the shape and/or location of the
+# consonant preceding it, even when there is no consonant following the
+# invisible stacker.
 
 # [Not derivable]
 
