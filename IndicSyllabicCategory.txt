@@ -224,7 +224,7 @@ A9B3          ; Nukta # Mn       JAVANESE SIGN CECAK TELU
 111CA         ; Nukta # Mn       SHARADA SIGN NUKTA
 11236         ; Nukta # Mn       KHOJKI SIGN NUKTA
 112E9         ; Nukta # Mn       KHUDAWADI SIGN NUKTA
-1133C         ; Nukta # Mn       GRANTHA SIGN NUKTA
+1133B..1133C  ; Nukta # Mn   [2] COMBINING BINDU BELOW..GRANTHA SIGN NUKTA
 11446         ; Nukta # Mn       NEWA SIGN NUKTA
 114C3         ; Nukta # Mn       TIRHUTA SIGN NUKTA
 115C0         ; Nukta # Mn       SIDDHAM SIGN NUKTA
