@@ -193,6 +193,7 @@ AAF5          ; Visarga # Mc       MEETEI MAYEK VOWEL SIGN VISARGA
 1133D         ; Avagraha # Lo       GRANTHA SIGN AVAGRAHA
 11447         ; Avagraha # Lo       NEWA SIGN AVAGRAHA
 114C4         ; Avagraha # Lo       TIRHUTA SIGN AVAGRAHA
+11A9D         ; Avagraha # Lo       SOYOMBO MARK PLUTA
 11C40         ; Avagraha # Lo       BHAIKSUKI SIGN AVAGRAHA
 
 # ================================================
