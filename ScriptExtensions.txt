@@ -514,17 +514,17 @@ A830..A832    ; Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Mlym Modi Sind Takr Tirh
 
 # ================================================
 
-# Script_Extensions=Beng Deva Dogr Gran Gujr Guru Knda Mahj Mlym Orya Sind Sinh Sylo Takr Taml Telu Tirh
+# Script_Extensions=Beng Deva Dogr Gong Gran Gujr Guru Knda Mahj Mlym Orya Sind Sinh Sylo Takr Taml Telu Tirh
 
-0964          ; Beng Deva Dogr Gran Gujr Guru Knda Mahj Mlym Orya Sind Sinh Sylo Takr Taml Telu Tirh # Po       DEVANAGARI DANDA
+0964          ; Beng Deva Dogr Gong Gran Gujr Guru Knda Mahj Mlym Orya Sind Sinh Sylo Takr Taml Telu Tirh # Po       DEVANAGARI DANDA
 
 # Total code points: 1
 
 # ================================================
 
-# Script_Extensions=Beng Deva Dogr Gran Gujr Guru Knda Limb Mahj Mlym Orya Sind Sinh Sylo Takr Taml Telu Tirh
+# Script_Extensions=Beng Deva Dogr Gong Gran Gujr Guru Knda Limb Mahj Mlym Orya Sind Sinh Sylo Takr Taml Telu Tirh
 
-0965          ; Beng Deva Dogr Gran Gujr Guru Knda Limb Mahj Mlym Orya Sind Sinh Sylo Takr Taml Telu Tirh # Po       DEVANAGARI DOUBLE DANDA
+0965          ; Beng Deva Dogr Gong Gran Gujr Guru Knda Limb Mahj Mlym Orya Sind Sinh Sylo Takr Taml Telu Tirh # Po       DEVANAGARI DOUBLE DANDA
 
 # Total code points: 1
 
