@@ -466,9 +466,9 @@ A839          ; Deva Gujr Guru Kthi Mahj Modi Sind Takr Tirh # So       NORTH IN
 
 # Script_Extensions=Deva Gujr Guru Knda Kthi Mahj Modi Sind Takr Tirh
 
-A830..A835    ; Deva Gujr Guru Knda Kthi Mahj Modi Sind Takr Tirh # No   [6] NORTH INDIC FRACTION ONE QUARTER..NORTH INDIC FRACTION THREE SIXTEENTHS
+A833..A835    ; Deva Gujr Guru Knda Kthi Mahj Modi Sind Takr Tirh # No   [3] NORTH INDIC FRACTION ONE SIXTEENTH..NORTH INDIC FRACTION THREE SIXTEENTHS
 
-# Total code points: 6
+# Total code points: 3
 
 # ================================================
 
@@ -477,6 +477,14 @@ A830..A835    ; Deva Gujr Guru Knda Kthi Mahj Modi Sind Takr Tirh # No   [6] NOR
 0952          ; Beng Deva Gran Gujr Guru Knda Latn Mlym Orya Taml Telu # Mn       DEVANAGARI STRESS SIGN ANUDATTA
 
 # Total code points: 1
+
+# ================================================
+
+# Script_Extensions=Deva Gujr Guru Knda Kthi Mahj Mlym Modi Sind Takr Tirh
+
+A830..A832    ; Deva Gujr Guru Knda Kthi Mahj Mlym Modi Sind Takr Tirh # No   [3] NORTH INDIC FRACTION ONE QUARTER..NORTH INDIC FRACTION THREE QUARTERS
+
+# Total code points: 3
 
 # ================================================
 
