@@ -265,9 +265,9 @@ A8F3          ; Deva Taml # Lo       DEVANAGARI SIGN CANDRABINDU VIRAMA
 0BF3          ; Gran Taml # So       TAMIL DAY SIGN
 11301         ; Gran Taml # Mn       GRANTHA SIGN CANDRABINDU
 11303         ; Gran Taml # Mc       GRANTHA SIGN VISARGA
-1133C         ; Gran Taml # Mn       GRANTHA SIGN NUKTA
+1133B..1133C  ; Gran Taml # Mn   [2] COMBINING BINDU BELOW..GRANTHA SIGN NUKTA
 
-# Total code points: 17
+# Total code points: 18
 
 # ================================================
 
