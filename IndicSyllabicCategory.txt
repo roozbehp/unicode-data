@@ -1,6 +1,6 @@
 # IndicSyllabicCategory-11.0.0.txt
-# Date: 2017-08-14, 21:33:00 GMT [KW, RP]
-# © 2017 Unicode®, Inc.
+# Date: 2018-02-04, 22:48:00 GMT [KW, RP]
+# © 2018 Unicode®, Inc.
 # Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
 #
@@ -36,14 +36,14 @@
 # Indic_Syllabic_Category are the following:
 #
 # Ahom, Balinese, Batak, Bengali, Bhaiksuki, Brahmi, Buginese, Buhid,
-# Chakma, Cham, Devanagari, Grantha, Gujarati, Gurmukhi, Hanunoo,
-# Javanese, Kaithi, Kannada, Kayah Li, Kharoshthi, Khmer, Khojki,
-# Khudawadi, Lao, Lepcha, Limbu, Mahajani, Malayalam, Marchen,
-# Masaram Gondi, Meetei Mayek, Modi, Multani, Myanmar, Newa, New Tai
-# Lue, Oriya, Phags-pa, Rejang, Saurashtra, Sharada, Siddham,
-# Sinhala, Soyombo, Sundanese, Syloti Nagri, Tagalog, Tagbanwa, Tai
-# Le, Tai Tham, Tai Viet, Takri, Tamil, Telugu, Thai, Tibetan,
-# Tirhuta, and Zanabazar Square.
+# Chakma, Cham, Devanagari, Dogra, Grantha, Gujarati, Gunjala Gondi,
+# Gurmukhi, Hanunoo, Javanese, Kaithi, Kannada, Kayah Li, Kharoshthi,
+# Khmer, Khojki, Khudawadi, Lao, Lepcha, Limbu, Mahajani, Makasar,
+# Malayalam, Marchen, Masaram Gondi, Meetei Mayek, Modi, Multani,
+# Myanmar, Newa, New Tai Lue, Oriya, Phags-pa, Rejang, Saurashtra,
+# Sharada, Siddham, Sinhala, Soyombo, Sundanese, Syloti Nagri,
+# Tagalog, Tagbanwa, Tai Le, Tai Tham, Tai Viet, Takri, Tamil,
+# Telugu, Thai, Tibetan, Tirhuta, and Zanabazar Square.
 #
 # All characters for all other scripts not in that list
 # take the default value for this property, unless they
