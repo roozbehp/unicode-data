@@ -667,6 +667,8 @@ ABE9..ABEA    ; Vowel_Dependent # Mc   [2] MEETEI MAYEK VOWEL SIGN CHEINAP..MEET
 11D8A..11D8E  ; Vowel_Dependent # Mc   [5] GUNJALA GONDI VOWEL SIGN AA..GUNJALA GONDI VOWEL SIGN UU
 11D90..11D91  ; Vowel_Dependent # Mn   [2] GUNJALA GONDI VOWEL SIGN EE..GUNJALA GONDI VOWEL SIGN AI
 11D93..11D94  ; Vowel_Dependent # Mc   [2] GUNJALA GONDI VOWEL SIGN OO..GUNJALA GONDI VOWEL SIGN AU
+11EF3..11EF4  ; Vowel_Dependent # Mn   [2] MAKASAR VOWEL SIGN I..MAKASAR VOWEL SIGN U
+11EF5..11EF6  ; Vowel_Dependent # Mc   [2] MAKASAR VOWEL SIGN E..MAKASAR VOWEL SIGN O
 
 # ================================================
 
@@ -706,6 +708,7 @@ A926..A92A    ; Vowel # Mn   [5] KAYAH LI VOWEL UE..KAYAH LI VOWEL O
 AA74..AA76    ; Consonant_Placeholder # Lo   [3] MYANMAR LOGOGRAM KHAMTI OAY..MYANMAR LOGOGRAM KHAMTI HM
 11A3F         ; Consonant_Placeholder # Po       ZANABAZAR SQUARE INITIAL HEAD MARK
 11A45         ; Consonant_Placeholder # Po       ZANABAZAR SQUARE INITIAL DOUBLE-LINED HEAD MARK
+11EF2         ; Consonant_Placeholder # Lo       MAKASAR ANGKA
 
 # ================================================
 
@@ -868,6 +871,7 @@ ABD2..ABDA    ; Consonant # Lo   [9] MEETEI MAYEK LETTER GOK..MEETEI MAYEK LETTE
 11C72..11C8F  ; Consonant # Lo  [30] MARCHEN LETTER KA..MARCHEN LETTER A
 11D0C..11D30  ; Consonant # Lo  [37] MASARAM GONDI LETTER KA..MASARAM GONDI LETTER TRA
 11D6C..11D89  ; Consonant # Lo  [30] GUNJALA GONDI LETTER YA..GUNJALA GONDI LETTER SA
+11EE0..11EF1  ; Consonant # Lo  [18] MAKASAR LETTER KA..MAKASAR LETTER A
 
 # ================================================
 

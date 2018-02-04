@@ -262,6 +262,7 @@ ABEC          ; Right # Mc       MEETEI MAYEK LUM IYEK
 11D8A..11D8E  ; Right # Mc   [5] GUNJALA GONDI VOWEL SIGN AA..GUNJALA GONDI VOWEL SIGN UU
 11D93..11D94  ; Right # Mc   [2] GUNJALA GONDI VOWEL SIGN OO..GUNJALA GONDI VOWEL SIGN AU
 11D96         ; Right # Mc       GUNJALA GONDI SIGN VISARGA
+11EF6         ; Right # Mc       MAKASAR VOWEL SIGN O
 
 # Indic_Positional_Category=Left
 
@@ -306,6 +307,7 @@ AAEE          ; Left # Mc       MEETEI MAYEK VOWEL SIGN AU
 11726         ; Left # Mc       AHOM VOWEL SIGN E
 1182D         ; Left # Mc       DOGRA VOWEL SIGN I
 11CB1         ; Left # Mc       MARCHEN VOWEL SIGN I
+11EF5         ; Left # Mc       MAKASAR VOWEL SIGN E
 
 # Indic_Positional_Category=Visual_Order_Left
 
@@ -524,6 +526,7 @@ ABE5          ; Top # Mn       MEETEI MAYEK VOWEL SIGN ANAP
 11D43         ; Top # Mn       MASARAM GONDI SIGN CANDRA
 11D90..11D91  ; Top # Mn   [2] GUNJALA GONDI VOWEL SIGN EE..GUNJALA GONDI VOWEL SIGN AI
 11D95         ; Top # Mn       GUNJALA GONDI SIGN ANUSVARA
+11EF3         ; Top # Mn       MAKASAR VOWEL SIGN I
 
 # Indic_Positional_Category=Bottom
 
@@ -663,6 +666,7 @@ ABED          ; Bottom # Mn       MEETEI MAYEK APUN IYEK
 11D42         ; Bottom # Mn       MASARAM GONDI SIGN NUKTA
 11D44         ; Bottom # Mn       MASARAM GONDI SIGN HALANTA
 11D47         ; Bottom # Mn       MASARAM GONDI RA-KARA
+11EF4         ; Bottom # Mn       MAKASAR VOWEL SIGN U
 
 # Indic_Positional_Category=Top_And_Bottom
 
