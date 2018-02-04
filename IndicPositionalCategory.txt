@@ -216,6 +216,7 @@ ABEC          ; Right # Mc       MEETEI MAYEK LUM IYEK
 110B0         ; Right # Mc       KAITHI VOWEL SIGN AA
 110B2         ; Right # Mc       KAITHI VOWEL SIGN II
 110B7..110B8  ; Right # Mc   [2] KAITHI VOWEL SIGN O..KAITHI VOWEL SIGN AU
+11145..11146  ; Right # Mc   [2] CHAKMA VOWEL SIGN AA..CHAKMA VOWEL SIGN EI
 11182         ; Right # Mc       SHARADA SIGN VISARGA
 111B3         ; Right # Mc       SHARADA VOWEL SIGN AA
 111B5         ; Right # Mc       SHARADA VOWEL SIGN II
