@@ -358,14 +358,6 @@ FF9E..FF9F    ; Hira Kana # Lm   [2] HALFWIDTH KATAKANA VOICED SOUND MARK..HALFW
 
 # ================================================
 
-# Script_Extensions=Deva Kthi Mahj
-
-0966..096F    ; Deva Kthi Mahj # Nd  [10] DEVANAGARI DIGIT ZERO..DEVANAGARI DIGIT NINE
-
-# Total code points: 10
-
-# ================================================
-
 # Script_Extensions=Hani Hira Kana
 
 303C          ; Hani Hira Kana # Lo       MASU MARK
@@ -407,6 +399,14 @@ A92E          ; Kali Latn Mymr # Po       KAYAH LI SIGN CWI
 1735..1736    ; Buhd Hano Tagb Tglg # Po   [2] PHILIPPINE SINGLE PUNCTUATION..PHILIPPINE DOUBLE PUNCTUATION
 
 # Total code points: 2
+
+# ================================================
+
+# Script_Extensions=Deva Dogr Kthi Mahj
+
+0966..096F    ; Deva Dogr Kthi Mahj # Nd  [10] DEVANAGARI DIGIT ZERO..DEVANAGARI DIGIT NINE
+
+# Total code points: 10
 
 # ================================================
 
@@ -472,21 +472,13 @@ FF64..FF65    ; Bopo Hang Hani Hira Kana Yiii # Po   [2] HALFWIDTH IDEOGRAPHIC C
 
 # ================================================
 
-# Script_Extensions=Deva Gujr Guru Khoj Kthi Mahj Modi Sind Takr Tirh
+# Script_Extensions=Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Sind Takr Tirh
 
-A836..A837    ; Deva Gujr Guru Khoj Kthi Mahj Modi Sind Takr Tirh # So   [2] NORTH INDIC QUARTER MARK..NORTH INDIC PLACEHOLDER MARK
-A838          ; Deva Gujr Guru Khoj Kthi Mahj Modi Sind Takr Tirh # Sc       NORTH INDIC RUPEE MARK
-A839          ; Deva Gujr Guru Khoj Kthi Mahj Modi Sind Takr Tirh # So       NORTH INDIC QUANTITY MARK
+A836..A837    ; Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Sind Takr Tirh # So   [2] NORTH INDIC QUARTER MARK..NORTH INDIC PLACEHOLDER MARK
+A838          ; Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Sind Takr Tirh # Sc       NORTH INDIC RUPEE MARK
+A839          ; Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Sind Takr Tirh # So       NORTH INDIC QUANTITY MARK
 
 # Total code points: 4
-
-# ================================================
-
-# Script_Extensions=Deva Gujr Guru Khoj Knda Kthi Mahj Modi Sind Takr Tirh
-
-A833..A835    ; Deva Gujr Guru Khoj Knda Kthi Mahj Modi Sind Takr Tirh # No   [3] NORTH INDIC FRACTION ONE SIXTEENTH..NORTH INDIC FRACTION THREE SIXTEENTHS
-
-# Total code points: 3
 
 # ================================================
 
@@ -498,9 +490,9 @@ A833..A835    ; Deva Gujr Guru Khoj Knda Kthi Mahj Modi Sind Takr Tirh # No   [3
 
 # ================================================
 
-# Script_Extensions=Deva Gujr Guru Khoj Knda Kthi Mahj Mlym Modi Sind Takr Tirh
+# Script_Extensions=Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Modi Sind Takr Tirh
 
-A830..A832    ; Deva Gujr Guru Khoj Knda Kthi Mahj Mlym Modi Sind Takr Tirh # No   [3] NORTH INDIC FRACTION ONE QUARTER..NORTH INDIC FRACTION THREE QUARTERS
+A833..A835    ; Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Modi Sind Takr Tirh # No   [3] NORTH INDIC FRACTION ONE SIXTEENTH..NORTH INDIC FRACTION THREE SIXTEENTHS
 
 # Total code points: 3
 
@@ -514,17 +506,25 @@ A830..A832    ; Deva Gujr Guru Khoj Knda Kthi Mahj Mlym Modi Sind Takr Tirh # No
 
 # ================================================
 
-# Script_Extensions=Beng Deva Gran Gujr Guru Knda Mahj Mlym Orya Sind Sinh Sylo Takr Taml Telu Tirh
+# Script_Extensions=Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Mlym Modi Sind Takr Tirh
 
-0964          ; Beng Deva Gran Gujr Guru Knda Mahj Mlym Orya Sind Sinh Sylo Takr Taml Telu Tirh # Po       DEVANAGARI DANDA
+A830..A832    ; Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Mlym Modi Sind Takr Tirh # No   [3] NORTH INDIC FRACTION ONE QUARTER..NORTH INDIC FRACTION THREE QUARTERS
+
+# Total code points: 3
+
+# ================================================
+
+# Script_Extensions=Beng Deva Dogr Gran Gujr Guru Knda Mahj Mlym Orya Sind Sinh Sylo Takr Taml Telu Tirh
+
+0964          ; Beng Deva Dogr Gran Gujr Guru Knda Mahj Mlym Orya Sind Sinh Sylo Takr Taml Telu Tirh # Po       DEVANAGARI DANDA
 
 # Total code points: 1
 
 # ================================================
 
-# Script_Extensions=Beng Deva Gran Gujr Guru Knda Limb Mahj Mlym Orya Sind Sinh Sylo Takr Taml Telu Tirh
+# Script_Extensions=Beng Deva Dogr Gran Gujr Guru Knda Limb Mahj Mlym Orya Sind Sinh Sylo Takr Taml Telu Tirh
 
-0965          ; Beng Deva Gran Gujr Guru Knda Limb Mahj Mlym Orya Sind Sinh Sylo Takr Taml Telu Tirh # Po       DEVANAGARI DOUBLE DANDA
+0965          ; Beng Deva Dogr Gran Gujr Guru Knda Limb Mahj Mlym Orya Sind Sinh Sylo Takr Taml Telu Tirh # Po       DEVANAGARI DOUBLE DANDA
 
 # Total code points: 1
 
