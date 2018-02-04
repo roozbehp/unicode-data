@@ -124,6 +124,7 @@ A980..A981    ; Bindu # Mn   [2] JAVANESE SIGN PANYANGGA..JAVANESE SIGN CECAK
 11C3C..11C3D  ; Bindu # Mn   [2] BHAIKSUKI SIGN CANDRABINDU..BHAIKSUKI SIGN ANUSVARA
 11CB5..11CB6  ; Bindu # Mn   [2] MARCHEN SIGN ANUSVARA..MARCHEN SIGN CANDRABINDU
 11D40         ; Bindu # Mn       MASARAM GONDI SIGN ANUSVARA
+11D95         ; Bindu # Mn       GUNJALA GONDI SIGN ANUSVARA
 
 # ================================================
 
@@ -170,6 +171,7 @@ AAF5          ; Visarga # Mc       MEETEI MAYEK VOWEL SIGN VISARGA
 11A97         ; Visarga # Mc       SOYOMBO SIGN VISARGA
 11C3E         ; Visarga # Mc       BHAIKSUKI SIGN VISARGA
 11D41         ; Visarga # Mn       MASARAM GONDI SIGN VISARGA
+11D96         ; Visarga # Mc       GUNJALA GONDI SIGN VISARGA
 
 # ================================================
 
@@ -326,6 +328,7 @@ AAF6          ; Invisible_Stacker # Mn       MEETEI MAYEK VIRAMA
 11A47         ; Invisible_Stacker # Mn       ZANABAZAR SQUARE SUBJOINER
 11A99         ; Invisible_Stacker # Mn       SOYOMBO SUBJOINER
 11D45         ; Invisible_Stacker # Mn       MASARAM GONDI VIRAMA
+11D97         ; Invisible_Stacker # Mn       GUNJALA GONDI VIRAMA
 
 # ================================================
 
@@ -415,6 +418,9 @@ ABD1          ; Vowel_Independent # Lo       MEETEI MAYEK LETTER ATIYA
 11D00..11D06  ; Vowel_Independent # Lo   [7] MASARAM GONDI LETTER A..MASARAM GONDI LETTER E
 11D08..11D09  ; Vowel_Independent # Lo   [2] MASARAM GONDI LETTER AI..MASARAM GONDI LETTER O
 11D0B         ; Vowel_Independent # Lo       MASARAM GONDI LETTER AU
+11D60..11D65  ; Vowel_Independent # Lo   [6] GUNJALA GONDI LETTER A..GUNJALA GONDI LETTER UU
+11D67..11D68  ; Vowel_Independent # Lo   [2] GUNJALA GONDI LETTER EE..GUNJALA GONDI LETTER AI
+11D6A..11D6B  ; Vowel_Independent # Lo   [2] GUNJALA GONDI LETTER OO..GUNJALA GONDI LETTER AU
 
 # ================================================
 
@@ -658,6 +664,9 @@ ABE9..ABEA    ; Vowel_Dependent # Mc   [2] MEETEI MAYEK VOWEL SIGN CHEINAP..MEET
 11D3C..11D3D  ; Vowel_Dependent # Mn   [2] MASARAM GONDI VOWEL SIGN AI..MASARAM GONDI VOWEL SIGN O
 11D3F         ; Vowel_Dependent # Mn       MASARAM GONDI VOWEL SIGN AU
 11D43         ; Vowel_Dependent # Mn       MASARAM GONDI SIGN CANDRA
+11D8A..11D8E  ; Vowel_Dependent # Mc   [5] GUNJALA GONDI VOWEL SIGN AA..GUNJALA GONDI VOWEL SIGN UU
+11D90..11D91  ; Vowel_Dependent # Mn   [2] GUNJALA GONDI VOWEL SIGN EE..GUNJALA GONDI VOWEL SIGN AI
+11D93..11D94  ; Vowel_Dependent # Mc   [2] GUNJALA GONDI VOWEL SIGN OO..GUNJALA GONDI VOWEL SIGN AU
 
 # ================================================
 
@@ -858,6 +867,7 @@ ABD2..ABDA    ; Consonant # Lo   [9] MEETEI MAYEK LETTER GOK..MEETEI MAYEK LETTE
 11C0E..11C2E  ; Consonant # Lo  [33] BHAIKSUKI LETTER KA..BHAIKSUKI LETTER HA
 11C72..11C8F  ; Consonant # Lo  [30] MARCHEN LETTER KA..MARCHEN LETTER A
 11D0C..11D30  ; Consonant # Lo  [37] MASARAM GONDI LETTER KA..MASARAM GONDI LETTER TRA
+11D6C..11D89  ; Consonant # Lo  [30] GUNJALA GONDI LETTER YA..GUNJALA GONDI LETTER SA
 
 # ================================================
 
@@ -1240,6 +1250,7 @@ ABF0..ABF9    ; Number # Nd  [10] MEETEI MAYEK DIGIT ZERO..MEETEI MAYEK DIGIT NI
 11C50..11C59  ; Number # Nd  [10] BHAIKSUKI DIGIT ZERO..BHAIKSUKI DIGIT NINE
 11C5A..11C6C  ; Number # No  [19] BHAIKSUKI NUMBER ONE..BHAIKSUKI HUNDREDS UNIT MARK
 11D50..11D59  ; Number # Nd  [10] MASARAM GONDI DIGIT ZERO..MASARAM GONDI DIGIT NINE
+11DA0..11DA9  ; Number # Nd  [10] GUNJALA GONDI DIGIT ZERO..GUNJALA GONDI DIGIT NINE
 
 # ================================================
 
