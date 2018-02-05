@@ -84,8 +84,15 @@
 #     complex ligatures with consonants in older Malayalam orthography.
 #   * U+11341 GRANTHA VOWEL SIGN U and U+11342 GRANTHA VOWEL SIGN UU have
 #     contextually variable placement in Grantha.
+#   * U+11440 NEWA VOWEL SIGN O and U+11441 NEWA VOWEL SIGN AU have contextually
+#     variable placement in Newa.
 #
-# 2. The following characters are all assigned the positional category Bottom,
+# 2. The following characters are all assigned the positional category Top,
+# but may have different positions in some cases:
+#   * U+1143E NEWA VOWEL SIGN E and U+1143F NEWA VOWEL SIGN AI have contextually
+#     variable placement in Newa.
+#
+# 3. The following characters are all assigned the positional category Bottom,
 # but may have different positions in some cases:
 #   * U+102F MYANMAR VOWEL SIGN U and U+1030 MYANMAR VOWEL SIGN UU have
 #     contextually variable placement in Myanmar.
