@@ -301,6 +301,14 @@ FF9E..FF9F    ; Hira Kana # Lm   [2] HALFWIDTH KATAKANA VOICED SOUND MARK..HALFW
 
 # ================================================
 
+# Script_Extensions=Latn Mong
+
+202F          ; Latn Mong # Zs       NARROW NO-BREAK SPACE
+
+# Total code points: 1
+
+# ================================================
+
 # Script_Extensions=Mong Phag
 
 1802..1803    ; Mong Phag # Po   [2] MONGOLIAN COMMA..MONGOLIAN FULL STOP
