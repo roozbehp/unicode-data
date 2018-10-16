@@ -96,6 +96,8 @@
 # but may have different positions in some cases:
 #   * U+102F MYANMAR VOWEL SIGN U and U+1030 MYANMAR VOWEL SIGN UU have
 #     contextually variable placement in Myanmar.
+#   * U+1A69 TAI THAM VOWEL SIGN U and U+1A6A TAI THAM VOWEL SIGN UU have
+#     contextually variable placement in Tai Tham.
 
 
 # ================================================
