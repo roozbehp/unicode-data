@@ -1112,6 +1112,7 @@ ABEC          ; Tone_Mark # Mc       MEETEI MAYEK LUM IYEK
 1CF4          ; Cantillation_Mark # Mn       VEDIC TONE CANDRA ABOVE
 1CF7          ; Cantillation_Mark # Mc       VEDIC SIGN ATIKRAMA
 1CF8..1CF9    ; Cantillation_Mark # Mn   [2] VEDIC TONE RING ABOVE..VEDIC TONE DOUBLE RING ABOVE
+20F0          ; Cantillation_Mark # Mn       COMBINING ASTERISK ABOVE
 A8E0..A8F1    ; Cantillation_Mark # Mn  [18] COMBINING DEVANAGARI DIGIT ZERO..COMBINING DEVANAGARI SIGN AVAGRAHA
 1123E         ; Cantillation_Mark # Mn       KHOJKI SIGN SUKUN
 11366..1136C  ; Cantillation_Mark # Mn   [7] COMBINING GRANTHA DIGIT ZERO..COMBINING GRANTHA DIGIT SIX
