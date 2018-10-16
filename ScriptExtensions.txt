@@ -224,10 +224,10 @@ A66F          ; Cyrl Glag # Mn       COMBINING CYRILLIC VZMET
 # Script_Extensions=Deva Gran
 
 1CD3          ; Deva Gran # Po       VEDIC SIGN NIHSHVASA
-1CF2..1CF3    ; Deva Gran # Lo   [2] VEDIC SIGN ARDHAVISARGA..VEDIC SIGN ROTATED ARDHAVISARGA
+1CF3          ; Deva Gran # Lo       VEDIC SIGN ROTATED ARDHAVISARGA
 1CF8..1CF9    ; Deva Gran # Mn   [2] VEDIC TONE RING ABOVE..VEDIC TONE DOUBLE RING ABOVE
 
-# Total code points: 5
+# Total code points: 4
 
 # ================================================
 
@@ -361,6 +361,14 @@ FF9E..FF9F    ; Hira Kana # Lm   [2] HALFWIDTH KATAKANA VOICED SOUND MARK..HALFW
 # Script_Extensions=Deva Gran Latn
 
 20F0          ; Deva Gran Latn # Mn       COMBINING ASTERISK ABOVE
+
+# Total code points: 1
+
+# ================================================
+
+# Script_Extensions=Deva Gran Tirh
+
+1CF2          ; Deva Gran Tirh # Lo       VEDIC SIGN ARDHAVISARGA
 
 # Total code points: 1
 
