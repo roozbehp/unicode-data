@@ -1,20 +1,11 @@
-* For Unicode 10, make the ScriptExtensions property of U+11FCE and U+11FCF
-  {Grantha, Tamil} (see http://www.unicode.org/L2/L2014/14218-grantha-tamil-numeral.pdf).
-  1/4 appears to be unified with the letter VA, so it's presumably different
-  between Grantha and Tamil. Waiting for Shriramana to get back to me
-  regarding other potential fractions shared between Grantha and Tamil.
 * Add Tulu-Tigalari to the scx of of U+A8F1 after we encoded Tulu-Tigalari:
   http://www.unicode.org/L2/L2015/15162-devanagari-combining-avagraha-prop.pdf
 * Go over L2/15-164 and see if there should be any additions to
   ScriptExtensions.
-* Find out if Vedic signs are used in other scripts. Some documents (such as
-  L2/07-060) mention usage of the Vedic characters in Bengali, Oriya, and
-  Kannada, but I couldn't find examples on the web or the document registry.
 * Find out if Arabic percent sign, decimal separator, and percent sign are
   used in Thaana (either historically or presently).
-* For Unicode 10, add Masaram Gondi
-  (http://www.unicode.org/L2/L2015/15090-masaram-gondi.pdf) and Gunjala Gondi
-  (http://www.unicode.org/L2/L2015/15086-gunjala-gondi.pdf) to danda and double
-  danda.
-* Add Nandinagri and Tigalari to scx of Indic fractions:
+* Add Masaram Gondi
+  (http://www.unicode.org/L2/L2015/15090-masaram-gondi.pdf) to danda and
+  double danda.
+* Add Tulu-Tigalari to scx of Indic fractions:
   http://www.unicode.org/L2/L2015/15243-kannada-frac.pdf
