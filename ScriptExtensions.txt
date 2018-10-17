@@ -366,14 +366,6 @@ FF9E..FF9F    ; Hira Kana # Lm   [2] HALFWIDTH KATAKANA VOICED SOUND MARK..HALFW
 
 # ================================================
 
-# Script_Extensions=Deva Gran Tirh
-
-1CF2          ; Deva Gran Tirh # Lo       VEDIC SIGN ARDHAVISARGA
-
-# Total code points: 1
-
-# ================================================
-
 # Script_Extensions=Hani Hira Kana
 
 303C          ; Hani Hira Kana # Lo       MASU MARK
@@ -438,6 +430,14 @@ A92E          ; Kali Latn Mymr # Po       KAYAH LI SIGN CWI
 FE45..FE46    ; Bopo Hang Hani Hira Kana # Po   [2] SESAME DOT..WHITE SESAME DOT
 
 # Total code points: 10
+
+# ================================================
+
+# Script_Extensions=Beng Deva Gran Knda Telu Tirh
+
+1CF2          ; Beng Deva Gran Knda Telu Tirh # Lo       VEDIC SIGN ARDHAVISARGA
+
+# Total code points: 1
 
 # ================================================
 
