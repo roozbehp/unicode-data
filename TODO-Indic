@@ -1,9 +1,10 @@
 * Add new positional category for U+103C MYANMAR CONSONANT SIGN MEDIAL RA.
 
 * Separate Vowel_Dependent into Vowel_Dependent and Vowel_Modifier.
-  Candidates for Vowel_Modifier include vowel length marks, U+10A0D,
-  U+111CB, U+111CC, etc. Also figure out if U+17CB is better classified
-  as Vowel_Modifier.
+  Candidates for Vowel_Modifier include vowel length marks, U+AA29 (see
+  https://github.com/roozbehp/unicode-data/issues/6), U+10A0D, U+111CB,
+  U+111CC, etc. Also figure out if U+17CB is better classified as
+  Vowel_Modifier.
 
 * Go over http://unicode.org/pipermail/unicode/2014-May/000562.html and see
   if any categories should be changed based on it.
