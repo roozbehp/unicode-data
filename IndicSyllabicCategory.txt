@@ -132,7 +132,6 @@ A980..A981    ; Bindu # Mn   [2] JAVANESE SIGN PANYANGGA..JAVANESE SIGN CECAK
 # Indic_Syllabic_Category=Visarga
 
 # Visarga (-h)
-# Includes specialized case for Sanskrit: ardhavisarga
 # Excludes letters for jihvamuliya and upadhmaniya, which are
 #   related, but structured somewhat differently.
 
@@ -152,7 +151,6 @@ A980..A981    ; Bindu # Mn   [2] JAVANESE SIGN PANYANGGA..JAVANESE SIGN CECAK
 17C7          ; Visarga # Mc       KHMER SIGN REAHMUK
 1B04          ; Visarga # Mc       BALINESE SIGN BISAH
 1B82          ; Visarga # Mc       SUNDANESE SIGN PANGWISAD
-1CF2..1CF3    ; Visarga # Mc   [2] VEDIC SIGN ARDHAVISARGA..VEDIC SIGN ROTATED ARDHAVISARGA
 A881          ; Visarga # Mc       SAURASHTRA SIGN VISARGA
 A983          ; Visarga # Mc       JAVANESE SIGN WIGNYAN
 AAF5          ; Visarga # Mc       MEETEI MAYEK VOWEL SIGN VISARGA
@@ -885,6 +883,7 @@ ABD2..ABDA    ; Consonant # Lo   [9] MEETEI MAYEK LETTER GOK..MEETEI MAYEK LETTE
 09CE          ; Consonant_Dead # Lo       BENGALI LETTER KHANDA TA
 0D54..0D56    ; Consonant_Dead # Lo   [3] MALAYALAM LETTER CHILLU M..MALAYALAM LETTER CHILLU LLL
 0D7A..0D7F    ; Consonant_Dead # Lo   [6] MALAYALAM LETTER CHILLU NN..MALAYALAM LETTER CHILLU K
+1CF2..1CF3    ; Consonant_Dead # Lo   [2] VEDIC SIGN ARDHAVISARGA..VEDIC SIGN ROTATED ARDHAVISARGA
 
 # ================================================
 
