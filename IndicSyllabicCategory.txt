@@ -287,6 +287,7 @@ A9C0          ; Virama # Mc       JAVANESE PANGKON
 0D3B..0D3C    ; Pure_Killer # Mn   [2] MALAYALAM SIGN VERTICAL BAR VIRAMA..MALAYALAM SIGN CIRCULAR VIRAMA
 0E3A          ; Pure_Killer # Mn       THAI CHARACTER PHINTHU
 0E4E          ; Pure_Killer # Mn       THAI CHARACTER YAMAKKAN
+0EBA          ; Pure_Killer # Mn       LAO SIGN PALI VIRAMA
 0F84          ; Pure_Killer # Mn       TIBETAN MARK HALANTA
 103A          ; Pure_Killer # Mn       MYANMAR SIGN ASAT
 1714          ; Pure_Killer # Mn       TAGALOG SIGN VIRAMA
@@ -768,16 +769,10 @@ AA74..AA76    ; Consonant_Placeholder # Lo   [3] MYANMAR LOGOGRAM KHAMTI OAY..MY
 0E01..0E2E    ; Consonant # Lo  [46] THAI CHARACTER KO KAI..THAI CHARACTER HO NOKHUK
 0E81..0E82    ; Consonant # Lo   [2] LAO LETTER KO..LAO LETTER KHO SUNG
 0E84          ; Consonant # Lo       LAO LETTER KHO TAM
-0E87..0E88    ; Consonant # Lo   [2] LAO LETTER NGO..LAO LETTER CO
-0E8A          ; Consonant # Lo       LAO LETTER SO TAM
-0E8D          ; Consonant # Lo       LAO LETTER NYO
-0E94..0E97    ; Consonant # Lo   [4] LAO LETTER DO..LAO LETTER THO TAM
-0E99..0E9F    ; Consonant # Lo   [7] LAO LETTER NO..LAO LETTER FO SUNG
-0EA1..0EA3    ; Consonant # Lo   [3] LAO LETTER MO..LAO LETTER LO LING
+0E86..0E8A    ; Consonant # Lo   [5] LAO LETTER PALI GHA..LAO LETTER SO TAM
+0E8C..0EA3    ; Consonant # Lo  [24] LAO LETTER PALI JHA..LAO LETTER LO LING
 0EA5          ; Consonant # Lo       LAO LETTER LO LOOT
-0EA7          ; Consonant # Lo       LAO LETTER WO
-0EAA..0EAB    ; Consonant # Lo   [2] LAO LETTER SO SUNG..LAO LETTER HO SUNG
-0EAD..0EAE    ; Consonant # Lo   [2] LAO LETTER O..LAO LETTER HO TAM
+0EA7..0EAE    ; Consonant # Lo   [8] LAO LETTER WO..LAO LETTER HO TAM
 0EDC..0EDF    ; Consonant # Lo   [4] LAO HO NO..LAO LETTER KHMU NYO
 0F40..0F47    ; Consonant # Lo   [8] TIBETAN LETTER KA..TIBETAN LETTER JA
 0F49..0F6C    ; Consonant # Lo  [36] TIBETAN LETTER NYA..TIBETAN LETTER RRA
