@@ -40,9 +40,9 @@
 # Gurmukhi, Hanunoo, Javanese, Kaithi, Kannada, Kayah Li, Kharoshthi,
 # Khmer, Khojki, Khudawadi, Lao, Lepcha, Limbu, Mahajani, Makasar,
 # Malayalam, Marchen, Masaram Gondi, Meetei Mayek, Modi, Multani,
-# Myanmar, Newa, New Tai Lue, Oriya, Phags-pa, Rejang, Saurashtra,
-# Sharada, Siddham, Sinhala, Soyombo, Sundanese, Syloti Nagri,
-# Tagalog, Tagbanwa, Tai Le, Tai Tham, Tai Viet, Takri, Tamil,
+# Myanmar, Nandinagari, Newa, New Tai Lue, Oriya, Phags-pa, Rejang,
+# Saurashtra, Sharada, Siddham, Sinhala, Soyombo, Sundanese, Syloti
+# Nagri, Tagalog, Tagbanwa, Tai Le, Tai Tham, Tai Viet, Takri, Tamil,
 # Telugu, Thai, Tibetan, Tirhuta, and Zanabazar Square.
 #
 # All characters for all other scripts not in that list
@@ -121,6 +121,7 @@ A980..A981    ; Bindu # Mn   [2] JAVANESE SIGN PANYANGGA..JAVANESE SIGN CECAK
 1163D         ; Bindu # Mn       MODI SIGN ANUSVARA
 116AB         ; Bindu # Mn       TAKRI SIGN ANUSVARA
 11837         ; Bindu # Mn       DOGRA SIGN ANUSVARA
+119DE         ; Bindu # Mc       NANDINAGARI SIGN ANUSVARA
 11A35..11A38  ; Bindu # Mn   [4] ZANABAZAR SQUARE SIGN CANDRABINDU..ZANABAZAR SQUARE SIGN ANUSVARA
 11A96         ; Bindu # Mn       SOYOMBO SIGN ANUSVARA
 11C3C..11C3D  ; Bindu # Mn   [2] BHAIKSUKI SIGN CANDRABINDU..BHAIKSUKI SIGN ANUSVARA
@@ -167,6 +168,7 @@ AAF5          ; Visarga # Mc       MEETEI MAYEK VOWEL SIGN VISARGA
 1163E         ; Visarga # Mc       MODI SIGN VISARGA
 116AC         ; Visarga # Mc       TAKRI SIGN VISARGA
 11838         ; Visarga # Mc       DOGRA SIGN VISARGA
+119DF         ; Visarga # Mc       NANDINAGARI SIGN VISARGA
 11A39         ; Visarga # Mc       ZANABAZAR SQUARE SIGN VISARGA
 11A97         ; Visarga # Mc       SOYOMBO SIGN VISARGA
 11C3E         ; Visarga # Mc       BHAIKSUKI SIGN VISARGA
@@ -195,6 +197,7 @@ AAF5          ; Visarga # Mc       MEETEI MAYEK VOWEL SIGN VISARGA
 1133D         ; Avagraha # Lo       GRANTHA SIGN AVAGRAHA
 11447         ; Avagraha # Lo       NEWA SIGN AVAGRAHA
 114C4         ; Avagraha # Lo       TIRHUTA SIGN AVAGRAHA
+119E1         ; Avagraha # Lo       NANDINAGARI SIGN AVAGRAHA
 11A9D         ; Avagraha # Lo       SOYOMBO MARK PLUTA
 11C40         ; Avagraha # Lo       BHAIKSUKI SIGN AVAGRAHA
 
@@ -274,6 +277,7 @@ A9C0          ; Virama # Mc       JAVANESE PANGKON
 1163F         ; Virama # Mn       MODI SIGN VIRAMA
 116B6         ; Virama # Mc       TAKRI SIGN VIRAMA
 11839         ; Virama # Mn       DOGRA SIGN VIRAMA
+119E0         ; Virama # Mn       NANDINAGARI SIGN VIRAMA
 11C3F         ; Virama # Mn       BHAIKSUKI SIGN VIRAMA
 
 # ================================================
@@ -412,6 +416,8 @@ ABD1          ; Vowel_Independent # Lo       MEETEI MAYEK LETTER ATIYA
 11600..1160D  ; Vowel_Independent # Lo  [14] MODI LETTER A..MODI LETTER AU
 11680..11689  ; Vowel_Independent # Lo  [10] TAKRI LETTER A..TAKRI LETTER AU
 11800..11809  ; Vowel_Independent # Lo  [10] DOGRA LETTER A..DOGRA LETTER AU
+119A0..119A7  ; Vowel_Independent # Lo   [8] NANDINAGARI LETTER A..NANDINAGARI LETTER VOCALIC RR
+119AA..119AD  ; Vowel_Independent # Lo   [4] NANDINAGARI LETTER E..NANDINAGARI LETTER AU
 11A00         ; Vowel_Independent # Lo       ZANABAZAR SQUARE LETTER A
 11A50         ; Vowel_Independent # Lo       SOYOMBO LETTER A
 11C00..11C08  ; Vowel_Independent # Lo   [9] BHAIKSUKI LETTER A..BHAIKSUKI LETTER VOCALIC L
@@ -647,6 +653,13 @@ ABE9..ABEA    ; Vowel_Dependent # Mc   [2] MEETEI MAYEK VOWEL SIGN CHEINAP..MEET
 11727..1172A  ; Vowel_Dependent # Mn   [4] AHOM VOWEL SIGN AW..AHOM VOWEL SIGN AM
 1182C..1182E  ; Vowel_Dependent # Mc   [3] DOGRA VOWEL SIGN AA..DOGRA VOWEL SIGN II
 1182F..11836  ; Vowel_Dependent # Mn   [8] DOGRA VOWEL SIGN U..DOGRA VOWEL SIGN AU
+119D1         ; Vowel_Dependent # Mc       NANDINAGARI VOWEL SIGN AA
+119D2         ; Vowel_Dependent # Mn       NANDINAGARI VOWEL SIGN I
+119D3         ; Vowel_Dependent # Mc       NANDINAGARI VOWEL SIGN II
+119D4..119D7  ; Vowel_Dependent # Mn   [4] NANDINAGARI VOWEL SIGN U..NANDINAGARI VOWEL SIGN VOCALIC RR
+119DA..119DB  ; Vowel_Dependent # Mn   [2] NANDINAGARI VOWEL SIGN E..NANDINAGARI VOWEL SIGN AI
+119DC..119DD  ; Vowel_Dependent # Mc   [2] NANDINAGARI VOWEL SIGN O..NANDINAGARI VOWEL SIGN AU
+119E4         ; Vowel_Dependent # Mc       NANDINAGARI VOWEL SIGN PRISHTHAMATRA E
 11A01..11A0A  ; Vowel_Dependent # Mn  [10] ZANABAZAR SQUARE VOWEL SIGN I..ZANABAZAR SQUARE VOWEL LENGTH MARK
 11A51..11A56  ; Vowel_Dependent # Mn   [6] SOYOMBO VOWEL SIGN I..SOYOMBO VOWEL SIGN OE
 11A57..11A58  ; Vowel_Dependent # Mc   [2] SOYOMBO VOWEL SIGN AI..SOYOMBO VOWEL SIGN AU
@@ -862,6 +875,7 @@ ABD2..ABDA    ; Consonant # Lo   [9] MEETEI MAYEK LETTER GOK..MEETEI MAYEK LETTE
 116B8         ; Consonant # Lo       TAKRI LETTER ARCHAIC KHA
 11700..1171A  ; Consonant # Lo  [27] AHOM LETTER KA..AHOM LETTER ALTERNATE BA
 1180A..1182B  ; Consonant # Lo  [34] DOGRA LETTER KA..DOGRA LETTER RRA
+119AE..119D0  ; Consonant # Lo  [35] NANDINAGARI LETTER KA..NANDINAGARI LETTER RRA
 11A0B..11A32  ; Consonant # Lo  [40] ZANABAZAR SQUARE LETTER KA..ZANABAZAR SQUARE LETTER KSSA
 11A5C..11A83  ; Consonant # Lo  [40] SOYOMBO LETTER KA..SOYOMBO LETTER KSSA
 11C0E..11C2E  ; Consonant # Lo  [33] BHAIKSUKI LETTER KA..BHAIKSUKI LETTER HA

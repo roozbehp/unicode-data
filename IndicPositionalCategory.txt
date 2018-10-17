@@ -60,10 +60,11 @@
 # Chakma, Cham, Devanagari, Dogra, Grantha, Gujarati, Gunjala Gondi,
 # Gurmukhi, Hanunoo, Javanese, Kaithi, Kannada, Kharoshthi, Khmer,
 # Khojki, Khudawadi, Lao, Lepcha, Limbu, Makasar, Malayalam, Marchen,
-# Masaram Gondi, Meetei Mayek, Modi, Myanmar, Newa, New Tai Lue,
-# Oriya, Rejang, Saurashtra, Sharada, Siddham, Sinhala, Soyombo,
-# Sundanese, Syloti Nagri, Tagalog, Tagbanwa, Tai Tham, Tai Viet,
-# Takri, Tamil, Telugu, Thai, Tibetan, Tirhuta, and Zanabazar Square.
+# Masaram Gondi, Meetei Mayek, Modi, Myanmar, Nandinagari, Newa,
+# New Tai Lue, Oriya, Rejang, Saurashtra, Sharada, Siddham, Sinhala,
+# Soyombo, Sundanese, Syloti Nagri, Tagalog, Tagbanwa, Tai Tham, Tai
+# Viet, Takri, Tamil, Telugu, Thai, Tibetan, Tirhuta, and Zanabazar
+# Square.
 #
 # All characters for all other scripts not in that list
 # take the default value for this property.
@@ -261,6 +262,9 @@ ABEC          ; Right # Mc       MEETEI MAYEK LUM IYEK
 1182C         ; Right # Mc       DOGRA VOWEL SIGN AA
 1182E         ; Right # Mc       DOGRA VOWEL SIGN II
 11838         ; Right # Mc       DOGRA SIGN VISARGA
+119D1         ; Right # Mc       NANDINAGARI VOWEL SIGN AA
+119D3         ; Right # Mc       NANDINAGARI VOWEL SIGN II
+119DC..119DF  ; Right # Mc   [4] NANDINAGARI VOWEL SIGN O..NANDINAGARI SIGN VISARGA
 11A39         ; Right # Mc       ZANABAZAR SQUARE SIGN VISARGA
 11A57..11A58  ; Right # Mc   [2] SOYOMBO VOWEL SIGN AI..SOYOMBO VOWEL SIGN AU
 11A97         ; Right # Mc       SOYOMBO SIGN VISARGA
@@ -315,6 +319,7 @@ AAEE          ; Left # Mc       MEETEI MAYEK VOWEL SIGN AU
 116AE         ; Left # Mc       TAKRI VOWEL SIGN I
 11726         ; Left # Mc       AHOM VOWEL SIGN E
 1182D         ; Left # Mc       DOGRA VOWEL SIGN I
+119E4         ; Left # Mc       NANDINAGARI VOWEL SIGN PRISHTHAMATRA E
 11CB1         ; Left # Mc       MARCHEN VOWEL SIGN I
 11EF5         ; Left # Mc       MAKASAR VOWEL SIGN E
 
@@ -518,6 +523,8 @@ ABE5          ; Top # Mn       MEETEI MAYEK VOWEL SIGN ANAP
 11727         ; Top # Mn       AHOM VOWEL SIGN AW
 11729..1172B  ; Top # Mn   [3] AHOM VOWEL SIGN AI..AHOM SIGN KILLER
 11833..11837  ; Top # Mn   [5] DOGRA VOWEL SIGN E..DOGRA SIGN ANUSVARA
+119D2         ; Top # Mn       NANDINAGARI VOWEL SIGN I
+119DA..119DB  ; Top # Mn   [2] NANDINAGARI VOWEL SIGN E..NANDINAGARI VOWEL SIGN AI
 11A01         ; Top # Mn       ZANABAZAR SQUARE VOWEL SIGN I
 11A04..11A09  ; Top # Mn   [6] ZANABAZAR SQUARE VOWEL SIGN E..ZANABAZAR SQUARE VOWEL SIGN REVERSED I
 11A35..11A38  ; Top # Mn   [4] ZANABAZAR SQUARE SIGN CANDRABINDU..ZANABAZAR SQUARE SIGN ANUSVARA
@@ -660,6 +667,8 @@ ABED          ; Bottom # Mn       MEETEI MAYEK APUN IYEK
 11728         ; Bottom # Mn       AHOM VOWEL SIGN O
 1182F..11832  ; Bottom # Mn   [4] DOGRA VOWEL SIGN U..DOGRA VOWEL SIGN VOCALIC RR
 11839..1183A  ; Bottom # Mn   [2] DOGRA SIGN VIRAMA..DOGRA SIGN NUKTA
+119D4..119D7  ; Bottom # Mn   [4] NANDINAGARI VOWEL SIGN U..NANDINAGARI VOWEL SIGN VOCALIC RR
+119E0         ; Bottom # Mn       NANDINAGARI SIGN VIRAMA
 11A02..11A03  ; Bottom # Mn   [2] ZANABAZAR SQUARE VOWEL SIGN UE..ZANABAZAR SQUARE VOWEL SIGN U
 11A0A         ; Bottom # Mn       ZANABAZAR SQUARE VOWEL LENGTH MARK
 11A33..11A34  ; Bottom # Mn   [2] ZANABAZAR SQUARE FINAL CONSONANT MARK..ZANABAZAR SQUARE SIGN VIRAMA
