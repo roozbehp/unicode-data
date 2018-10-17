@@ -111,6 +111,14 @@
 
 # ================================================
 
+# Script_Extensions=Nand
+
+1CFA          ; Nand # Lo       VEDIC SIGN DOUBLE ANUSVARA ANTARGOMUKHA
+
+# Total code points: 1
+
+# ================================================
+
 # Script_Extensions=Arab Copt
 
 102E0         ; Arab Copt # Mn       COPTIC EPACT THOUSANDS MARK
