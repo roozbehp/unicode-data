@@ -281,8 +281,10 @@ A8F3          ; Deva Taml # Lo       DEVANAGARI SIGN CANDRABINDU VIRAMA
 11301         ; Gran Taml # Mn       GRANTHA SIGN CANDRABINDU
 11303         ; Gran Taml # Mc       GRANTHA SIGN VISARGA
 1133B..1133C  ; Gran Taml # Mn   [2] COMBINING BINDU BELOW..GRANTHA SIGN NUKTA
+11FD0..11FD1  ; Gran Taml # No   [2] TAMIL FRACTION ONE QUARTER..TAMIL FRACTION ONE HALF-1
+11FD3         ; Gran Taml # No       TAMIL FRACTION THREE QUARTERS
 
-# Total code points: 18
+# Total code points: 21
 
 # ================================================
 
