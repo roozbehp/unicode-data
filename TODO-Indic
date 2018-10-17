@@ -1,10 +1,21 @@
 * Add new positional category for U+103C MYANMAR CONSONANT SIGN MEDIAL RA.
 
 * Separate Vowel_Dependent into Vowel_Dependent and Vowel_Modifier.
-  Candidates for Vowel_Modifier include vowel length marks, U+AA29 (see
-  https://github.com/roozbehp/unicode-data/issues/6), U+10A0D, U+111CB,
-  U+111CC, etc. Also figure out if U+17CB is better classified as
-  Vowel_Modifier.
+  Candidates for Vowel_Modifier include vowel length marks, U+AA29, U+10A0D,
+  U+111CB, U+111CC, etc.  Also figure out if U+17CB is better classified as
+  Vowel_Modifier.  Comment from Behdad on U+AA29:
+
+    Even though U+AA29 CHAM VOWEL SIGN AA is called a vowel sign, it, in
+    fact, is a vowel lengthener and can occur after a consonant (lengthening
+    the inherent A vowel), or any other vowel.  As such, it should be
+    recategorized as a vowel modifier, NOT a vowel (which it currently is)
+    for Universal Shaping Engine purposes.  While we can carry this as an
+    override in USE, it makes more sense to us that Unicode data files
+    reflect this distinction.  I don't know if a new category is needed.
+
+    Andrew Glass suggested the same resolution in private communication with Ben Mitchell.
+
+    Ref. https://github.com/harfbuzz/harfbuzz/issues/376
 
 * Go over http://unicode.org/pipermail/unicode/2014-May/000562.html and see
   if any categories should be changed based on it.
