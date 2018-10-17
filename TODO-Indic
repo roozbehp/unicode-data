@@ -8,13 +8,6 @@
 
 * Finish going over Andrew Glass's still-unclear InSC overrides.
 
-* Add Soyombo cluster-initial consonants to Consonant_Prefixed.
-
-* Figure out what to do with Sharada Sandhi mark:
-  http://www.unicode.org/L2/L2012/12322-n4330-sharada-sandhi-mark.pdf
-
-* Figure out categories for U+17DD.
-
 * Check coverage of Indic properties by writing a tool checking coverage
 
 * Make sure all information in HarfBuzz is reflected properly in the data
