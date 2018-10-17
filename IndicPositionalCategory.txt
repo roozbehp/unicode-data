@@ -560,6 +560,7 @@ ABE5          ; Top # Mn       MEETEI MAYEK VOWEL SIGN ANAP
 0A3C          ; Bottom # Mn       GURMUKHI SIGN NUKTA
 0A41..0A42    ; Bottom # Mn   [2] GURMUKHI VOWEL SIGN U..GURMUKHI VOWEL SIGN UU
 0A4D          ; Bottom # Mn       GURMUKHI SIGN VIRAMA
+0A51          ; Bottom # Mn       GURMUKHI SIGN UDAAT
 0A75          ; Bottom # Mn       GURMUKHI SIGN YAKASH
 0ABC          ; Bottom # Mn       GUJARATI SIGN NUKTA
 0AC1..0AC4    ; Bottom # Mn   [4] GUJARATI VOWEL SIGN U..GUJARATI VOWEL SIGN VOCALIC RR
