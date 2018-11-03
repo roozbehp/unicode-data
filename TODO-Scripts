@@ -4,8 +4,5 @@
   ScriptExtensions.
 * Find out if Arabic percent sign, decimal separator, and percent sign are
   used in Thaana (either historically or presently).
-* Add Masaram Gondi
-  (http://www.unicode.org/L2/L2015/15090-masaram-gondi.pdf) to danda and
-  double danda.
 * Add Tulu-Tigalari to scx of Indic fractions:
   http://www.unicode.org/L2/L2015/15243-kannada-frac.pdf
