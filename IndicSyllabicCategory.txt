@@ -572,6 +572,7 @@ ABD1          ; Vowel_Independent # Lo       MEETEI MAYEK LETTER ATIYA
 1BEF          ; Vowel_Dependent # Mn       BATAK VOWEL SIGN U FOR SIMALUNGUN SA
 1C26..1C2B    ; Vowel_Dependent # Mc   [6] LEPCHA VOWEL SIGN AA..LEPCHA VOWEL SIGN UU
 1C2C          ; Vowel_Dependent # Mn       LEPCHA VOWEL SIGN E
+A802          ; Vowel_Dependent # Mn       SYLOTI NAGRI SIGN DVISVARA
 A823..A824    ; Vowel_Dependent # Mc   [2] SYLOTI NAGRI VOWEL SIGN A..SYLOTI NAGRI VOWEL SIGN I
 A825..A826    ; Vowel_Dependent # Mn   [2] SYLOTI NAGRI VOWEL SIGN U..SYLOTI NAGRI VOWEL SIGN E
 A827          ; Vowel_Dependent # Mc       SYLOTI NAGRI VOWEL SIGN OO

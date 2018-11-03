@@ -454,6 +454,7 @@ AABB..AABC    ; Visual_Order_Left # Lo   [2] TAI VIET VOWEL AUE..TAI VIET VOWEL 
 1CF4          ; Top # Mn       VEDIC TONE CANDRA ABOVE
 1DFB          ; Top # Mn       COMBINING DELETION MARK
 20F0          ; Top # Mn       COMBINING ASTERISK ABOVE
+A802          ; Top # Mn       SYLOTI NAGRI SIGN DVISVARA
 A806          ; Top # Mn       SYLOTI NAGRI SIGN HASANTA
 A80B          ; Top # Mn       SYLOTI NAGRI SIGN ANUSVARA
 A826          ; Top # Mn       SYLOTI NAGRI VOWEL SIGN E
