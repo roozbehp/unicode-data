@@ -497,17 +497,17 @@ FF64..FF65    ; Bopo Hang Hani Hira Kana Yiii # Po   [2] HALFWIDTH IDEOGRAPHIC C
 
 # ================================================
 
-# Script_Extensions=Beng Deva Gran Knda Nand Telu Tirh
+# Script_Extensions=Adlm Arab Mand Mani Phlp Rohg Sogd Syrc
 
-1CF2          ; Beng Deva Gran Knda Nand Telu Tirh # Lo       VEDIC SIGN ARDHAVISARGA
+0640          ; Adlm Arab Mand Mani Phlp Rohg Sogd Syrc # Lm       ARABIC TATWEEL
 
 # Total code points: 1
 
 # ================================================
 
-# Script_Extensions=Adlm Arab Mand Mani Phlp Rohg Sogd Syrc
+# Script_Extensions=Beng Deva Gran Knda Nand Orya Telu Tirh
 
-0640          ; Adlm Arab Mand Mani Phlp Rohg Sogd Syrc # Lm       ARABIC TATWEEL
+1CF2          ; Beng Deva Gran Knda Nand Orya Telu Tirh # Lo       VEDIC SIGN ARDHAVISARGA
 
 # Total code points: 1
 
