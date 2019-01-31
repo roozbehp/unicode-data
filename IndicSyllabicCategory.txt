@@ -977,7 +977,6 @@ A982          ; Consonant_Succeeding_Repha # Mn       JAVANESE SIGN LAYAR
 1C24..1C25    ; Consonant_Subjoined # Mc   [2] LEPCHA SUBJOINED LETTER YA..LEPCHA SUBJOINED LETTER RA
 A867..A868    ; Consonant_Subjoined # Lo   [2] PHAGS-PA SUBJOINED LETTER WA..PHAGS-PA SUBJOINED LETTER YA
 A871          ; Consonant_Subjoined # Lo       PHAGS-PA SUBJOINED LETTER RA
-A9BD          ; Consonant_Subjoined # Mc       JAVANESE CONSONANT SIGN KERET
 11C92..11CA7  ; Consonant_Subjoined # Mn  [22] MARCHEN SUBJOINED LETTER KA..MARCHEN SUBJOINED LETTER ZA
 11CA9         ; Consonant_Subjoined # Mc       MARCHEN SUBJOINED LETTER YA
 11CAA..11CAF  ; Consonant_Subjoined # Mn   [6] MARCHEN SUBJOINED LETTER RA..MARCHEN SUBJOINED LETTER A
@@ -1000,6 +999,7 @@ A9BD          ; Consonant_Subjoined # Mc       JAVANESE CONSONANT SIGN KERET
 1A55          ; Consonant_Medial # Mc       TAI THAM CONSONANT SIGN MEDIAL RA
 1A56          ; Consonant_Medial # Mn       TAI THAM CONSONANT SIGN MEDIAL LA
 A8B4          ; Consonant_Medial # Mc       SAURASHTRA CONSONANT SIGN HAARU
+A9BD          ; Consonant_Medial # Mn       JAVANESE CONSONANT SIGN KERET
 A9BE..A9BF    ; Consonant_Medial # Mc   [2] JAVANESE CONSONANT SIGN PENGKAL..JAVANESE CONSONANT SIGN CAKRA
 AA33..AA34    ; Consonant_Medial # Mc   [2] CHAM CONSONANT SIGN YA..CHAM CONSONANT SIGN RA
 AA35..AA36    ; Consonant_Medial # Mn   [2] CHAM CONSONANT SIGN LA..CHAM CONSONANT SIGN WA
