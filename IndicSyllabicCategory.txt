@@ -264,6 +264,7 @@ A9B3          ; Nukta # Mn       JAVANESE SIGN CECAK TELU
 0D4D          ; Virama # Mn       MALAYALAM SIGN VIRAMA
 0DCA          ; Virama # Mn       SINHALA SIGN AL-LAKUNA
 1B44          ; Virama # Mc       BALINESE ADEG ADEG
+A806          ; Virama # Mn       SYLOTI NAGRI SIGN HASANTA
 A8C4          ; Virama # Mn       SAURASHTRA SIGN VIRAMA
 A9C0          ; Virama # Mc       JAVANESE PANGKON
 11046         ; Virama # Mn       BRAHMI VIRAMA
@@ -301,7 +302,6 @@ A9C0          ; Virama # Mc       JAVANESE PANGKON
 1A7A          ; Pure_Killer # Mn       TAI THAM SIGN RA HAAM
 1BAA          ; Pure_Killer # Mc       SUNDANESE SIGN PAMAAEH
 1BF2..1BF3    ; Pure_Killer # Mc   [2] BATAK PANGOLAT..BATAK PANONGONAN
-A806          ; Pure_Killer # Mn       SYLOTI NAGRI SIGN HASANTA
 A953          ; Pure_Killer # Mc       REJANG VIRAMA
 ABED          ; Pure_Killer # Mn       MEETEI MAYEK APUN IYEK
 11134         ; Pure_Killer # Mn       CHAKMA MAAYYAA
