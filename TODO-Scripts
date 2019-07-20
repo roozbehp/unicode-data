@@ -1,3 +1,6 @@
+* Add Yezidi to scx of Arabic comma, semicolon, and question mark and
+  Arabic-Indic digits once we get an ISO 15924 code for Yezidi (see
+  L2/19-051R)
 * Add Tulu-Tigalari to the scx of of U+A8F1 after we encoded Tulu-Tigalari:
   http://www.unicode.org/L2/L2015/15162-devanagari-combining-avagraha-prop.pdf
 * Go over L2/15-164 and see if there should be any additions to
