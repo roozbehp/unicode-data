@@ -211,7 +211,6 @@ A8B4..A8C3    ; Right # Mc  [16] SAURASHTRA CONSONANT SIGN HAARU..SAURASHTRA VOW
 A952..A953    ; Right # Mc   [2] REJANG CONSONANT SIGN H..REJANG VIRAMA
 A983          ; Right # Mc       JAVANESE SIGN WIGNYAN
 A9B4..A9B5    ; Right # Mc   [2] JAVANESE VOWEL SIGN TARUNG..JAVANESE VOWEL SIGN TOLONG
-A9BE          ; Right # Mc       JAVANESE CONSONANT SIGN PENGKAL
 AA33          ; Right # Mc       CHAM CONSONANT SIGN YA
 AA4D          ; Right # Mc       CHAM CONSONANT SIGN FINAL H
 AA7B          ; Right # Mc       MYANMAR SIGN PAO KAREN TONE
@@ -735,6 +734,7 @@ ABED          ; Bottom # Mn       MEETEI MAYEK APUN IYEK
 # Indic_Positional_Category=Bottom_And_Right
 
 1B3B          ; Bottom_And_Right # Mc       BALINESE VOWEL SIGN RA REPA TEDUNG
+A9BE          ; Bottom_And_Right # Mc       JAVANESE CONSONANT SIGN PENGKAL
 A9C0          ; Bottom_And_Right # Mc       JAVANESE PANGKON
 
 # Indic_Positional_Category=Bottom_And_Left
