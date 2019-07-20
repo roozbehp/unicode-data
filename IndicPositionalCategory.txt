@@ -745,6 +745,11 @@ A9BF          ; Bottom_And_Left # Mc       JAVANESE CONSONANT SIGN CAKRA
 
 1B3D          ; Top_And_Bottom_And_Right # Mc       BALINESE VOWEL SIGN LA LENGA TEDUNG
 
+# Indic_Positional_Category=Top_And_Bottom_And_Left
+
+103C          ; Top_And_Bottom_And_Left # Mc       MYANMAR CONSONANT SIGN MEDIAL RA
+1171E         ; Top_And_Bottom_And_Left # Mn       AHOM CONSONANT SIGN MEDIAL RA
+
 # Indic_Positional_Category=Overstruck
 
 1CD4          ; Overstruck # Mn       VEDIC SIGN YAJURVEDIC MIDLINE SVARITA
