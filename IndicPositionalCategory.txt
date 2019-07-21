@@ -313,6 +313,7 @@ AAEE          ; Left # Mc       MEETEI MAYEK VOWEL SIGN AU
 110B1         ; Left # Mc       KAITHI VOWEL SIGN I
 1112C         ; Left # Mc       CHAKMA VOWEL SIGN E
 111B4         ; Left # Mc       SHARADA VOWEL SIGN I
+111CE         ; Left # Mc       SHARADA VOWEL SIGN PRISHTHAMATRA E
 112E1         ; Left # Mc       KHUDAWADI VOWEL SIGN I
 11347..11348  ; Left # Mc   [2] GRANTHA VOWEL SIGN EE..GRANTHA VOWEL SIGN AI
 11436         ; Left # Mc       NEWA VOWEL SIGN I
