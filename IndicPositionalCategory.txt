@@ -73,7 +73,7 @@
 # list of Indic scripts, including those which do not have
 # positional characters. Currently, those additional
 # Indic scripts without positional characters are
-# Kayah Li, Mahajani, Multani, Phags-pa, and Tai Le.
+# Multani, Phags-pa, and Tai Le.
 #
 # Notes:
 #
