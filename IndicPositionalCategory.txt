@@ -23,6 +23,16 @@
 # is designed primarily to supplement the Indic_Syllabic_Category
 # property.
 #
+# In addition to combining marks associated with Indic scripts, the
+# Indic_Positional_Category has non-trivial values for special signs
+# associated with Indic_Syllabic_Category=Consonant_Prefixed or
+# Indic_Syllabic_Category=Consonant_Preceding_Repha. Those signs
+# have General_Category=Lo, rather than being combining marks.
+# They occur in initial position in syllabic structure. However, when
+# rendered, they appear as marks positioned with respect to another
+# base letter (usually above it). Hence, having an explicit value for
+# Indic_Positional_Category for those signs can be helpful.
+#
 # Note that this property is *not* intended as
 # a prescriptive property regarding display or font design,
 # for a number of reasons. Good font design requires information
