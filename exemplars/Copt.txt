@@ -1,0 +1,26 @@
+# Coptic
+# Most of the characters are added from Core Spec, Section 7.3
+0020 # SPACE
+0022 # QUOTATION MARK
+002E # FULL STOP
+003A # COLON
+003B # SEMICOLON, acting as question mark
+00A0 # NO-BREAK SPACE
+00B7 # MIDDLE DOT 
+0300 # COMBINING GRAVE ACCENT
+0304 # COMBINING MACRON
+0305 # COMBINING OVERLINE
+0307 # COMBINING DOT ABOVE
+033F # COMBINING DOUBLE OVERLINE
+0374 # GREEK NUMERAL SIGN
+0375 # GREEK LOWER NUMERAL SIGN
+037E # GREEK QUESTION MARK, canonically equivalent to SEMICOLON
+0387 # GREEK ANO TELEIA, canonically equivalent to MIDDLE DOT
+03E2..03EF # Coptic letters in the Greek block
+201C..201D # DOUBLE QUOTATION MARKs
+2C80..2CFF # Coptic block
+# Macrons for longer sequences
+FE24
+FE25
+FE26
+102E0..102FF # Coptic Epact Numbers block, which are used in Arabic and Coptic text

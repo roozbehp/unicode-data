@@ -1,0 +1,10 @@
+# Devanagari
+# Devanagri block, except for the two mis-encoded
+# characters U+0953 and U+0954
+0900..0952
+0954..097F
+1CD0..1CF6
+1CF8..1CF9
+20F0 # COMBINING ASTERISK ABOVE
+A380..A389 # North Indic fractions and symbols
+A8E0..A8FF # Devanagari Extended block

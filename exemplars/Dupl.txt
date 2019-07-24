@@ -1,0 +1,3 @@
+# Duployan
+1BC00..1BC9F # Duployan block
+1BCA0..1BCA3 # Shorthand format controls encoded for Duployan
