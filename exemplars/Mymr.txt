@@ -1,0 +1,5 @@
+# Myanmar
+1000..109F # Myanmar block
+A92E # KAYAH LI SIGN CWI
+A9E0..A9FF # Myanmar Extended-B block
+AA60..AA7F # Myanmar Extended-A block

@@ -1,0 +1,2 @@
+# Javanese
+A980..A9DF # Javanese block

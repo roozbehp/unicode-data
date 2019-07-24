@@ -1,0 +1,3 @@
+# Adlam
+0640 # ARABIC TATWEEL
+1E900..1E95F # Adlam block

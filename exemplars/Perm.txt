@@ -1,0 +1,3 @@
+# Old Permic
+0483 # COMBINING CYRILLIC TITLO
+10350..1037F # Old Permic block

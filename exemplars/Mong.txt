@@ -1,0 +1,4 @@
+# Mongolian
+1800..18AF # Mongolian block
+202F # NARROW NO-BREAK SPACE
+11660..1167F # Mongolian Supplement block

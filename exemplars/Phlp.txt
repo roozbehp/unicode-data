@@ -1,0 +1,3 @@
+# Psalter Pahlavi
+0640 # ARABIC TATWEEL
+10B80..10BAF # Psalter Pahlavi block

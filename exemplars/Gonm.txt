@@ -1,0 +1,4 @@
+# Masaram Gondi
+0964 # DEVANAGARI DANDA
+0965 # DEVANAGARI DOUBLE DANDA
+11D00..11D5F # Masaram Gondi block

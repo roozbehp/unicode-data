@@ -1,0 +1,3 @@
+# Manichaean
+0640 # ARABIC TATWEEL
+10AC0..10AFF # Manichaean block

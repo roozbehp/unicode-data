@@ -1,0 +1,3 @@
+# Buginese
+1A00..1A1F # Buginese block
+A9CF # JAVANESE PANGRANGKEP

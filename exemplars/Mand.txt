@@ -1,0 +1,3 @@
+# Mandaic
+0640 # ARABIC TATWEEL
+0840..085F # Mandaic block

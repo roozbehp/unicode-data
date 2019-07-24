@@ -1,0 +1,5 @@
+# Gunjala Gondi
+0964 # DEVANAGARI DANDA
+0965 # DEVANAGARI DOUBLE DANDA
+11D60..11DAF # Gunjala Gondi block
+

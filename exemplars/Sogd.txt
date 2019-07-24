@@ -1,0 +1,3 @@
+# Sogdian
+0640 # ARABIC TATWEEL
+10F30..10F6F # Sogdian block
