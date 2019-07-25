@@ -78,6 +78,7 @@
 2183..2184 # ROMAN NUMERAL REVERSED ONE HUNDRED..LATIN SMALL LETTER REVERSED C
 2185..2188 # ROMAN NUMERAL SIX LATE FORM..ROMAN NUMERAL ONE HUNDRED THOUSAND
 2C60..2C7F # Latin Extended-C block
+2E17 # DOUBLE OBLIQUE HYPHEN from https://www.unicode.org/L2/L2003/03338-n2647-doublehyphen.pdf
 2E1A # Core Spec Section 6.2 says it's used in German dictionaries
 2E1B # Core Spec Section 6.2 says it's used in German dictionaries
 A720..A7FF # Latin Extended-D block

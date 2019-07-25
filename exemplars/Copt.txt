@@ -19,6 +19,7 @@
 03E2..03EF # Coptic letters in the Greek block
 201C..201D # DOUBLE QUOTATION MARKs
 2C80..2CFF # Coptic block
+2E17 # DOUBLE OBLIQUE HYPHEN from https://www.unicode.org/L2/L2003/03338-n2647-doublehyphen.pdf
 # Macrons for longer sequences
 FE24
 FE25
