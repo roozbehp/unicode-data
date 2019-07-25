@@ -1,6 +1,13 @@
 # Armenian
 0020 # SPACE
+002D # HYPHEN-MINUS, from Core Spec
 002E # FULL STOP
 00A0 # NO-BREAK SPACE
-0530..058F # Armenian block
+0308 # COMBINING DIAERESIS, from Core Spec
+# Armenian block, except for U+0559, which Core Spec is a mistake and is not used
+0530..0558
+055A..058F
+2010..2011 # HYPHEN..NON-BREAKING HYPHEN
+2019 # RIGHT SINGLE QUOTATION MARK, which Core Spec says is preferred way to represent apostrophe in Armenian
 2024 # ONE DOT LEADER (Core Spec is says this is used as semicolon in Armenian)
+FB13..FB17 # Armenian ligatures in Alphabetic Presentation Forms block
