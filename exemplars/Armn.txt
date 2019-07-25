@@ -2,5 +2,5 @@
 0020 # SPACE
 002E # FULL STOP
 00A0 # NO-BREAK SPACE
-0530..0589 # Armenian block
+0530..058F # Armenian block
 2024 # ONE DOT LEADER (Core Spec is says this is used as semicolon in Armenian)
