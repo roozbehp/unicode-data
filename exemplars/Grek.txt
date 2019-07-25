@@ -17,7 +17,9 @@
 0314
 0342 # COMBINING GREEK PERISPOMENI
 0343
+0344
 0345 # COMBINING GREEK YPOGEGRAMMENI
+0359 # COMBINING ASTERISK BELOW, see http://www.unicode.org/L2/L2003/03186r-comb-diac.pdf
 # Greek block, except for the Coptic letters at U+03E2..U+03EF
 # and the math symbols
 0370..03CF

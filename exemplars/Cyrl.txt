@@ -20,6 +20,7 @@
 030B
 030F
 0311
+033E # COMBINING VERTICAL TILDE, from NamesList
 0400..04FF # Cyrillic block
 0500..052F # Cyrillic Supplement block
 2010..2011 # HYPHEN..NON-BREAKING HYPHEN
