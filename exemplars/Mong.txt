@@ -1,4 +1,7 @@
 # Mongolian
 1800..18AF # Mongolian block
 202F # NARROW NO-BREAK SPACE
+203C # DOUBLE EXCLAMATION MARK (Core Spec this is for vertical Mongolian text)
+2048 # QUESTION EXCLAMATION MARK (Core Spec this is for vertical Mongolian text)
+2049 # EXCLAMATION QUESTION MARK (Core Spec this is for vertical Mongolian text)
 11660..1167F # Mongolian Supplement block
