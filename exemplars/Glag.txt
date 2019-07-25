@@ -1,6 +1,21 @@
 # Glagolitic
+0020 # SPACE, from Core Spec
+002C # COMMA, from Core Spec
+002E # FULL STOP, from Core Spec
+003B # SEMICOLON, from Core Spec
+00A0 # NO-BREAK SPACE, because SPACE is included
+00B7 # MIDDLE DOT, from Core Spec
+0303 # COMBINING TILDE, from https://www.unicode.org/L2/L1999/n1931.pdf, page 3
+0305 # COMBINING OVERLINE, from https://www.unicode.org/L2/L1999/n1931.pdf, page 3
+037E # GREEK QUESTION MARK, canonically equivalent to SEMICOLON
+0387 # GREEK ANO TELEIA, canonically equivalent to MIDDLE DOT
 0484 # COMBINING CYRILLIC PALATALIZATION
 0487 # COMBINING CYRILLIC POKRYTIE
+0589 # ARMENIAN FULL STOP from https://www.unicode.org/L2/L1999/n1931.pdf
+10FB # GEORGIAN PARAGRAPH SEPARATOR from https://www.unicode.org/L2/L1999/n1931.pdf
+2056 # THREE DOT PUNCTUATION, from Core Spec
+2058 # FOUR DOT PUNCTUATION, from Core Spec
+2059 # FIVE DOT PUNCTUATION
 2C00..2C5F # Glagolitic block
 2E43 # DASH WITH LEFT UPTURN
 A66F # COMBINING CYRILLIC VZMET
