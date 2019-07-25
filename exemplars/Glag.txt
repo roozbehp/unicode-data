@@ -2,6 +2,7 @@
 0020 # SPACE, from Core Spec
 002C # COMMA, from Core Spec
 002E # FULL STOP, from Core Spec
+003A # COLON, as alternative for U+0589 ARMENIAN FULL STOP
 003B # SEMICOLON, from Core Spec
 00A0 # NO-BREAK SPACE, because SPACE is included
 00B7 # MIDDLE DOT, from Core Spec
@@ -16,6 +17,7 @@
 2056 # THREE DOT PUNCTUATION, from Core Spec
 2058 # FOUR DOT PUNCTUATION, from Core Spec
 2059 # FIVE DOT PUNCTUATION
+205A # TWO DOT PUNCTUATION, as alternative for U+0589 ARMENIAN FULL STOP
 2C00..2C5F # Glagolitic block
 2E43 # DASH WITH LEFT UPTURN
 A66F # COMBINING CYRILLIC VZMET

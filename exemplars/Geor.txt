@@ -1,5 +1,15 @@
 # Georgian
+#
+# TODO: Find which historic punctuation in U+2056..U+205E and U+2E2A..U+2E2D
+# are used in Georgian
+#
+0020 # SPACE
+003A # COLON
+00A0 # NO-BREAK SPACE
+00B7 # MIDDLE DOT, from Core Spec
 0589 # ARMENIAN FULL STOP
 10A0..10FF # Georgian block
 1C90..1CBF # Georgian Extended block
+205A # TWO DOT PUNCTUATION from Core Spec
 2D00..2D2F # Georgian Supplement
+2E31 # WORD SEPARATOR MIDDLE DOT, from Core Spec
