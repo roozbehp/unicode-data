@@ -1,7 +1,9 @@
 # Han
+00B7 # CNS 11643 0x2131, from Core Spec
 203C # DOUBLE EXCLAMATION MARK (Core Spec this is for vertical East Asian text)
 2048 # QUESTION EXCLAMATION MARK (Core Spec this is for vertical East Asian text)
 2049 # EXCLAMATION QUESTION MARK (Core Spec this is for vertical East Asian text)
+2215 # CNS 11643 0x2261, from Core Spec
 22EF # MIDLINE HORIZONTAL ELLIPSIS (Core Spec says popular in East Asian typography)
 2E80..2EFF # CJK Radicals Supplement block
 2F00..2FDF # Kangxi Radicals block
@@ -31,8 +33,9 @@
 3400..4DBF # CJK Unified Ideographs Extension A block
 4E00..9FFF # CJK Unified Ideographs block
 F900..FAFF # CJK Compatibility Ideographs block
-FE19 # PRESENTATION FORM FOR VERTICAL HORIZONTAL ELLIPSIS
-FE45..FE46 # SESAME DOT..WHITE SESAME DOT
+FE10..FE1F # Vertical Forms block. Core Spec says they're for Chinese
+FE30..FE4F # CJK Compatibility Forms block. Core Spec says for Chinese standard CNS 11643.
+FE50..FE6F # Small Form Variants block. Core Spec says for CNS 11643.
 FF5E
 FF61..FF65 # HALFWIDTH IDEOGRAPHIC FULL STOP..HALFWIDTH KATAKANA MIDDLE DOT
 1D360..1D371 # COUNTING ROD UNIT DIGIT ONE..COUNTING ROD TENS DIGIT NINE
