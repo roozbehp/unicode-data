@@ -38,6 +38,7 @@
 033F
 0340..0341
 0346..034E
+034F # COMBINING GRAPHEME JOINER, from Core Spec Section 7.9
 0350..0358
 035A..035B
 035C..0362
@@ -82,9 +83,11 @@
 2E17 # DOUBLE OBLIQUE HYPHEN from https://www.unicode.org/L2/L2003/03338-n2647-doublehyphen.pdf
 2E1A # Core Spec Section 6.2 says it's used in German dictionaries
 2E1B # Core Spec Section 6.2 says it's used in German dictionaries
+A700..A71F # Modifier Tone Letters block, used for various phonetic schemes
 A720..A7FF # Latin Extended-D block
 AB30..AB6F # Latin Extended-E block
 A92E # KAYAH LI SIGN CWI
 FB00..FB06 # LATIN SMALL LIGATURE FF..LATIN SMALL LIGATURE ST
+FE22..FE23 # From Core Spec Section 7.9
 FF21..FF3A # FULLWIDTH LATIN CAPITAL LETTER A..FULLWIDTH LATIN CAPITAL LETTER Z
 FF41..FF5A # FULLWIDTH LATIN SMALL LETTER A..FULLWIDTH LATIN SMALL LETTER Z
