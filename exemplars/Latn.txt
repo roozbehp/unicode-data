@@ -46,6 +46,9 @@
 0485..0486 # COMBINING CYRILLIC DASIA PNEUMATA..COMBINING CYRILLIC PSILI PNEUMATA
 0951 # DEVANAGARI STRESS SIGN UDATTA
 0952 # DEVANAGARI STRESS SIGN ANUDATTA
+# On dandas from Core Spec section on Devanagari: the danda may be preserved
+# when such traditional texts are transliterated into the Latin script.
+0964..0965 # DEVANAGARI DANDA..DEVANAGARI DOUBLE DANDA
 10FB # GEORGIAN PARAGRAPH SEPARATOR
 1AB0..1ABE # German dialectology/Teuthonista from Core Spec and NamesList
 1D00..1D25 # LATIN LETTER SMALL CAPITAL A..LATIN LETTER AIN
