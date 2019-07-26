@@ -1,4 +1,7 @@
 # Sinhala
+0030..0039 # ASCII digits
 0964 # DEVANAGARI DANDA
 0965 # DEVANAGARI DOUBLE DANDA
 0D80..0DFF # Sinhala block
+200D # ZERO WIDTH JOINER per Core Spec
+111E0..111FF # Sinhala Archaic Numbers
