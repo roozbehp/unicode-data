@@ -1,0 +1,4 @@
+# Hatran
+0020 # SPACE per Core Spec
+00A0 # NO-BREAK SPACE
+108E0..108FF # Hatran block

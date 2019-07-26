@@ -1,0 +1,4 @@
+# Nabataean
+0020 # SPACE per Core Spec
+00A0 # NO-BREAK SPACE
+10880..108AF # Nabataean block

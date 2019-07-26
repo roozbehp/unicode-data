@@ -1,0 +1,4 @@
+# Inscriptional Pahlavi
+0020 # SPACE per Core Spec
+00A0 # NO-BREAK SPACE
+10B60..10B7F # Inscriptional Pahlavi block

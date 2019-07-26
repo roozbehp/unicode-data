@@ -1,0 +1,7 @@
+# Lydian
+0020 # SPACE, from Core Spec
+003A # COLON, from Core Spec
+00A0 # NO-BREAK SPACE
+00B7 # MIDDLE DOT, from Core Spec
+2E31 # WORD SEPARATOR MIDDLE DOT, from Core Spec
+10920..1093F # Lydian block

@@ -1,0 +1,7 @@
+# Shavian
+# TODO: Add "other punctuation marks" that the Core Spec mentions
+0020 # SPACE
+00A0 # NO-BREAK SPACE
+00B7 # MIDDLE DOT from Core Spec
+0030..0039 # ASCII Digits from Core Spec
+10450..1047F # Shavian block

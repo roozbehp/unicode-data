@@ -1,0 +1,4 @@
+# Imperial Aramaic
+0020 # SPACE per Core Spec
+00A0 # NO-BREAK SPACE
+10840..1085F # Imperial Aramaic block

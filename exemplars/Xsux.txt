@@ -1,0 +1,4 @@
+# Cuneiform
+12000..123FF # Cuneiform block
+12400..1247F # Cuneiform Numbers and Punctuation block
+12480..1254F # Early Dynastic Cuneiform block

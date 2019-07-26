@@ -1,0 +1,5 @@
+# Lycian
+0020 # SPACE, which Core Spec recommends
+00A0 # NO-BREAK SPACE
+205A # TWO DOT PUNCTUATION, from Core Spec
+10280..1029F # Lycian block

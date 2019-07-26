@@ -1,0 +1,3 @@
+# Samaritan
+0800..083F # Samaritan block
+2E31 # WORD SEPARATOR MIDDLE DOT, from NamesList and Core Spec

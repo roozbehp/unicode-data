@@ -1,0 +1,2 @@
+# Ugaritic
+10380..1039F # Ugaritic block

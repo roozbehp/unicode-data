@@ -1,0 +1,6 @@
+# Avestan
+002E # FULL STOP per Core Spec
+00B7 # MIDDLE DOT per Core Spc
+200C # ZERO WIDTH NON-JOINER per Core Spec
+2E31 # WORD SEPARATOR MIDDLE DOT from NamesList and Core Spec
+10B00..10B3F # Avestan block

@@ -1,0 +1,4 @@
+# Meroitic Hieroglyphs
+2026 # HORIZONTAL ELLIPSIS per Core Spec
+205D # TRICOLON per Core Spec
+10980..1099F # Meroitic Hieroglyphs block

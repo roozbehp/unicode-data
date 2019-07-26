@@ -1,0 +1,8 @@
+# Carian
+0020 # SPACE, which Core Spec recommends
+00A0 # NO-BREAK SPACE
+00B7 # MIDDLE DOT, from Core Spec
+205A # TWO DOT PUNCTUATION, from Core Spec
+205D # TRICOLON, from Core Spec
+2E31 # WORD SEPARATOR MIDDLE DOT, from Core Spec
+102A0..102DF # Carian block

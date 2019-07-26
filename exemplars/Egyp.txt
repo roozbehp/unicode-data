@@ -1,0 +1,3 @@
+# Egyptian Hieroglyphs
+13000..1342F # Egyptian Hieroglyphs block
+13430..1343F # Egyptian Hieroglyph Format Controls block

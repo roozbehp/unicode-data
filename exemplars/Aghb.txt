@@ -1,0 +1,8 @@
+# Caucasian Albanian
+0020 # SPACE from Core Spec
+00A0 # NO-BREAK SPACE
+0304 # COMBINING MACRON
+0331 # COMBINING MACRON BELOW
+035E # COMBINING DOUBLE MACRON from Core Spec
+10530..1056F # Caucasian Albanian block
+# TODO: Core Spec says half macrons etc are also used. We need to identify them.

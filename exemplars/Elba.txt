@@ -1,0 +1,6 @@
+# Elbasan
+0020 # SPACE from Core Spec
+00A0 # NO-BREAK SPACE
+00B7 # MIDDLE DOT from Core Spec
+0305 # COMBINING OVERLINE from Core Spec
+10500..1052F # Elbasan block

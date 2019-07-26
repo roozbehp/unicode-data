@@ -1,0 +1,3 @@
+# Meroitic Cursive
+003A # COLON per Core Spec
+109A0..109FF # Meroitic Cursive block

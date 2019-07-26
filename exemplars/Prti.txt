@@ -1,0 +1,5 @@
+# Inscriptional Parthian
+0020 # SPACE per Core Spec
+00A0 # NO-BREAK SPACE
+200C # ZERO WIDTH NON-JOINER
+10B40..10B5F # Inscriptional Parthian block

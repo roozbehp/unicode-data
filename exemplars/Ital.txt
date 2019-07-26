@@ -1,0 +1,11 @@
+# Old Italic
+#
+# TODO: Core Spec talks about various dot forms. It's not clear
+# which ones they are, so they are commented out.
+#
+# 00B7? # MIDDLE DOT
+# 205A? # TWO DOT PUNCTUATION
+# 205D? # TRICOLON
+# 2E31? # WORD SEPARATOR MIDDLE DOT
+# 
+10300..1032F # Old Italic block

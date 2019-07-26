@@ -1,0 +1,4 @@
+# Palmyrene
+0020 # SPACE per Core Spec
+00A0 # NO-BREAK SPACE
+10860..1087F # Palmyrene block
