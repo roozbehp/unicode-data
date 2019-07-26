@@ -1,3 +1,5 @@
 # Mandaic
+0020 # SPACE from Core Spec
+00A0 # NO-BREAK SPACE
 0640 # ARABIC TATWEEL
 0840..085F # Mandaic block

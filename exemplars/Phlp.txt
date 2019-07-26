@@ -1,3 +1,5 @@
 # Psalter Pahlavi
+0020 # SPACE per Core Spec
+00A0 # NO-BREAK SPAC
 0640 # ARABIC TATWEEL
 10B80..10BAF # Psalter Pahlavi block
