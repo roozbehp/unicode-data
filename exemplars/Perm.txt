@@ -1,3 +1,15 @@
 # Old Permic
-0483 # COMBINING CYRILLIC TITLO
+0020 # SPACE from Core Spec
+0027 # APOSTROPHE from Core Spec
+003A # COLON from Core Spec
+00A0 # NO-BREAK SPACE
+00B7 # MIDDLE DOT from Core Spec
+0300 # from Core Spec
+0306 # from Core Spec
+0307 # from Core Spec
+0308 # from Core Spec
+0313 # from Core Spc
+0483 # COMBINING CYRILLIC TITLO from Core Spec
+2019 # RIGHT SINGLE QUOTATION MARK as apostrophe, from Core Spec
+20DB # COMBINING THREE DOTS ABOVE from Core Spec
 10350..1037F # Old Permic block
