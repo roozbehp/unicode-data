@@ -1,4 +1,5 @@
 # Tamil
+003A # Core Spec section on Saurashtra says Saurashtra language written in Tamil uses a colon
 00B2 # per Core Spec
 00B3 # per Core Spec
 0951 # DEVANAGARI STRESS SIGN UDATTA
