@@ -1,0 +1,5 @@
+# Tibetan
+# Core Spec says U+0020 SPACE should not be used
+00A0 # NO-BREAK SPACE per Core Spec
+0F00..0FFF # Tibetan block
+2638 # WHEEL OF DHARMA per Core Spec
