@@ -1,7 +1,17 @@
 # Mongolian
+0021 # EXCLAMATION MARK per Core Spec
+0022 # QUOTATION MARK per Core Spec
+0028..0029 # LEFT PARENTHESIS..RIGHT PARENTHESIS
+003F # QUESTION MARK per Core Spec
 1800..18AF # Mongolian block
+200C..200D # ZERO WIDTH NON-JOINER..ZERO WIDTH JOINER from Core Spec
+201C..201D # DOUBLE QUOTATION MARKs per Core Spec
 202F # NARROW NO-BREAK SPACE
-203C # DOUBLE EXCLAMATION MARK (Core Spec this is for vertical Mongolian text)
-2048 # QUESTION EXCLAMATION MARK (Core Spec this is for vertical Mongolian text)
-2049 # EXCLAMATION QUESTION MARK (Core Spec this is for vertical Mongolian text)
+203C # DOUBLE EXCLAMATION MARK (Core Spec says this is for vertical Mongolian text)
+2048 # QUESTION EXCLAMATION MARK (Core Spec says this is for vertical Mongolian text)
+2049 # EXCLAMATION QUESTION MARK (Core Spec says this is for vertical Mongolian text)
+3001 # IDEOGRAPHIC COMMA for Todo and Sibe per Core Spec
+3002 # IDEOGRAPHIC FULL STOP for Todo and Sibe per Core Spec
+300A # LEFT DOUBLE ANGLE BRACKET for Todo and Sibe per Core Spec
+300B # RIGHT DOUBLE ANGLE BRACKET for Todo and Sibe per Core Spec
 11660..1167F # Mongolian Supplement block
