@@ -1,0 +1,8 @@
+# Warang Citi
+#
+# TODO: Core Spec says Warang Citi uses Latin punctuation. But which
+# characters?
+#
+0030..0039 # ASCII digits, per Core Spec
+200D # ZERO WIDTH JOINER per Core Spec
+118A0..118FF # Warang Citi block

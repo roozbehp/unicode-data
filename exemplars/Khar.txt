@@ -1,0 +1,7 @@
+# Kharoshthi
+0020 # SPACE per Core Spec
+002D # HYPHEN-MINUS per Core Spec
+00A0 # NO-BREAK SPACE
+200D # ZERO WIDTH JOINER per Core Spec
+2010 # HYPHEN per Core Spec
+10A00..10A5F # Kharoshthi block

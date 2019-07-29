@@ -1,0 +1,2 @@
+# Old Sogdian
+10F00..10F2F # Old Sogdian block

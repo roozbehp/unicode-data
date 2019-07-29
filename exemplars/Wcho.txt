@@ -1,0 +1,9 @@
+# Wancho
+002B # PLUS SIGN per Core Spec: "Common operators are used for mathematical operations."
+002C # COMMA per Core Spec
+002E # FULL STOP per Core Spec
+003F # QUESTION MARK per Core Spec
+00D7 # MULTIPLICATION SIGN per Core Spec: "Common operators are used for mathematical operations."
+00F7 # DIVISION SIGN per Core Spec: "Common operators are used for mathematical operations."
+2212 # MINUS SIGN per Core Spec: "Common operators are used for mathematical operations."
+1E2C0..1E2FF # Wancho block

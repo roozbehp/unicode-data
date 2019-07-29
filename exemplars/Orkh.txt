@@ -1,0 +1,4 @@
+# Old Turkic
+205A # TWO DOT PUNCTUATION per Core Spec
+2E30 # RING POINT per Core Spec
+10C00..10C4F # Old Turkic block

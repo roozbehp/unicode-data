@@ -1,0 +1,5 @@
+# Limbu
+0660..0669 # Arabic-Indic digits per Core Spec
+0965 # DEVANAGARI DOUBLE DANDA per Core Spec
+0966..096F # Devanagari digits per Core Spec
+1900..194F # Limbu block

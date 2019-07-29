@@ -1,0 +1,3 @@
+# Meetei Mayek
+AAE0..AAFF # Meetei Mayek Extensions block
+ABC0..ABFF # Meetei Mayek block

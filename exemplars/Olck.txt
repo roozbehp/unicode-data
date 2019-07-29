@@ -1,0 +1,7 @@
+# Ol Chiki
+0021 # EXCLAMATION MARK per Core Spec
+0022 # QUOTATION MARK per Core Spec
+002C # COMMA per Core Spec
+003F # QUESTION MARK per Core Spec
+1C50..1C7F # Ol Chiki block
+201C..201D # DOUBLE QUOTATION MARKs per Core Spec
