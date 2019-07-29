@@ -1,0 +1,4 @@
+# Tai Viet
+0020 # SPACE per Core Spec
+00A0 # NO-BREAK SPACE
+AA80..AADF # Tai Viet block

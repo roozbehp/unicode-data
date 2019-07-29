@@ -1,7 +1,16 @@
 # Hanifi Rohingya
+# TODO: Core Spec says "Both Latin and Arabic punctuation signs such as
+# periods, commas, colons, and hyphens are commonly used for delimiting text
+# segments". It's not clear what it means. Are both commas used, for
+# example?
+0020 # SPACE per Core Spec
+002D # HYPHEN per Core Spec
+003A # COLON per Core Spec
 060C # ARABIC COMMA
 061B # ARABIC SEMICOLON
 061F # ARABIC QUESTION MARK
 0640 # ARABIC TATWEEL
 06D4 # ARABIC FULL STOP
+2010 # HYPHEN per Core Spec
+2011 # NON-BREAKING HYPHEN
 10D00..10D3F # Hanifi Rohingya block

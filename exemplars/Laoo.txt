@@ -1,0 +1,4 @@
+# Lao
+0020 # SPACE per Core Spec
+00A0 # NO-BREAK SPACE
+0E80..0EFF # Lao block

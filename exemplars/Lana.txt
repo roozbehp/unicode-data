@@ -1,0 +1,8 @@
+# Tai Tham
+0021 # EXCLAMATION MARK per Core Spec
+0022 # QUOTATION MARK per Core Spec
+0028..0029 # LEFT PARENTHESIS..RIGHT PARENTHESIS per Core Spec
+0030..0039 # ASCII digits per Core Spec
+003F # QUESTION MARK per Core Spec
+1A20..1AAF # Tai Tham block
+201C..201D # DOUBLE QUOTATION MARKs per Core Spec

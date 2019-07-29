@@ -1,0 +1,6 @@
+# Nyiakeng Puachue Hmong
+# TODO: Core Spec says "Nyiakeng Puachue Hmong text makes use of standard Western punctuation
+# marks." Which ones?
+0020 # SPACE per Core Spec
+00A0 # NO-BREAK SPACE
+1E100..1E14F # Nyiakeng Puachue Hmong block

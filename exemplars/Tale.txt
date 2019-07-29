@@ -1,3 +1,6 @@
 # Tai Le
-1040..1049 # MYANMAR DIGIT ZERO..MYANMAR DIGIT NINE
+# TODO: Core Spec says "Both CJK punctuation and Western punctuation are used."
+# Which ones?
+0030..0039 # ASCII digits, per Core Spec
+1040..1049 # MYANMAR DIGIT ZERO..MYANMAR DIGIT NINE per Core Spec
 1950..197F # Tai Le block

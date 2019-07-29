@@ -1,0 +1,7 @@
+# Pau Cin Hau
+# TODO: Core Spec says "Western punctuation is also used."
+0020 # SPACE per Core Spec
+002E # FULL STOP per Core Spec
+0030..0039 # ASCII digits per Core Spec
+00A0 # NO-BREAK SPACE
+11AC0..11AFF # Pau Cin Hau block

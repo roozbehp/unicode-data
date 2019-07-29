@@ -1,0 +1,16 @@
+# Khmer
+0020 # SPACE per Core Spec
+00A0 # NO-BREAK SPACE
+1780..17A2 # start of Khmer block
+# Core Spec: "Neither U+17A3 nor U+17A4 actually exists in the Khmer script."
+17A5..17B3 # middle of Khmer block
+# Core Spec: "The use of U+17B4 and U+17B5 is discouraged.  These newly
+# invented characters do not exist in the Khmer script.  They were intended
+# to be used to represent a phonetic difference not expressed by the
+# spelling, so as to assist in phonetic sorting.  However, they are
+# insufficient for that purpose and should be considered errors in the
+# encoding."
+17B6..17FF # end of Khmer block
+19E0..19FF # Khmer Symbols block
+200B # ZERO WIDTH SPAC per Core Spec
+200C..200D # ZERO WIDTH NON-JOINER..ZERO WIDTH JOINER per Core Spec

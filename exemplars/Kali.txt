@@ -1,2 +1,4 @@
 # Kayah Li
+# TODO: Cor Spec says "Kayah Li text makes use of modern Western punctuation
+# conventions". Which ones?
 A900..A92F # Kayah Li block

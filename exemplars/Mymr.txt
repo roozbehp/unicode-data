@@ -1,5 +1,8 @@
 # Myanmar
+0020 # SPACE per Core Spec ("Spaces are used to mark phrases.")
+00A0 # NO-BREAK SPACE
 1000..109F # Myanmar block
+200B # ZERO WIDTH SPACE per Core Spec
 A92E # KAYAH LI SIGN CWI
 A9E0..A9FF # Myanmar Extended-B block
 AA60..AA7F # Myanmar Extended-A block

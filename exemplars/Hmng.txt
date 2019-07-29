@@ -1,0 +1,6 @@
+# Pahawh Hmong
+# TODO: Core Spec says "Pahawh Hmong makes use of common European
+# punctuation marks [...]". Which are those?
+0020 # SPACE per Core Spec
+00A0 # NO-BREAK SPACE
+16B00..16B8F # Pahawh Hmong block
