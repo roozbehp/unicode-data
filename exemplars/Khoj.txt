@@ -1,4 +1,5 @@
 # Khojki
-0AE6..0AEF # GUJARATI DIGIT ZERO..GUJARATI DIGIT NINE
+# TODO: Core Spec says "Latin punctuation marks are also used in printed Khojki."
+0AE6..0AEF # GUJARATI DIGIT ZERO..GUJARATI DIGIT NINE per Core Spec
 A830..A839 # NORTH INDIC FRACTION ONE QUARTER..NORTH INDIC QUANTITY MARK
 11200..1124F # Khojki block

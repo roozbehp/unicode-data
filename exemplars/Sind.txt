@@ -1,5 +1,9 @@
 # Khudawadi
-0964 # DEVANAGARI DANDA
-0965 # DEVANAGARI DOUBLE DANDA
+# TODO: Core Spec says dashes are also used. But which ones?
+002E # FULL STOP per Core Spec
+003A # COLON per Core Spec
+003B # SEMICOLON per Core Spec
+0964 # DEVANAGARI DANDA per Core Spec
+0965 # DEVANAGARI DOUBLE DANDA per Core Spec
 A830..A839 # NORTH INDIC FRACTION ONE QUARTER..NORTH INDIC QUANTITY MARK
 112B0..112FF # Khudawadi block

@@ -1,4 +1,10 @@
 # Modi
+# TODO: Core Spec says "Modern practice uses ... Western punctuation marks."
+# Which ones?
+0020 # SPACE per Core Spec
+002E # FULL STOP per Core Spec
+00A0 # NO-BREAK SPACE
+200D # ZERO WIDTH JOINER per Core Spec
 A830..A839 # NORTH INDIC FRACTION ONE QUARTER..NORTH INDIC QUANTITY MARK
 11600..1165F # Modi block
 

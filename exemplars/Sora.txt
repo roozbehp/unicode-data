@@ -1,0 +1,3 @@
+# Sora Sompeng
+# TODO: Core Spec says "Sora Sompeng uses Western-style punctuation." Which ones?
+110D0..110FF # Sora Sompeng block
