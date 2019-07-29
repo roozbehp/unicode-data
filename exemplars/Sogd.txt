@@ -1,3 +1,6 @@
 # Sogdian
+# TODO: Core Spec says Various other punctuation marks occur in Sogdian
+# texts, and in some cases may be represented by punctuation characters from
+# other blocks, such as General Punctuation.
 0640 # ARABIC TATWEEL
 10F30..10F6F # Sogdian block
