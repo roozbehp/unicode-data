@@ -1,0 +1,5 @@
+# Cherokee
+# TODO: Core Spec says "Cherokee uses standard Latin punctuation." Which ones?
+0030..0039 # ASCII digits per Core Spec
+13A0..13FF # Cherokee block
+AB70..ABBF # Cherokee Supplement block

@@ -1,0 +1,9 @@
+# Osage
+# TODO: Core Spec says "Osage uses [...] standard Latin punctuation." Which
+# ones?
+0030..0039 # ASCII digits per Core Spec
+0301 # per Core Spec
+0304 # per Core Spec
+030B # per Core Spec
+0358 # per Core Spec
+104B0..104FF # Osage block

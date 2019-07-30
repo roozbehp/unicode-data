@@ -1,0 +1,6 @@
+# Canadian Aboriginal
+# TODO: Core Spec says "Languages written using the Canadian Aboriginal
+# Syllabics make use of the common punctuation marks of Western typography."
+# Which ones?
+1400..167F # Unified Canadian Aboriginal Syllabics block
+18B0..18FF # Unified Canadian Aboriginal Syllabics Extended block

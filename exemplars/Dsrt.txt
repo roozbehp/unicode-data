@@ -1,0 +1,5 @@
+# Deseret
+# TODO: Core Spec says "Punctuation [...] are the same as in English". Which
+# ones are used?
+0030..0039 # ASCII digits per Core Spec
+10400..1044F # Deseret block
