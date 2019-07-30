@@ -1,0 +1,7 @@
+# Bassa Vah
+0022 # QUOTATION MARK per Core Spec
+002C # COMMA per Core Spec
+002E # FULL STOP per Core Spec
+0030..0039 # ASCII digits, per Core Spec
+201C..201D # DOUBLE QUOTATION MARKs per Core Spec
+16AD0..16AFF # Bassa Vah block

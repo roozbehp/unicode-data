@@ -1,0 +1,9 @@
+# Ehtiopic
+0020 # SPACE per Core Spec
+0030..0039 # ASCII digits per Core Spec
+00A0 # NO-BREAK SPACE
+030E # COMBINING DOUBLE VERTICAL LINE ABOVE per Core Spec
+1200..137F # Ethiopic block
+1380..139F # Ethiopic Supplement block
+2D80..2DDF # Ethiopic Extended block
+AB00..AB2F # Ethiopic Extended-A block

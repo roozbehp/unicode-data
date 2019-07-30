@@ -1,0 +1,4 @@
+# Vai
+# TODO: Core Spec says "Vai makes use of European punctuation". Which ones?
+0030..0039 # ASCII digits, per Core Spec
+A500..A63F # Vai block

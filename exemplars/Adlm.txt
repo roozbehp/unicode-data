@@ -1,3 +1,5 @@
 # Adlam
+# TODO: Core Spec says "Adlam uses European punctuation". Which ones?
+061F # ARABIC QUESTION MARK per Core Spec
 0640 # ARABIC TATWEEL
 1E900..1E95F # Adlam block

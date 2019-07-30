@@ -1,0 +1,4 @@
+# Mende Kikakui
+0030..0039 # ASCII digits per Core Spec
+0660..0669 # Arabic-Indic digits pre Core Spec
+1E800..1E8DF # Mende Kikakui block

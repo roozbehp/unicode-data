@@ -1,0 +1,3 @@
+# Bamum
+A6A0..A6FF # Bamum block
+16800..16A3F # Bamum Supplement block
