@@ -1,0 +1,2 @@
+# SignWriting
+1D800..1DAAF # Sutton SignWriting block

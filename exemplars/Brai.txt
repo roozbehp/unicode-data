@@ -1,0 +1,2 @@
+# Braille
+2800..28FF # Braille Patterns block

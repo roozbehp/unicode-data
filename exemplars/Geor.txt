@@ -10,6 +10,7 @@
 0589 # ARMENIAN FULL STOP
 10A0..10FF # Georgian block
 1C90..1CBF # Georgian Extended block
+20BE # LARI SIGN
 205A # TWO DOT PUNCTUATION from Core Spec
 2D00..2D2F # Georgian Supplement
 2E31 # WORD SEPARATOR MIDDLE DOT, from Core Spec

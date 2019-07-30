@@ -1,8 +1,10 @@
 # Han
+00A5 # YEN SIGN
 00B7 # CNS 11643 0x2131, from Core Spec
 203C # DOUBLE EXCLAMATION MARK (Core Spec this is for vertical East Asian text)
 2048 # QUESTION EXCLAMATION MARK (Core Spec this is for vertical East Asian text)
 2049 # EXCLAMATION QUESTION MARK (Core Spec this is for vertical East Asian text)
+20E5 # For use with Counting Rod numerals, per Core Spec Ch. 22
 2215 # CNS 11643 0x2261, from Core Spec
 22EF # MIDLINE HORIZONTAL ELLIPSIS (Core Spec says popular in East Asian typography)
 2E80..2EFF # CJK Radicals Supplement block
@@ -14,7 +16,7 @@
 3012
 3013..301F # GETA MARK..LOW DOUBLE PRIME QUOTATION MARK
 3020
-3021..3029 # HANGZHOU NUMERAL ONE..HANGZHOU NUMERAL NINE
+3021..3029 # HANGZHOU NUMERAL ONE..HANGZHOU NUMERAL NINE per Core Spec Ch. 22
 #
 # Core Spec: "Older editions of the Chinese classics sometimes use the
 # ideographic tone marks (U+302A..U+302D) to indicate unusual pronunciations
@@ -24,7 +26,7 @@
 3030 # WAVY DASH
 3036
 3037 # IDEOGRAPHIC TELEGRAPH LINE FEED SEPARATOR SYMBOL
-3038..303A # HANGZHOU NUMERAL TEN..HANGZHOU NUMERAL THIRTY
+3038..303A # HANGZHOU NUMERAL TEN..HANGZHOU NUMERAL THIRTY per Core Spec Ch. 22
 303B # VERTICAL IDEOGRAPHIC ITERATION MARK
 303C..303F # MASU MARK..IDEOGRAPHIC HALF FILL SPACE
 30FB # KATAKANA MIDDLE DOT

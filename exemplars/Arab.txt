@@ -39,7 +39,9 @@ FE70..FEFE # Arabic Presentation Forms-B block, except for U+FEFF BOM
 2039..203A # SINGLE ANGLE QUOTATION MARKs, used as second-level quotation with U+00AB and U+00BB
 2044 # FRACTION SLASH
 204F # REVERSED SEMICOLON, used in Sindhi
+2212 # MINUS SIGN, specified in ISIRI 6219 for Persian
 2E41 # REVERSED COMMA, used in Sindhi
 102E0..102FF # Coptic Epact Numbers block, which are used in Arabic and Coptic text
 10E60..10E7F # Rumi Numeral Symbols block
 1EE00..1EEFF # Arabic Mathematical Alphabetic Symbols block
+# TODO: Should Siyaq be added?
