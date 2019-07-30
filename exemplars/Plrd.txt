@@ -1,0 +1,6 @@
+# Miao
+# TODO: Core Spec says "The Miao script employs a variety of punctuation
+# marks, both from the East Asian typographical tradition and from the
+# Western typographical tradition." Which ones?
+0030..0039 # ASCII digits, per Core Spec
+16F00..16F9F # Miao block

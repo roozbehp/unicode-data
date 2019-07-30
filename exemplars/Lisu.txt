@@ -1,0 +1,20 @@
+# Lisu
+0020 # SPACE per Core Spec
+0021 # EXCLAMATION MARK per Core Spec
+0022 # QUOTATION MARK per Core Spec
+0028..0029 # parentheses per Core Spec
+002C # COMMA per Core Spec
+002D # HYPHEN-MINUS per Core Spec
+002E # FULL STOP per Core Spec
+0030..0039 # ASCII digits, per Core Spec
+003A # COLON per Core Spec
+003B # SEMICOLON per Core Spec
+003F # QUESTION MARK per Core Spec
+00A0 # NO-BREAK SPACE
+02BD # MODIFIER LETTER APOSTROPHE per Core Spec
+02CD # MODIFIER LETTER LOW MACRON per Core Spec
+2010 # HYPHEN per Core Spec
+2011 # NON-BREAKING HYPHEN
+2026 # HORIZONTAL ELLIPSIS per Core Spec
+300A..300B # double angle brackets, per Core Spec
+A4D0..A4FF # Lisu block

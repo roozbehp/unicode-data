@@ -1,0 +1,3 @@
+# Nushu
+1B170..1B2FF # Nushu block
+16FE1 # NUSHU ITERATION MARK

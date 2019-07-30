@@ -1,0 +1,10 @@
+# Tangut
+# TODO: Core Spec says "In some cases, these single strokes are encoded as
+# components (U+18900..U+18909), but other single strokes may be represented
+# using the corresponding character from the CJK Strokes block instead."
+# Which ones?
+2FF0..2FFF # Ideographic Description Characters block
+16FE0 # TANGUT ITERATION MARK
+17000..187FF # Tangut block
+18800..18AFF # Tangut Components block
+18D00..18D8F # Tangut Supplement block

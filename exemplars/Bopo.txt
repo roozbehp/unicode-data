@@ -1,4 +1,18 @@
 # Bopomofo
+#
+# ASCII digits. Core Spec says "When using extended Bopomofo for Minnan and
+# Hakka, the tone marks may also be mixed with European digits 0–9 to
+# express changes in actual tonetic values resulting from juxtaposition of
+# basic tones."
+0030..0039
+#
+02C7 # per Core Spec
+02C9 # per Core Spec
+02CA # per Core Spec
+02CB # per Core Spec
+02D9 # per Core Spec
+02EA # per Core Spec
+02EB # per Core Spec
 3001..3003 # IDEOGRAPHIC COMMA..DITTO MARK
 3008..3011 # LEFT ANGLE BRACKET..RIGHT BLACK LENTICULAR BRACKET
 3013..301F # GETA MARK..LOW DOUBLE PRIME QUOTATION MARK
