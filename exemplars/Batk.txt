@@ -1,0 +1,2 @@
+# Batak
+1BC0..1BFF # Batak block

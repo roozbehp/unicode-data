@@ -1,0 +1,10 @@
+# Sundanese
+0020 # SPACE per Core Spec
+0022 # QUOTATION MARK per Core Spec
+002C # COMMA per Core Spec
+002E # FULL STOP per Core Spec
+003F # QUESTIION MARK per Core Spec
+00A0 # NO-BREAK SPACE
+1B80..1BBF # Sundanese block
+1CC0..1CCF # Sundanese Supplement block
+201C..201D # DOUBLE QUOTATION MARKs per Core Spec

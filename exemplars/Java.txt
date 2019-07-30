@@ -1,2 +1,3 @@
 # Javanese
+00A0 # NO-BREAK SPACE per Core Spec for carrying stand-alone U+A9BA
 A980..A9DF # Javanese block

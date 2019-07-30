@@ -1,3 +1,6 @@
 # Tagalog
 1700..171F # Tagalog block
+# Core Spec says Tagalog only uses U+1736, but both can be seen in
+# https://www.unicode.org/L2/L2019/19258r-baybayin-ra.pdf in the last figure
+# on page 24 and the figure on page 25
 1735..1736 # PHILIPPINE SINGLE PUNCTUATION..PHILIPPINE DOUBLE PUNCTUATION

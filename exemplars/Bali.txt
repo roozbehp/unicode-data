@@ -1,0 +1,2 @@
+# Balinese
+1B00..1B7F # Balinese block

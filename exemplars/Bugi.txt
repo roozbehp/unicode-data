@@ -1,3 +1,6 @@
 # Buginese
+0020 # SPACE per Core Spec
+00A0 # NO-BREAK SPACE
 1A00..1A1F # Buginese block
-A9CF # JAVANESE PANGRANGKEP
+200D # ZERO WIDTH JOINER per Core Spec
+A9CF # JAVANESE PANGRANGKEP per Core Spec
