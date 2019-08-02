@@ -3,14 +3,7 @@
 import collections
 import sys
 
-def range_to_codes(range_str):
-    if '..' in range_str:
-        start, end = range_str.split('..')
-    else:
-        start = end = range_str
-    start = int(start, 16)
-    end = int(end, 16)
-    return range(start, end+1)
+import common
 
 def script_set_to_key(script_set):
     return (len(script_set), ' '.join(sorted(script_set)))
@@ -63,17 +56,12 @@ for line in src_data:
         break
 
 codes_for_scripts = collections.defaultdict(set)
-for line in src_data:
-    if '#' in line:
-        line = line[:line.index('#')]
-    line = line.strip()
-    if not line:
-        continue
+for line in common.iterate_over_data(src_data):
     codes, scripts = line.split(';')
     codes = codes.strip()
     scripts = scripts.strip()
     
-    codes = range_to_codes(codes)
+    codes = common.range_to_codes(codes)
     scripts = frozenset(scripts.split(' '))
     codes_for_scripts[scripts].update(codes)
 
