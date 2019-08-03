@@ -5,24 +5,8 @@ import sys
 
 import common
 
-def script_set_to_key(script_set):
-    return (len(script_set), ' '.join(sorted(script_set)))
-
-def group_by_gc(codes):
-    codes = sorted(codes)
-    last_start = last_end = codes[0]
-    last_gc = gc[last_start]
-    for code in codes[1:]:
-        if code == last_end+1 and gc[code] == last_gc:
-            last_end = code
-        else:
-            yield (last_start, last_end, last_gc)
-            last_start = last_end = code
-            last_gc = gc[code]
-    yield (last_start, last_end, last_gc)
-
 def print_code_points(codes, scripts):
-    for start, end, category in group_by_gc(codes):
+    for start, end, category in common.group_by_gc(codes, gc):
         if start == end:
             range_str = '%04X' % start
             name_str = name[start]
@@ -66,7 +50,7 @@ for line in common.iterate_over_data(src_data):
     codes_for_scripts[scripts].update(codes)
 
 script_sets = codes_for_scripts.keys()
-script_sets.sort(key=script_set_to_key)
+script_sets.sort(key=common.script_set_to_sort_key)
 
 sys.stdout.write(''.join(header))
 for script_set in script_sets:
