@@ -1,5 +1,5 @@
 # ScriptExtensions-13.0.0.txt
-# Date: 2019-07-21, 01:23:00 GMT [RP]
+# Date: 2019-10-10, 17:09:00 GMT [RP]
 # © 2019 Unicode®, Inc.
 # Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
@@ -147,11 +147,10 @@
 
 # Script_Extensions=Arab Thaa
 
-0660..0669    ; Arab Thaa # Nd  [10] ARABIC-INDIC DIGIT ZERO..ARABIC-INDIC DIGIT NINE
 FDF2          ; Arab Thaa # Lo       ARABIC LIGATURE ALLAH ISOLATED FORM
 FDFD          ; Arab Thaa # So       ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM
 
-# Total code points: 12
+# Total code points: 2
 
 # ================================================
 
@@ -352,6 +351,14 @@ FF9E..FF9F    ; Hira Kana # Lm   [2] HALFWIDTH KATAKANA VOICED SOUND MARK..HALFW
 
 # ================================================
 
+# Script_Extensions=Arab Thaa Yezi
+
+0660..0669    ; Arab Thaa Yezi # Nd  [10] ARABIC-INDIC DIGIT ZERO..ARABIC-INDIC DIGIT NINE
+
+# Total code points: 10
+
+# ================================================
+
 # Script_Extensions=Beng Cakm Sylo
 
 09E6..09EF    ; Beng Cakm Sylo # Nd  [10] BENGALI DIGIT ZERO..BENGALI DIGIT NINE
@@ -409,16 +416,6 @@ A92E          ; Kali Latn Mymr # Po       KAYAH LI SIGN CWI
 
 # ================================================
 
-# Script_Extensions=Arab Rohg Syrc Thaa
-
-060C          ; Arab Rohg Syrc Thaa # Po       ARABIC COMMA
-061B          ; Arab Rohg Syrc Thaa # Po       ARABIC SEMICOLON
-061F          ; Arab Rohg Syrc Thaa # Po       ARABIC QUESTION MARK
-
-# Total code points: 3
-
-# ================================================
-
 # Script_Extensions=Beng Deva Gran Knda
 
 1CD0          ; Beng Deva Gran Knda # Mn       VEDIC TONE KARSHANA
@@ -441,6 +438,16 @@ A92E          ; Kali Latn Mymr # Po       KAYAH LI SIGN CWI
 0966..096F    ; Deva Dogr Kthi Mahj # Nd  [10] DEVANAGARI DIGIT ZERO..DEVANAGARI DIGIT NINE
 
 # Total code points: 10
+
+# ================================================
+
+# Script_Extensions=Arab Rohg Syrc Thaa Yezi
+
+060C          ; Arab Rohg Syrc Thaa Yezi # Po       ARABIC COMMA
+061B          ; Arab Rohg Syrc Thaa Yezi # Po       ARABIC SEMICOLON
+061F          ; Arab Rohg Syrc Thaa Yezi # Po       ARABIC QUESTION MARK
+
+# Total code points: 3
 
 # ================================================
 

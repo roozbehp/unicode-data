@@ -1,0 +1,10 @@
+# Yezidi
+0020 # SPACE, per examples in L2/19-051
+002E # FULL STOP, per examples in L2/19-051
+0030..0039 # ASCII digits, per L2/19-051
+00A0 # NO-BREAK SPACE
+060C # ARABIC COMMA, per L2/19-051
+061B # ARABIC SEMICOLON, per L2/19-051
+061F # ARABIC QUESTION MARK, per L2/19-051
+0660..0669 # Arabic-Indic digits, per L2/19-051
+10E80..10EBF # Yezidi block
