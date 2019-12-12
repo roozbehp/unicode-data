@@ -304,6 +304,14 @@ A8F3          ; Deva Taml # Lo       DEVANAGARI SIGN CANDRABINDU VIRAMA
 
 # ================================================
 
+# Script_Extensions=Hani Latn
+
+A700..A707    ; Hani Latn # Sk   [8] MODIFIER LETTER CHINESE TONE YIN PING..MODIFIER LETTER CHINESE TONE YANG RU
+
+# Total code points: 8
+
+# ================================================
+
 # Script_Extensions=Hira Kana
 
 3031..3035    ; Hira Kana # Lm   [5] VERTICAL KANA REPEAT MARK..VERTICAL KANA REPEAT MARK LOWER HALF

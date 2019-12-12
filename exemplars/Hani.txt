@@ -41,6 +41,7 @@
 33E0..33FE # IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY ONE..IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTY-ONE
 3400..4DBF # CJK Unified Ideographs Extension A block
 4E00..9FFF # CJK Unified Ideographs block
+A700..A707 # Tone marks shared between Latin and Han, per L2/04-107
 F900..FAFF # CJK Compatibility Ideographs block
 FE10..FE1F # Vertical Forms block. Core Spec says they're for Chinese
 FE30..FE4F # CJK Compatibility Forms block. Core Spec says for Chinese standard CNS 11643.
