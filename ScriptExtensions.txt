@@ -228,6 +228,14 @@ A66F          ; Cyrl Glag # Mn       COMBINING CYRILLIC VZMET
 
 # ================================================
 
+# Script_Extensions=Cyrl Syrc
+
+1DF8          ; Cyrl Syrc # Mn       COMBINING DOT ABOVE LEFT
+
+# Total code points: 1
+
+# ================================================
+
 # Script_Extensions=Deva Gran
 
 1CD3          ; Deva Gran # Po       VEDIC SIGN NIHSHVASA
