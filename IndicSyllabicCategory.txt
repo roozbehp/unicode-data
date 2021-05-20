@@ -975,9 +975,6 @@ ABD2..ABDA    ; Consonant # Lo   [9] MEETEI MAYEK LETTER GOK..MEETEI MAYEK LETTE
 # [Not derivable]
 
 17CC          ; Consonant_Succeeding_Repha # Mn       KHMER SIGN ROBAT
-1B03          ; Consonant_Succeeding_Repha # Mn       BALINESE SIGN SURANG
-1B81          ; Consonant_Succeeding_Repha # Mn       SUNDANESE SIGN PANGLAYAR
-A982          ; Consonant_Succeeding_Repha # Mn       JAVANESE SIGN LAYAR
 
 # ================================================
 
@@ -1043,11 +1040,14 @@ AA35..AA36    ; Consonant_Medial # Mn   [2] CHAM CONSONANT SIGN LA..CHAM CONSONA
 1939          ; Consonant_Final # Mn       LIMBU SIGN MUKPHRENG
 19C1..19C7    ; Consonant_Final # Lo   [7] NEW TAI LUE LETTER FINAL V..NEW TAI LUE LETTER FINAL B
 1A58..1A59    ; Consonant_Final # Mn   [2] TAI THAM SIGN MAI KANG LAI..TAI THAM CONSONANT SIGN FINAL NGA
+1B03          ; Consonant_Final # Mn       BALINESE SIGN SURANG
+1B81          ; Consonant_Final # Mn       SUNDANESE SIGN PANGLAYAR
 1BBE..1BBF    ; Consonant_Final # Lo   [2] SUNDANESE LETTER FINAL K..SUNDANESE LETTER FINAL M
 1BF0..1BF1    ; Consonant_Final # Mn   [2] BATAK CONSONANT SIGN NG..BATAK CONSONANT SIGN H
 1C2D..1C33    ; Consonant_Final # Mn   [7] LEPCHA CONSONANT SIGN K..LEPCHA CONSONANT SIGN T
 A94F..A951    ; Consonant_Final # Mn   [3] REJANG CONSONANT SIGN NG..REJANG CONSONANT SIGN R
 A952          ; Consonant_Final # Mc       REJANG CONSONANT SIGN H
+A982          ; Consonant_Final # Mn       JAVANESE SIGN LAYAR
 AA40..AA42    ; Consonant_Final # Lo   [3] CHAM LETTER FINAL K..CHAM LETTER FINAL NG
 AA43          ; Consonant_Final # Mn       CHAM CONSONANT SIGN FINAL NG
 AA44..AA4B    ; Consonant_Final # Lo   [8] CHAM LETTER FINAL CH..CHAM LETTER FINAL SS
