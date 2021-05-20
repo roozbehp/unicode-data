@@ -225,6 +225,7 @@ AAF5          ; Visarga # Mc       MEETEI MAYEK VOWEL SIGN VISARGA
 0ABC          ; Nukta # Mn       GUJARATI SIGN NUKTA
 0AFD..0AFF    ; Nukta # Mn   [3] GUJARATI SIGN THREE-DOT NUKTA ABOVE..GUJARATI SIGN TWO-CIRCLE NUKTA ABOVE
 0B3C          ; Nukta # Mn       ORIYA SIGN NUKTA
+0C3C          ; Nukta # Mn       TELUGU SIGN NUKTA
 0CBC          ; Nukta # Mn       KANNADA SIGN NUKTA
 0F39          ; Nukta # Mn       TIBETAN MARK TSA -PHRU
 1B34          ; Nukta # Mn       BALINESE SIGN REREKAN

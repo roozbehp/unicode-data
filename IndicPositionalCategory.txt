@@ -25,8 +25,8 @@
 #
 # In addition to combining marks associated with Indic scripts, the
 # Indic_Positional_Category has non-trivial values for special signs
-# associated with Indic_Syllabic_Category=Consonant_Prefixed or
-# Indic_Syllabic_Category=Consonant_Preceding_Repha. Those signs
+# associated with Indic_Syllabic_Category=Consonant_Prefixed
+# or Indic_Syllabic_Category=Consonant_Preceding_Repha. Those signs
 # have General_Category=Lo, rather than being combining marks.
 # They occur in initial position in syllabic structure. However, when
 # rendered, they appear as marks positioned with respect to another
@@ -602,6 +602,7 @@ ABE5          ; Top # Mn       MEETEI MAYEK VOWEL SIGN ANAP
 0B41..0B44    ; Bottom # Mn   [4] ORIYA VOWEL SIGN U..ORIYA VOWEL SIGN VOCALIC RR
 0B4D          ; Bottom # Mn       ORIYA SIGN VIRAMA
 0B62..0B63    ; Bottom # Mn   [2] ORIYA VOWEL SIGN VOCALIC L..ORIYA VOWEL SIGN VOCALIC LL
+0C3C          ; Bottom # Mn       TELUGU SIGN NUKTA
 0C56          ; Bottom # Mn       TELUGU AI LENGTH MARK
 0C62..0C63    ; Bottom # Mn   [2] TELUGU VOWEL SIGN VOCALIC L..TELUGU VOWEL SIGN VOCALIC LL
 0CBC          ; Bottom # Mn       KANNADA SIGN NUKTA
