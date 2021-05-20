@@ -128,6 +128,15 @@
 
 # ================================================
 
+# Script_Extensions=Arab Nkoo
+
+FD3E          ; Arab Nkoo # Pe       ORNATE LEFT PARENTHESIS
+FD3F          ; Arab Nkoo # Ps       ORNATE RIGHT PARENTHESIS
+
+# Total code points: 2
+
+# ================================================
+
 # Script_Extensions=Arab Rohg
 
 06D4          ; Arab Rohg # Po       ARABIC FULL STOP
@@ -449,15 +458,6 @@ A92E          ; Kali Latn Mymr # Po       KAYAH LI SIGN CWI
 
 # ================================================
 
-# Script_Extensions=Arab Rohg Syrc Thaa Yezi
-
-060C          ; Arab Rohg Syrc Thaa Yezi # Po       ARABIC COMMA
-061B          ; Arab Rohg Syrc Thaa Yezi # Po       ARABIC SEMICOLON
-
-# Total code points: 2
-
-# ================================================
-
 # Script_Extensions=Bopo Hang Hani Hira Kana
 
 3003          ; Bopo Hang Hani Hira Kana # Po       DITTO MARK
@@ -473,11 +473,12 @@ FE45..FE46    ; Bopo Hang Hani Hira Kana # Po   [2] SESAME DOT..WHITE SESAME DOT
 
 # ================================================
 
-# Script_Extensions=Adlm Arab Rohg Syrc Thaa Yezi
+# Script_Extensions=Arab Nkoo Rohg Syrc Thaa Yezi
 
-061F          ; Adlm Arab Rohg Syrc Thaa Yezi # Po       ARABIC QUESTION MARK
+060C          ; Arab Nkoo Rohg Syrc Thaa Yezi # Po       ARABIC COMMA
+061B          ; Arab Nkoo Rohg Syrc Thaa Yezi # Po       ARABIC SEMICOLON
 
-# Total code points: 1
+# Total code points: 2
 
 # ================================================
 
@@ -515,6 +516,14 @@ FF64..FF65    ; Bopo Hang Hani Hira Kana Yiii # Po   [2] HALFWIDTH IDEOGRAPHIC C
 # Script_Extensions=Deva Knda Mlym Orya Taml Telu
 
 1CDA          ; Deva Knda Mlym Orya Taml Telu # Mn       VEDIC TONE DOUBLE SVARITA
+
+# Total code points: 1
+
+# ================================================
+
+# Script_Extensions=Adlm Arab Nkoo Rohg Syrc Thaa Yezi
+
+061F          ; Adlm Arab Nkoo Rohg Syrc Thaa Yezi # Po       ARABIC QUESTION MARK
 
 # Total code points: 1
 
