@@ -453,9 +453,8 @@ A92E          ; Kali Latn Mymr # Po       KAYAH LI SIGN CWI
 
 060C          ; Arab Rohg Syrc Thaa Yezi # Po       ARABIC COMMA
 061B          ; Arab Rohg Syrc Thaa Yezi # Po       ARABIC SEMICOLON
-061F          ; Arab Rohg Syrc Thaa Yezi # Po       ARABIC QUESTION MARK
 
-# Total code points: 3
+# Total code points: 2
 
 # ================================================
 
@@ -471,6 +470,14 @@ A92E          ; Kali Latn Mymr # Po       KAYAH LI SIGN CWI
 FE45..FE46    ; Bopo Hang Hani Hira Kana # Po   [2] SESAME DOT..WHITE SESAME DOT
 
 # Total code points: 10
+
+# ================================================
+
+# Script_Extensions=Adlm Arab Rohg Syrc Thaa Yezi
+
+061F          ; Adlm Arab Rohg Syrc Thaa Yezi # Po       ARABIC QUESTION MARK
+
+# Total code points: 1
 
 # ================================================
 
