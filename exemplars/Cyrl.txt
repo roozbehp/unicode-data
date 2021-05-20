@@ -29,6 +29,7 @@
 1DF6..1DF9 # Typicon marks, from Core Spec Section 7.9 and NamesList
 2010..2011 # HYPHEN..NON-BREAKING HYPHEN
 20BD # RUBLE SIGN
+20C0 # SOM SIGN (Kyrgyzstani currency sign)
 # TODO: Core Spec says U+2116 is also used in East Asia. Where and how?
 2116 # NUMERO SIGN per Core Spec Section 22.2
 2DE0..2DFF # Cyrillic Extended-A block
