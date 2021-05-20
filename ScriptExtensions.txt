@@ -119,6 +119,14 @@
 
 # ================================================
 
+# Script_Extensions=Syrc
+
+1DFA          ; Syrc # Mn       COMBINING DOT BELOW LEFT
+
+# Total code points: 1
+
+# ================================================
+
 # Script_Extensions=Arab Copt
 
 102E0         ; Arab Copt # Mn       COPTIC EPACT THOUSANDS MARK
