@@ -29,6 +29,7 @@
 034F # COMBINING GRAPHEME JOINER per UTR #53
 0600..06FF # Arabic block
 0750..077F # Arabic Supplement block
+0870..089F # Arabic Extended-B block
 08A0..08FF # Arabic Extended-A block
 FB50..FDFF # Arabic Presentation Forms-A block
 FE70..FEFE # Arabic Presentation Forms-B block, except for U+FEFF BOM
