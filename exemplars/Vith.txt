@@ -1,0 +1,13 @@
+# Vithkuqi
+# https://www.unicode.org/L2/L2020/20187r2-n5138r2-vithkuqi.pdf says
+# "European digits and punctuation are used with Vithkuqi" but does not list
+# them. The punctuations full stop, comma, colon, hyphens, and parentheses
+# are seen in the examples, so going with those.
+0028..0029 # parentheses
+002C # COMMA
+002D # HYPHEN-MINUS
+002E # FULL STOP
+0030..0039 # ASCII digits, per https://www.unicode.org/L2/L2020/20187r2-n5138r2-vithkuqi.pdf
+003A # COLON
+2010 # HYPHEN
+10570..105BF # Vithkuqi block
