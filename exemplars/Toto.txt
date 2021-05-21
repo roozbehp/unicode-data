@@ -1,0 +1,9 @@
+# Toto
+0020 # SPACE
+002C # COMMA, per Figure 5 of https://www.unicode.org/L2/L2019/19330-toto-script.pdf
+002E # FULL STOP, per Figure 5 of https://www.unicode.org/L2/L2019/19330-toto-script.pdf
+003F # QUESTION MARK, per Figure 5 of https://www.unicode.org/L2/L2019/19330-toto-script.pdf
+00A0 # NO-BREAK SPACE
+02BC # MODIFIER LETTER APOSTROPHE, to match Devanagari, Bengali, etc (per https://www.unicode.org/L2/L2019/19330-toto-script.pdf)
+201C..201D # double quotation marks, per Figure 5 of https://www.unicode.org/L2/L2019/19330-toto-script.pdf
+1E290..1E2BF # Toto block
