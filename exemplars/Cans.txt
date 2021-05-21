@@ -4,3 +4,4 @@
 # Which ones?
 1400..167F # Unified Canadian Aboriginal Syllabics block
 18B0..18FF # Unified Canadian Aboriginal Syllabics Extended block
+11AB0..11ABF # Unified Canadian Aboriginal Syllabics Extended-A block
