@@ -90,6 +90,9 @@
 2E17 # DOUBLE OBLIQUE HYPHEN from https://www.unicode.org/L2/L2003/03338-n2647-doublehyphen.pdf
 2E1A # Core Spec Section 6.2 says it's used in German dictionaries
 2E1B # Core Spec Section 6.2 says it's used in German dictionaries
+2E53..2E54 # Medieval punctuation from https://www.unicode.org/L2/L2020/20270r-n5147r-medieval-punct.pdf
+2E55..2E5C # Phonetic marks from https://www.unicode.org/L2/L2021/21042-phonetic%20punct.pdf
+2E5D # Medieval punctuation, from https://www.unicode.org/L2/L2021/21036-n5152-oblique-hyphen.pdf
 A700..A71F # Modifier Tone Letters block, used for various phonetic schemes
 A720..A7FF # Latin Extended-D block
 AB30..AB6F # Latin Extended-E block
