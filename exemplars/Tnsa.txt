@@ -1,0 +1,13 @@
+# Tangsa
+#
+# In the samples provided in
+# https://www.unicode.org/L2/L2021/21027r-tangsa.pdf, we can see spaces,
+# full stops, commas, hyphens, and parentheses.
+0020 # SPACE
+0028..0029 # parentheses
+002C # COMMA
+002D # HYPHEN-MINUS
+002E # FULL STOP
+00A0 # NO-BREAK SPACE
+2010..2011 # HYPHENs
+16A70..16ACF # Tangsa block
