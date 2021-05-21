@@ -1,0 +1,3 @@
+# Cypro-Minoan
+10100..10101 # per https://www.unicode.org/L2/L2020/20154-n5135-cyprominoan.pdf
+12F90..12FFF # Cypro-Minoan block
