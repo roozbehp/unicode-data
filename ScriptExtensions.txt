@@ -1,5 +1,5 @@
 # ScriptExtensions-14.0.0.txt
-# Date: 2021-05-20, 03:53:00 GMT
+# Date: 2021-05-21, 01:54:00 GMT
 # © 2021 Unicode®, Inc.
 # Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
 # For terms of use, see http://www.unicode.org/terms_of_use.html
