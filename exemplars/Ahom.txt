@@ -1,4 +1,4 @@
 # Ahom
 0020 # SPACE per Core Spec
 00A0 # NO-BREAK SPACE
-11700..1173F # Ahom block
+11700..1174F # Ahom block
