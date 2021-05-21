@@ -7,3 +7,4 @@
 1380..139F # Ethiopic Supplement block
 2D80..2DDF # Ethiopic Extended block
 AB00..AB2F # Ethiopic Extended-A block
+1E7E0..1E7FF # Ethiopic Extended-B block
