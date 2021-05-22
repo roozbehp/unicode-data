@@ -304,7 +304,8 @@ A9C0          ; Virama # Mc       JAVANESE PANGKON
 0F84          ; Pure_Killer # Mn       TIBETAN MARK HALANTA
 103A          ; Pure_Killer # Mn       MYANMAR SIGN ASAT
 1714          ; Pure_Killer # Mn       TAGALOG SIGN VIRAMA
-1734          ; Pure_Killer # Mn       HANUNOO SIGN PAMUDPOD
+1715          ; Pure_Killer # Mc       TAGALOG SIGN PAMUDPOD
+1734          ; Pure_Killer # Mc       HANUNOO SIGN PAMUDPOD
 17D1          ; Pure_Killer # Mn       KHMER SIGN VIRIAM
 1A7A          ; Pure_Killer # Mn       TAI THAM SIGN RA HAAM
 1BAA          ; Pure_Killer # Mc       SUNDANESE SIGN PAMAAEH
