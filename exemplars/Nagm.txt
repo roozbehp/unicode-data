@@ -1,0 +1,14 @@
+# Nag Mundari
+0020 # SPACE, as seen in L2/21-031R
+0021 # EXCLAMATION MARK, per L2/21-031R
+0022 # QUOTATION MARK, per L2/21-031R
+0027 # APOSTROPHE, as see in L2/21-031R
+002C # COMMA, per L2/21-031R
+002D # HYPEN-MINUS, per L2/21-031R
+002E # FULL STOP, per L2/21-031R
+003F # QUESTION MARK, per L2/21-031R
+00A0 # NO-BREAK SPACE, since space is used
+2010 # HYPHEN, since HYPHEN-MINUS is used
+2018..2019 # single quotation marks, as seen in L2/21-031R
+201C..201D # double quotations marks, per L2/21-031R
+1E4D0..1E4FF # Nag Mundari block
