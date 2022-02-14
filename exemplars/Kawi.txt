@@ -1,0 +1,2 @@
+# Kawi
+11F00..11F5F # Kawi block
