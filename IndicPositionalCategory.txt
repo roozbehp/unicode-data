@@ -737,7 +737,7 @@ ABED          ; Bottom # Mn       MEETEI MAYEK APUN IYEK
 11D44         ; Bottom # Mn       MASARAM GONDI SIGN HALANTA
 11D47         ; Bottom # Mn       MASARAM GONDI RA-KARA
 11EF4         ; Bottom # Mn       MAKASAR VOWEL SIGN U
-11FE8..11F3A  ; Bottom # Mn   [3] KAWI VOWEL SIGN U..KAWI VOWEL SIGN VOCALIC R
+11F38..11F3A  ; Bottom # Mn   [3] KAWI VOWEL SIGN U..KAWI VOWEL SIGN VOCALIC R
 
 # Indic_Positional_Category=Top_And_Bottom
 
