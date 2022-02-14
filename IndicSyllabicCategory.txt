@@ -1195,6 +1195,7 @@ A8E0..A8F1    ; Cantillation_Mark # Mn  [18] COMBINING DEVANAGARI DIGIT ZERO..CO
 
 00B2..00B3    ; Syllable_Modifier # No   [2] SUPERSCRIPT TWO..SUPERSCRIPT THREE
 09FE          ; Syllable_Modifier # Mn       BENGALI SANDHI MARK
+0ECE          ; Syllable_Modifier # Mn       LAO YAMAKKAN
 0F35          ; Syllable_Modifier # Mn       TIBETAN MARK NGAS BZUNG NYI ZLA
 0F37          ; Syllable_Modifier # Mn       TIBETAN MARK NGAS BZUNG SGOR RTAGS
 0FC6          ; Syllable_Modifier # Mn       TIBETAN SYMBOL PADMA GDAN
