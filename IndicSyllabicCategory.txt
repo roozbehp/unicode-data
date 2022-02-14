@@ -421,6 +421,7 @@ ABD1          ; Vowel_Independent # Lo       MEETEI MAYEK LETTER ATIYA
 11103..11106  ; Vowel_Independent # Lo   [4] CHAKMA LETTER AA..CHAKMA LETTER E
 11183..11190  ; Vowel_Independent # Lo  [14] SHARADA LETTER A..SHARADA LETTER AU
 11200..11207  ; Vowel_Independent # Lo   [8] KHOJKI LETTER A..KHOJKI LETTER AU
+11240         ; Vowel_Independent # Lo       KHOJKI LETTER SHORT I
 11280..11283  ; Vowel_Independent # Lo   [4] MULTANI LETTER A..MULTANI LETTER E
 112B0..112B9  ; Vowel_Independent # Lo  [10] KHUDAWADI LETTER A..KHUDAWADI LETTER AU
 11305..1130C  ; Vowel_Independent # Lo   [8] GRANTHA LETTER A..GRANTHA LETTER VOCALIC L
