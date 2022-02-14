@@ -1,11 +1,11 @@
-# IndicPositionalCategory-14.0.0.txt
-# Date: 2021-05-22, 01:01:00 GMT [KW, RP]
+# IndicPositionalCategory-15.0.0.txt
+# Date: 2021-12-10, 23:49:00 GMT [KW, RP]
 # © 2021 Unicode®, Inc.
 # Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the U.S. and other countries.
-# For terms of use, see http://www.unicode.org/terms_of_use.html
+# For terms of use, see https://www.unicode.org/terms_of_use.html
 #
 # For documentation, see UAX #44: Unicode Character Database,
-# at http://www.unicode.org/reports/tr44/
+# at https://www.unicode.org/reports/tr44/
 #
 # This file defines the following property:
 #
@@ -68,7 +68,7 @@
 #
 # Ahom, Balinese, Batak, Bengali, Bhaiksuki, Brahmi, Buginese, Buhid,
 # Chakma, Cham, Devanagari, Dives Akuru, Dogra, Grantha, Gujarati,
-# Gunjala Gondi, Gurmukhi, Hanunoo, Javanese, Kaithi, Kannada,
+# Gunjala Gondi, Gurmukhi, Hanunoo, Javanese, Kaithi, Kannada, Kawi,
 # Kharoshthi, Khmer, Khojki, Khudawadi, Lao, Lepcha, Limbu, Makasar,
 # Malayalam, Marchen, Masaram Gondi, Meetei Mayek, Modi, Myanmar,
 # Nandinagari, Newa, New Tai Lue, Oriya, Rejang, Saurashtra, Sharada,
@@ -158,6 +158,7 @@
 0CBE          ; Right # Mc       KANNADA VOWEL SIGN AA
 0CC1..0CC4    ; Right # Mc   [4] KANNADA VOWEL SIGN U..KANNADA VOWEL SIGN VOCALIC RR
 0CD5..0CD6    ; Right # Mc   [2] KANNADA LENGTH MARK..KANNADA AI LENGTH MARK
+0CF3          ; Right # Mc       KANNADA SIGN COMBINING ANUSVARA ABOVE RIGHT
 0D02..0D03    ; Right # Mc   [2] MALAYALAM SIGN ANUSVARA..MALAYALAM SIGN VISARGA
 0D3E..0D40    ; Right # Mc   [3] MALAYALAM VOWEL SIGN AA..MALAYALAM VOWEL SIGN II
 0D41..0D42    ; Right # Mn   [2] MALAYALAM VOWEL SIGN U..MALAYALAM VOWEL SIGN UU
@@ -296,6 +297,9 @@ ABEC          ; Right # Mc       MEETEI MAYEK LUM IYEK
 11D93..11D94  ; Right # Mc   [2] GUNJALA GONDI VOWEL SIGN OO..GUNJALA GONDI VOWEL SIGN AU
 11D96         ; Right # Mc       GUNJALA GONDI SIGN VISARGA
 11EF6         ; Right # Mc       MAKASAR VOWEL SIGN O
+11F03         ; Right # Mc       KAWI SIGN VISARGA
+11F34..11F35  ; Right # Mc   [2] KAWI VOWEL SIGN AA..KAWI VOWEL SIGN ALTERNATE AA
+11F41         ; Right # Mc       KAWI SIGN KILLER
 
 # Indic_Positional_Category=Left
 
@@ -346,6 +350,7 @@ AAEE          ; Left # Mc       MEETEI MAYEK VOWEL SIGN AU
 119E4         ; Left # Mc       NANDINAGARI VOWEL SIGN PRISHTHAMATRA E
 11CB1         ; Left # Mc       MARCHEN VOWEL SIGN I
 11EF5         ; Left # Mc       MAKASAR VOWEL SIGN E
+11F3E..11F3F  ; Left # Mc   [2] KAWI VOWEL SIGN E..KAWI VOWEL SIGN AI
 
 # Indic_Positional_Category=Visual_Order_Left
 
@@ -388,7 +393,7 @@ AABB..AABC    ; Visual_Order_Left # Lo   [2] TAI VIET VOWEL AUE..TAI VIET VOWEL 
 093A          ; Top # Mn       DEVANAGARI VOWEL SIGN OE
 0945..0948    ; Top # Mn   [4] DEVANAGARI VOWEL SIGN CANDRA E..DEVANAGARI VOWEL SIGN AI
 0951          ; Top # Mn       DEVANAGARI STRESS SIGN UDATTA
-0953..0955    ; Top # Mn   [3] DEVANAGARI GRAVE ACCENT..DEVANAGARI VOWEL SIGN CANDRA LONG E
+0955          ; Top # Mn       DEVANAGARI VOWEL SIGN CANDRA LONG E
 0981          ; Top # Mn       BENGALI SIGN CANDRABINDU
 09FE          ; Top # Mn       BENGALI SANDHI MARK
 0A01..0A02    ; Top # Mn   [2] GURMUKHI SIGN ADAK BINDI..GURMUKHI SIGN BINDI
@@ -580,6 +585,10 @@ ABE5          ; Top # Mn       MEETEI MAYEK VOWEL SIGN ANAP
 11D90..11D91  ; Top # Mn   [2] GUNJALA GONDI VOWEL SIGN EE..GUNJALA GONDI VOWEL SIGN AI
 11D95         ; Top # Mn       GUNJALA GONDI SIGN ANUSVARA
 11EF3         ; Top # Mn       MAKASAR VOWEL SIGN I
+11F00..11F01  ; Top # Mn   [2] KAWI SIGN CANDRABINDU..KAWI SIGN ANUSVARA
+11F02         ; Top # Lo       KAWI SIGN REPHA
+11F36..11F37  ; Top # Mn   [2] KAWI VOWEL SIGN I..KAWI VOWEL SIGN II
+11F40         ; Top # Mn       KAWI VOWEL SIGN EU
 
 # Indic_Positional_Category=Bottom
 
@@ -728,6 +737,7 @@ ABED          ; Bottom # Mn       MEETEI MAYEK APUN IYEK
 11D44         ; Bottom # Mn       MASARAM GONDI SIGN HALANTA
 11D47         ; Bottom # Mn       MASARAM GONDI RA-KARA
 11EF4         ; Bottom # Mn       MAKASAR VOWEL SIGN U
+11FE8..11F3A  ; Bottom # Mn   [3] KAWI VOWEL SIGN U..KAWI VOWEL SIGN VOCALIC R
 
 # Indic_Positional_Category=Top_And_Bottom
 
