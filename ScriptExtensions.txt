@@ -136,20 +136,20 @@
 
 # ================================================
 
-# Script_Extensions=Arab Rohg
-
-06D4          ; Arab Rohg # Po       ARABIC FULL STOP
-
-# Total code points: 1
-
-# ================================================
-
 # Script_Extensions=Arab Nkoo
 
 FD3E          ; Arab Nkoo # Pe       ORNATE LEFT PARENTHESIS
 FD3F          ; Arab Nkoo # Ps       ORNATE RIGHT PARENTHESIS
 
 # Total code points: 2
+
+# ================================================
+
+# Script_Extensions=Arab Rohg
+
+06D4          ; Arab Rohg # Po       ARABIC FULL STOP
+
+# Total code points: 1
 
 # ================================================
 
