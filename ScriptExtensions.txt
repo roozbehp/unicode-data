@@ -572,16 +572,23 @@ FF64..FF65    ; Bopo Hang Hani Hira Kana Yiii # Po   [2] HALFWIDTH IDEOGRAPHIC C
 # Script_Extensions=Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Sind Takr Tirh
 
 A836..A837    ; Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Sind Takr Tirh # So   [2] NORTH INDIC QUARTER MARK..NORTH INDIC PLACEHOLDER MARK
-A838          ; Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Sind Takr Tirh # Sc       NORTH INDIC RUPEE MARK
 A839          ; Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Sind Takr Tirh # So       NORTH INDIC QUANTITY MARK
 
-# Total code points: 4
+# Total code points: 3
 
 # ================================================
 
 # Script_Extensions=Beng Deva Gran Gujr Guru Knda Latn Mlym Orya Taml Telu Tirh
 
 0952          ; Beng Deva Gran Gujr Guru Knda Latn Mlym Orya Taml Telu Tirh # Mn       DEVANAGARI STRESS SIGN ANUDATTA
+
+# Total code points: 1
+
+# ================================================
+
+# Script_Extensions=Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Shrd Sind Takr Tirh
+
+A838          ; Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Shrd Sind Takr Tirh # Sc       NORTH INDIC RUPEE MARK
 
 # Total code points: 1
 
@@ -595,17 +602,17 @@ A839          ; Deva Dogr Gujr Guru Khoj Kthi Mahj Modi Sind Takr Tirh # So     
 
 # ================================================
 
-# Script_Extensions=Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Modi Nand Sind Takr Tirh
+# Script_Extensions=Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Modi Nand Shrd Sind Takr Tirh
 
-A833..A835    ; Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Modi Nand Sind Takr Tirh # No   [3] NORTH INDIC FRACTION ONE SIXTEENTH..NORTH INDIC FRACTION THREE SIXTEENTHS
+A833..A835    ; Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Modi Nand Shrd Sind Takr Tirh # No   [3] NORTH INDIC FRACTION ONE SIXTEENTH..NORTH INDIC FRACTION THREE SIXTEENTHS
 
 # Total code points: 3
 
 # ================================================
 
-# Script_Extensions=Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Mlym Modi Nand Sind Takr Tirh
+# Script_Extensions=Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Mlym Modi Nand Shrd Sind Takr Tirh
 
-A830..A832    ; Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Mlym Modi Nand Sind Takr Tirh # No   [3] NORTH INDIC FRACTION ONE QUARTER..NORTH INDIC FRACTION THREE QUARTERS
+A830..A832    ; Deva Dogr Gujr Guru Khoj Knda Kthi Mahj Mlym Modi Nand Shrd Sind Takr Tirh # No   [3] NORTH INDIC FRACTION ONE QUARTER..NORTH INDIC FRACTION THREE QUARTERS
 
 # Total code points: 3
 
