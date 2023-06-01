@@ -14,7 +14,7 @@
 # Devanagri block, except for the two mis-encoded
 # characters U+0953 and U+0954
 0900..0952
-0954..097F
+0955..097F
 1CD0..1CF6
 1CF8..1CF9
 200C..200D # ZERO WIDTH NON-JOINER..ZERO WIDTH JOINER
