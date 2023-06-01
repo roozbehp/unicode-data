@@ -10,6 +10,7 @@
 003A # COLON
 003B # SEMICOLON
 003F # QUESTION MARK
+00A0 # NO-BREAK SPACE
 00F7 # Core Spec says used for ranges in Russian
 02B9
 02BC

@@ -1,6 +1,7 @@
 # Makasar
 0020 # SPACE per Core Spec
 0030..0039 # ASCII digits, per Core Spec
+00A0 # NO-BREAK SPACE
 # U+0600 and U+0601, although mentioned in Core Spec, are not included.
 # Looking at the proposal at http://unicode.org/L2/L2015/15233-makasar.pdf,
 # it's not clear that an example for U+0600 is indeed provided, and U+0601
