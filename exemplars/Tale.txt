@@ -2,5 +2,10 @@
 # TODO: Core Spec says "Both CJK punctuation and Western punctuation are used."
 # Which ones?
 0030..0039 # ASCII digits, per Core Spec
+0300 # COMBINING GRAVE ACCENT per Table 16-11 in Core Spec and L2/01-369
+0301 # COMBINING ACUTE ACCENT per Table 16-11 in Core Spec and L2/01-369
+0307 # COMBINING DOT ABOVE per Table 16-11 in Core Spec and L2/01-369
+0308 # COMBINING DIAERESIS per Table 16-11 in Core Spec and L2/01-369
+030C # COMBINING CARON per Table 16-11 in Core Spec and L2/01-369
 1040..1049 # MYANMAR DIGIT ZERO..MYANMAR DIGIT NINE per Core Spec
 1950..197F # Tai Le block
