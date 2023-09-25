@@ -57,7 +57,7 @@ FF61..FF65 # HALFWIDTH IDEOGRAPHIC FULL STOP..HALFWIDTH KATAKANA MIDDLE DOT
 2B740..2B81F # CJK Unified Ideographs Extension D block
 2B820..2CEAF # CJK Unified Ideographs Extension E block
 2CEB0..2EBEF # CJK Unified Ideographs Extension F block
-2EBF0..2EE5F # CJK Unified Ideographs Extension I
+2EBF0..2EE5F # CJK Unified Ideographs Extension I block
 2F800..2FA1F # CJK Compatibility Ideographs Supplement block
 30000..3134F # CJK Unified Ideographs Extension G block
 31350..323AF # CJK Unified Ideographs Extension H block
