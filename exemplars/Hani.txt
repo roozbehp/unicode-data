@@ -7,6 +7,7 @@
 20E5 # For use with Counting Rod numerals, per Core Spec Ch. 22
 2215 # CNS 11643 0x2261, from Core Spec
 22EF # MIDLINE HORIZONTAL ELLIPSIS (Core Spec says popular in East Asian typography)
+2E3A # TWO-EM DASH (Core Spec says used in Chinese typography)
 2E80..2EFF # CJK Radicals Supplement block
 2F00..2FDF # Kangxi Radicals block
 2FF0..2FFF # Ideographic Description Characters block
