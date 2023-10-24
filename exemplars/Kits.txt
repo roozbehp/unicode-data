@@ -1,0 +1,5 @@
+# Khitan Small Script
+0020 # SPACE
+00A0 # NO-BREAK SPACE
+16FE4 # KHITAN SMALL SCRIPT FILLER
+18B00..18CFF; Khitan Small Script
