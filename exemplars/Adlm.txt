@@ -1,8 +1,10 @@
 # Adlam
 # TODO: Core Spec and L2/14-219R say "Adlam uses European punctuation". Which ones?
+0020 # SPACE
 0021 # EXCLAMATION MARK, per L2/14-219R
 002D # HYPHEN-MINUS, per L2/14-219R, Figures 9, 10, and 15
 002E # FULL STOP, per L2/14-219R, Figure 8
+00A0 # NO-BREAK SPACE
 061F # ARABIC QUESTION MARK per Core Spec
 0640 # ARABIC TATWEEL
 2010 # HYPHEN, per L2/14-219R, Figures 9, 10, and 15
