@@ -23,7 +23,12 @@
 0345 # COMBINING GREEK YPOGEGRAMMENI
 0359 # COMBINING ASTERISK BELOW, see http://www.unicode.org/L2/L2003/03186r-comb-diac.pdf
 # Greek block, except for the Coptic letters at U+03E2..U+03EF
-# and the math symbols
+# and the math symbols.
+#
+# According to the Core Spec, the math symbols "[...] should be used only
+# in mathematical formulas—never in Greek text. If positional or other shape
+# differences are desired for these characters, they should be implemented
+# by a font or rendering engine."
 0370..03CF
 03D3..03D4
 03D6..03E1
