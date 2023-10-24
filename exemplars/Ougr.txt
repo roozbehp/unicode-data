@@ -1,5 +1,6 @@
 # Old Uyghur
 0020 # SPACE
 00A0 # NO-BREAK SPACE
+0640 # ARABIC TATWEEL, per L2/20-191
 10AF2 # per https://www.unicode.org/L2/L2020/20191-old-uyghur.pdf
 10F70..10FAF # Old Uyghur block
