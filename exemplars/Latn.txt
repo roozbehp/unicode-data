@@ -95,6 +95,8 @@
 2E1E..2E1F #used inf German dictionaries, from https://www.unicode.org/L2/L2007/07004-n3193-medieval-punct.pdf
 2E20..2E2C # Medievalist puncuation, from https://www.unicode.org/L2/L2007/07004-n3193-medieval-punct.pdf
 2E2E # REVERSED QUESTION MARK from https://www.unicode.org/L2/L2007/07004-n3193-medieval-punct.pdf
+2E32 # TURNED COMMA was used in Paleotype pre-IPA system, from https://www.unicode.org/L2/L2009/09425-n3740-turnedpunct.pdf
+2E35..2E39 # Characters from historical linguist pre-IPA systems, from https://www.unicode.org/L2/L2009/09425-n3740-turnedpunct.pdf
 2E53..2E54 # Medieval punctuation from https://www.unicode.org/L2/L2020/20270r-n5147r-medieval-punct.pdf
 2E55..2E5C # Phonetic marks from https://www.unicode.org/L2/L2021/21042-phonetic%20punct.pdf
 2E5D # Medieval punctuation, from https://www.unicode.org/L2/L2021/21036-n5152-oblique-hyphen.pdf
