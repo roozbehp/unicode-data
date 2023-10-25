@@ -26,6 +26,7 @@
 0400..04FF # Cyrillic block
 0500..052F # Cyrillic Supplement block
 1C80..1C8F # Cyrillic Extended-C block
+1D2B # CYRILLIC LETTER SMALL CAPITAL EL
 1D78 # MODIFIER LETTER CYRILLIC EN, from https://www.unicode.org/L2/L2003/03230r2-nuskhuri.pdf
 1DF6..1DF9 # Typicon marks, from Core Spec Section 7.9 and NamesList
 2010..2011 # HYPHEN..NON-BREAKING HYPHEN
