@@ -34,7 +34,12 @@
 03D6..03E1
 03F2..03F3
 03F7..03FF
+1D26..1D2A # Greek small caps in the Phonetic Extensions block
+1D5D..1D61 # Greek modifier letters in Phonetic Extensions block
+1D66..1D6A # Greek subscripts in Phonetic Extensions block
+1DBF # MODIFIER LETTER SMALL THETA
 1DC0..1DC1 # COMBINING DOTTED GRAVE ACCENT..COMBINING DOTTED ACUTE ACCENT
 1F00..1FFF # Greek Extended block
 2E0E..2E16 # Ancient Greek textual symbols
+AB65 # GREEK LETTER SMALL CAPITAL OMEGA
 10140..1018F # Ancient Greek Numbers block
