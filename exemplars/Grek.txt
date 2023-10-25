@@ -44,3 +44,4 @@
 2E0E..2E16 # Ancient Greek textual symbols
 AB65 # GREEK LETTER SMALL CAPITAL OMEGA
 10140..1018F # Ancient Greek Numbers block
+101A0 # GREEK SYMBOL TAU RHO
