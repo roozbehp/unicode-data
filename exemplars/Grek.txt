@@ -41,6 +41,8 @@
 1DC0..1DC1 # COMBINING DOTTED GRAVE ACCENT..COMBINING DOTTED ACUTE ACCENT
 1F00..1FFF # Greek Extended block
 2126 # OHM SIGN, since it's canonically equivalent to a capital omega
+2E00..2E0C # New Testament editorial symbols, from https://www.unicode.org/L2/L2003/03074r3-tlg-ntsigla.pdf
+#2E0D  ??? RIGHT RAISED OMISSION BRACKET : was added for a Latn usage, but core spec. only mentions "other editorial traditions"  
 2E0E..2E16 # Ancient Greek textual symbols
 AB65 # GREEK LETTER SMALL CAPITAL OMEGA
 10140..1018F # Ancient Greek Numbers block
