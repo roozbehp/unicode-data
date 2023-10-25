@@ -18,3 +18,4 @@
 2026 # HORIZONTAL ELLIPSIS per Core Spec
 300A..300B # double angle brackets, per Core Spec
 A4D0..A4FF # Lisu block
+11FB0..11FBF # Lisu Supplement block
