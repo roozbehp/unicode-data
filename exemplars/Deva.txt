@@ -24,6 +24,6 @@
 201C..201D # DOUBLE QUOTATION MARKs
 20B9 # INDIAN RUPEE SIGN
 20F0 # COMBINING ASTERISK ABOVE
-A380..A389 # North Indic fractions and symbols
+A830..A839 # North Indic fractions and symbols
 A8E0..A8FF # Devanagari Extended block
 11B00..11B5F # Devanagari Extended-A block
