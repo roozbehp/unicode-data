@@ -74,7 +74,7 @@
 # Myanmar, Nandinagari, Newa, New Tai Lue, Oriya, Rejang, Saurashtra,
 # Sharada, Siddham, Sinhala, Soyombo, Sundanese, Syloti Nagri,
 # Tagalog, Tagbanwa, Tai Tham, Tai Viet, Takri, Tamil, Telugu, Thai,
-# Tibetan, Tirhuta, and Zanabazar Square.
+# Tibetan, Tirhuta, Tulu-Tigalari, and Zanabazar Square.
 #
 # All characters for all other scripts not in that list
 # take the default value for this property.

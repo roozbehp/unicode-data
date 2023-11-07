@@ -43,8 +43,8 @@
 # Modi, Multani, Myanmar, Nandinagari, Newa, New Tai Lue, Oriya,
 # Phags-pa, Rejang, Saurashtra, Sharada, Siddham, Sinhala, Soyombo,
 # Sundanese, Syloti Nagri, Tagalog, Tagbanwa, Tai Le, Tai Tham,
-# Tai Viet, Takri, Tamil, Telugu, Thai, Tibetan, Tirhuta, and
-# Zanabazar Square.
+# Tai Viet, Takri, Tamil, Telugu, Thai, Tibetan, Tirhuta,
+# Tulu-Tigalari, and Zanabazar Square.
 #
 # All characters for all other scripts not in that list
 # take the default value for this property, unless they
