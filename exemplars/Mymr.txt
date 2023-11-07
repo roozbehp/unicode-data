@@ -6,3 +6,4 @@
 A92E # KAYAH LI SIGN CWI
 A9E0..A9FF # Myanmar Extended-B block
 AA60..AA7F # Myanmar Extended-A block
+116D0..116FF # Myanmar Extended-C block
