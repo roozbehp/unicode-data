@@ -1176,6 +1176,7 @@ ABEC          ; Tone_Mark # Mc       MEETEI MAYEK LUM IYEK
 0A71          ; Gemination_Mark # Mn       GURMUKHI ADDAK
 0AFB          ; Gemination_Mark # Mn       GUJARATI SIGN SHADDA
 11237         ; Gemination_Mark # Mn       KHOJKI SIGN SHADDA
+113D2         ; Gemination_Mark # Mn       TULU-TIGALARI GEMINATION MARK
 11A98         ; Gemination_Mark # Mn       SOYOMBO GEMINATION MARK
 
 # ================================================
