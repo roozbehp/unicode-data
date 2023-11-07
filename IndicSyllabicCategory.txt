@@ -253,6 +253,7 @@ A9B3          ; Nukta # Mn       JAVANESE SIGN CECAK TELU
 1183A         ; Nukta # Mn       DOGRA SIGN NUKTA
 11943         ; Nukta # Mn       DIVES AKURU SIGN NUKTA
 11D42         ; Nukta # Mn       MASARAM GONDI SIGN NUKTA
+11F5A         ; Nukta # Mn       KAWI SIGN NUKTA
 
 # ================================================
 

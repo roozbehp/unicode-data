@@ -603,6 +603,7 @@ ABE5          ; Top # Mn       MEETEI MAYEK VOWEL SIGN ANAP
 11F02         ; Top # Lo       KAWI SIGN REPHA
 11F36..11F37  ; Top # Mn   [2] KAWI VOWEL SIGN I..KAWI VOWEL SIGN II
 11F40         ; Top # Mn       KAWI VOWEL SIGN EU
+11F5A         ; Top # Mn       KAWI SIGN NUKTA
 
 # Indic_Positional_Category=Bottom
 
