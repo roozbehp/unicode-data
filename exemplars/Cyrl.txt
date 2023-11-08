@@ -16,6 +16,9 @@
 02BC
 0300
 0301
+# U+0302 is used in Serbian per CLDR, and in Polish and Lithuanian
+# according to Russian Wikipedia: https://ru.wikipedia.org/wiki/%D0%9E%CC%82_(%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D1%86%D0%B0)
+0302
 0304
 0306
 0308
