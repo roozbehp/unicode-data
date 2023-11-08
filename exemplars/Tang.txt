@@ -4,6 +4,7 @@
 # using the corresponding character from the CJK Strokes block instead."
 # Which ones?
 2FF0..2FFF # Ideographic Description Characters block
+31EF # IDEOGRAPHIC DESCRIPTION CHARACTER SUBTRACTION
 16FE0 # TANGUT ITERATION MARK
 17000..187FF # Tangut block
 18800..18AFF # Tangut Components block
