@@ -1,5 +1,15 @@
 # Cherokee
 # TODO: Core Spec says "Cherokee uses standard Latin punctuation." Which ones?
 0030..0039 # ASCII digits per Core Spec
+0300 # per https://www.unicode.org/L2/L2014/14064r-n4537r-cherokee.pdf
+0301 # per https://www.unicode.org/L2/L2014/14064r-n4537r-cherokee.pdf
+0302 # per https://www.unicode.org/L2/L2014/14064r-n4537r-cherokee.pdf
+0304 # per https://www.unicode.org/L2/L2014/14064r-n4537r-cherokee.pdf
+030B # per https://www.unicode.org/L2/L2014/14064r-n4537r-cherokee.pdf
+030C # per https://www.unicode.org/L2/L2014/14064r-n4537r-cherokee.pdf
+0323 # per https://www.unicode.org/L2/L2014/14064r-n4537r-cherokee.pdf
+0324 # per https://www.unicode.org/L2/L2014/14064r-n4537r-cherokee.pdf
+0330 # per https://www.unicode.org/L2/L2014/14064r-n4537r-cherokee.pdf
+0331 # per https://www.unicode.org/L2/L2014/14064r-n4537r-cherokee.pdf
 13A0..13FF # Cherokee block
 AB70..ABBF # Cherokee Supplement block
