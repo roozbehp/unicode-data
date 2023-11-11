@@ -2,9 +2,9 @@
 # TODO: Core Spec says "[it] makes use of Western punctuation." Which ones?
 0020 # SPACE per Core Spec
 00A0 # NO-BREAK SPACE
-0302 # per Core Spec
-0304 # per Core Spec
-0307 # per Core Spec
-0309 # per Core Spec
+0302 # COMBINING CIRCUMFLEX ACCENT, per Core Spec and L2/10-270
+0304 # COMBINING MACRON, per Core Spec
+0307 # COMBINING DOT ABOVE, per Core Spec
+0309 # COMBINING HOOK ABOVE, per Core Spec
 200D # ZERO WIDTH JOINER per Core Spec
 2D30..2D7F # Tifinagh block
