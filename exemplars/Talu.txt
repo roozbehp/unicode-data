@@ -1,2 +1,4 @@
 # New Tai Lue
+# TODO: https://r12a.github.io/scripts/talu/khb.html#inline lists
+# some fullwidth punctuation, but says "needs to be checked".
 1980..19DF # New Tai Lue block
