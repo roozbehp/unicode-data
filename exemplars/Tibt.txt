@@ -3,3 +3,4 @@
 00A0 # NO-BREAK SPACE per Core Spec
 0F00..0FFF # Tibetan block
 2638 # WHEEL OF DHARMA per Core Spec
+3008..300B # single and double angle brackets, per L2/23-272

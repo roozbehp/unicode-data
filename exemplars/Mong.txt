@@ -10,8 +10,10 @@
 203C # DOUBLE EXCLAMATION MARK (Core Spec says this is for vertical Mongolian text)
 2048 # QUESTION EXCLAMATION MARK (Core Spec says this is for vertical Mongolian text)
 2049 # EXCLAMATION QUESTION MARK (Core Spec says this is for vertical Mongolian text)
-3001 # IDEOGRAPHIC COMMA for Todo and Sibe per Core Spec
-3002 # IDEOGRAPHIC FULL STOP for Todo and Sibe per Core Spec
-300A # LEFT DOUBLE ANGLE BRACKET for Todo and Sibe per Core Spec
-300B # RIGHT DOUBLE ANGLE BRACKET for Todo and Sibe per Core Spec
+3001 # IDEOGRAPHIC COMMA for Todo and Sibe per Core Spec and L2/23-272
+3002 # IDEOGRAPHIC FULL STOP for Todo and Sibe per Core Spec and L2/23-272
+3008 # LEFT ANGLE BRACKET per L2/23-272
+3009 # RIGHT ANGLE BRACKET per L2/23-272
+300A # LEFT DOUBLE ANGLE BRACKET for Todo and Sibe per Core Spec and L2/23-272
+300B # RIGHT DOUBLE ANGLE BRACKET for Todo and Sibe per Core Spec L2/23-272
 11660..1167F # Mongolian Supplement block
