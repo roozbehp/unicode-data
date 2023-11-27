@@ -38,6 +38,8 @@
 # TODO: Core Spec says U+2116 is also used in East Asia. Where and how?
 2116 # NUMERO SIGN per Core Spec Section 22.2
 2DE0..2DFF # Cyrillic Extended-A block
+2E2B # ONE DOT OVER TWO DOTS PUNCTUATION used in Old Slavonic, from from https://www.unicode.org/L2/L2007/07004-n3193-medieval-punct.pdf
+2E2D # FIVE DOT MARK used in Old Slavonic, from https://www.unicode.org/L2/L2007/07004-n3193-medieval-punct.pdf
 2E43 # DASH WITH LEFT UPTURN
 A640..A69F # Cyrillic Extended-B block
 FE2E # COMBINING CYRILLIC TITLO LEFT HALF
